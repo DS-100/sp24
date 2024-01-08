@@ -1,1 +1,1 @@
-Data 100 Fall 2023 Website
+Data 100 Spring 2024 Website
