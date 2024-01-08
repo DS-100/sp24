@@ -1,0 +1,166 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+
+@import 'variables';
+@import 'announcement';
+@import 'module';
+@import 'schedule';
+@import 'staffer';
+
+// Overrides
+@media (min-width: 66.5rem) {
+  .side-bar { width: 248px !important}
+  .main { margin-left: 264px !important;}
+}
+
+@media (min-width: 50rem) {
+  .main { max-width: 100% !important;}
+
+  .site-header {
+    max-height: 150px !important;
+    height: 100% !important;
+  }
+
+  .search-input {
+    font-size: 0.9em !important;
+  }
+
+}
+
+@media (max-width: 50rem) {
+  .site-logo {
+    margin-left: 60px !important;
+    height: 60px !important;
+  }
+}
+
+.aux-nav {
+  font-size: 0.9em !important;
+}
+
+.site-logo {
+  background-position: center !important;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.site-footer {
+  color: #000000
+}
+
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+details {
+  @extend .mb-4;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+
+  width: 100%;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+a {
+  color: $blue-100;
+}
+
+.logo {
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: normal;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+}
+
+.pronouns {
+  font-weight: bold !important;
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  padding-right: 0.56em;
+
+  font-size: 0.8em;
+
+  text-transform: uppercase;
+  vertical-align: middle;
+  border-radius: 12px;
+
+  background-color: #ecebed;
+}
+
+.team {
+  font-weight: bold !important;
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  padding-right: 0.56em;
+
+  font-size: 0.8em;
+
+  vertical-align: middle;
+  border-radius: 6px;
+
+}
+
+.label-Head {
+  background-color: #3D348B;
+  color: white;
+}
+
+.btn-datahub {
+  @include btn-color($white, #FF8C00);
+}
+
+.btn-ed {
+  @include btn-color($white, #9400D3);
+}
+
+.btn-gradescope {
+  @include btn-color($white, #228B22);
+}
+
+.btn-youtube {
+  @include btn-color($white, #FF0000);
+}
