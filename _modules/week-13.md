@@ -2,13 +2,20 @@
 title: Week 13
 ---
 
-Nov 14
-: **Lecture 24**{: .label .label-lecture } Guest Lecture on Large Language Models
-: **Discussion 12**{: .label .label-disc } Logistic Regression
+Apr 8
+: **Discussion 11**{: .label .label-disc } SQL
 
-Nov 16
-: **Lecture 25**{: .label .label-lecture} PCA I
+Apr 9
+: **Lecture 23**{: .label .label-lecture} Logistic Regression I
+    : [Note 22](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html)
+: **Lecture Participation 23**{: .label .label-survey } Lecture Participation 23
 
-Nov 17
-: **Lab 12**{: .label .label-lab } Inference (due Nov 21)
-: **Project B2**{: .label .label-hw } Spam and Ham II (due Nov 30)
+Apr 11
+: **Lecture 24**{: .label .label-lecture} Logistic Regression II
+    : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
+: **Lecture Participation 24**{: .label .label-survey } Lecture Participation 24
+
+
+Apr 12
+: **Lab 11**{: .label .label-lab }  Logistic Regression (due Sep 12)
+: **Project B1**{: .label .label-hw } Spam & Ham I (due XXX)

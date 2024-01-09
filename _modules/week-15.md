@@ -2,12 +2,18 @@
 title: Week 15
 ---
 
-Nov 28
-: **Lecture 27**{: .label .label-lecture } KMeans Clustering
+Apr 22
 : **Discussion 13**{: .label .label-disc } PCA
 
-Nov 30
-: **Lecture 28**{: .label .label-lecture} Closing
+Apr 23
+: **Lecture 27**{: .label .label-lecture} KMeans Clustering
+    : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
+: **Lecture Participation 27**{: .label .label-survey } Lecture Participation 27
 
-Dec 1
-: **Lab 14**{: .label .label-lab } Clustering (due Dec 5)
+Apr 25
+: **Lecture 28**{: .label .label-lecture} Guest + closing
+: **Lecture Participation 28**{: .label .label-survey } Lecture Participation 28
+
+
+Apr 26
+: **Lab 13**{: .label .label-lab } Clustering (due Sep 12)

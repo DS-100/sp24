@@ -2,12 +2,20 @@
 title: Week 14
 ---
 
-Nov 21
-: **Lecture 26**{: .label .label-lecture } PCA II
-: **Discussion**{: .label .label-disc } No Discussion (Thanksgiving)
+Apr 15
+: **Discussion 12**{: .label .label-disc } Logistic Regression
 
-Nov 23
-: **Lecture**{: .label .label-lecture} No Lecture (Thanksgiving)
+Apr 16
+: **Lecture 25**{: .label .label-lecture} PCA I
+    : [Note 24](https://ds100.org/course-notes/pca_1/pca_1.html)
+: **Lecture Participation 25**{: .label .label-survey } Lecture Participation 25
 
-Nov 24
-: **Lab 13**{: .label .label-lab } PCA (due Nov 28)
+Apr 18
+: **Lecture 26**{: .label .label-lecture} PCA II
+    : [Note 25](https://ds100.org/course-notes/pca_2/pca_2.html)
+: **Lecture Participation 26**{: .label .label-survey } Lecture Participation 26
+
+
+Apr 19
+: **Lab 12**{: .label .label-lab } PCA (due Sep 12)
+: **Project B2**{: .label .label-hw } Spam & Ham II (due XXX)
