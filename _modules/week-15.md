@@ -16,4 +16,4 @@ Apr 25
 
 
 Apr 26
-: **Lab 13**{: .label .label-lab } Clustering (due FIXME!!!)
+: **Lab 13**{: .label .label-lab } Clustering (due **FIXME!!!**)
