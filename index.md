@@ -32,7 +32,9 @@ UC Berkeley, Spring 2024
 
 {: .highlight }
 
-> Welcome to [Week 12](#week-{{page.currWeekNumber}}) of Data 100!
+> Course website is currently under construction.
+
+<!-- > Welcome to [Week 12](#week-{{page.currWeekNumber}}) of Data 100! -->
 
 <a name="schedule"></a>
 
