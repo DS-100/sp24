@@ -13,6 +13,6 @@ Jan 18
 : **Lecture Participation 2**{: .label .label-survey } Lecture Participation 2
 
 Jan 19
-: **Lab 1**{: .label .label-lab } Prerequisite Coding (due Aug 29)
+: **Lab 1**{: .label .label-lab } Prerequisite Coding (due Jan 23)
 : **Homework 1**{: .label .label-hw } Prerequisite Math (due Jan 25)
 

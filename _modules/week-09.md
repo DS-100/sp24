@@ -17,5 +17,5 @@ Mar 14
 
 
 Mar 15
-: **Lab 8**{: .label .label-lab }  Model Selection (due Sep 12)
-: **Project A2**{: .label .label-hw } Housing II (due XXX)
+: **Lab 8**{: .label .label-lab }  Model Selection (due Mar 19)
+: **Project A2**{: .label .label-hw } Housing II (due Mar 21)

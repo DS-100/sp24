@@ -16,5 +16,5 @@ Jan 25
 : **Lecture Participation 4**{: .label .label-survey } Lecture Participation 4
 
 Jan 26
-: **Lab 2A**{: .label .label-lab } Pandas (due Sep 5)
-: **Homework 2A**{: .label .label-hw } Food Safety (due Sep 7)
+: **Lab 2A**{: .label .label-lab } Pandas (due Jan 30)
+: **Homework 2A**{: .label .label-hw } Food Safety (due Feb 1)

@@ -17,5 +17,5 @@ Apr 18
 
 
 Apr 19
-: **Lab 12**{: .label .label-lab } PCA (due Sep 12)
-: **Project B2**{: .label .label-hw } Spam & Ham II (due XXX)
+: **Lab 12**{: .label .label-lab } PCA (due Apr 23)
+: **Project B2**{: .label .label-hw } Spam & Ham II (due Apr 25)

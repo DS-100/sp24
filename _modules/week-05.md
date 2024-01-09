@@ -16,5 +16,5 @@ Feb 15
 : **Lecture Participation 10**{: .label .label-survey } Lecture Participation 10
 
 Feb 16
-: **Lab 4**{: .label .label-lab } Transformations (due Sep 12)
-: **Homework 3**{: .label .label-hw } Bike Sharing (due Sep 14)
+: **Lab 4**{: .label .label-lab } Transformations (due Feb 20)
+: **Homework 3**{: .label .label-hw } Bike Sharing (due Feb 22)

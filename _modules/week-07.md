@@ -17,5 +17,5 @@ Feb 29
 
 
 Mar 1
-: **Lab 6**{: .label .label-lab }  OLS (due Sep 12)
-: **Homework 6**{: .label .label-hw } Regression (due XXX)
+: **Lab 6**{: .label .label-lab }  OLS (due Mar 5)
+: **Homework 6**{: .label .label-hw } Regression (due Mar 7)

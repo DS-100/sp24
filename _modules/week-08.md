@@ -16,5 +16,5 @@ Mar 7
 
 
 Mar 8
-: **Lab 7**{: .label .label-lab }  Gradient descent and Sklearn (due Sep 12)
-: **Project A1**{: .label .label-hw } Housing I (due XXX)
+: **Lab 7**{: .label .label-lab }  Gradient descent and Sklearn (due Mar 12)
+: **Project A1**{: .label .label-hw } Housing I (due Mar 14)

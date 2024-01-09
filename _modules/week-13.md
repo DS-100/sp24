@@ -17,5 +17,5 @@ Apr 11
 
 
 Apr 12
-: **Lab 11**{: .label .label-lab }  Logistic Regression (due Sep 12)
-: **Project B1**{: .label .label-hw } Spam & Ham I (due XXX)
+: **Lab 11**{: .label .label-lab }  Logistic Regression (due Apr 16)
+: **Project B1**{: .label .label-hw } Spam & Ham I (due Apr 18)

@@ -17,5 +17,5 @@ Feb 1
 
 
 Feb 2
-: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
-: **Homework 2B**{: .label .label-hw } Food Safety II (due Sep 14)
+: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Feb 6)
+: **Homework 2B**{: .label .label-hw } Food Safety II (due Feb 8)
