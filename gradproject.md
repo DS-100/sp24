@@ -2,7 +2,7 @@
 layout: page
 title: Graduate Project
 nav_order: 3
-nav_exclude: false
+nav_exclude: true # FIXME: graduate project specs under construction
 description: Specifications for the grad project for Data 200.
 markdown: kramdown
 ---
