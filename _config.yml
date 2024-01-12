@@ -16,7 +16,7 @@
 title: Data 100
 description: Principles and Techniques of Data Science
 author: Dominic Liu, Mihran Miroyan
-baseurl: '/sp24' # the subpath of your site, e.g. /blog
+baseurl: '/sp24-testing' # the subpath of your site, e.g. /blog
 url: 'https://ds100.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'resources/assets/favicon/panda-logo.png'
 
