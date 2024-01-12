@@ -6,12 +6,10 @@ Feb 19
 
 Feb 20
 : **Lecture 11**{: .label .label-lecture} Constant model, Loss, and Transformations
-    : [Note 11](https://ds100.org/course-notes/constant_model_loss_transformations/constant_model_loss_transformations.html)
 : **Lecture Participation 11**{: .label .label-survey } Lecture Participation 11
 
 Feb 22
 : **Lecture 12**{: .label .label-lecture} OLS (Multiple Regression)
-    : [Note 12](https://ds100.org/course-notes/ols/ols.html)
 : **Lecture Participation 12**{: .label .label-survey } Lecture Participation 12
 
 

@@ -7,12 +7,10 @@ Apr 1
 
 Apr 2
 : **Lecture 21**{: .label .label-lecture} SQL I
-    : [Note 20](https://ds100.org/course-notes/sql_I/sql_I.html)
 : **Lecture Participation 21**{: .label .label-survey } Lecture Participation 21
 
 Apr 4
 : **Lecture 22**{: .label .label-lecture} SQL II and Cloud Data
-    : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 22**{: .label .label-survey } Lecture Participation 22
 
 

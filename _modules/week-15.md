@@ -7,7 +7,6 @@ Apr 22
 
 Apr 23
 : **Lecture 27**{: .label .label-lecture} KMeans Clustering
-    : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
 : **Lecture Participation 27**{: .label .label-survey } Lecture Participation 27
 
 Apr 25
@@ -16,4 +15,4 @@ Apr 25
 
 
 Apr 26
-: **Lab 13**{: .label .label-lab } Clustering (due **FIXME!!!**)
+: **Lab 13**{: .label .label-lab } Clustering (due Apr 30)

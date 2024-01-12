@@ -204,70 +204,70 @@
   },"29": {
     "doc": "Home / Schedule",
     "title": "Week 1",
-    "content": "Jan 16 Lecture 1 Introduction Note 1 Lecture Participation 1 Lecture Participation 1 Jan 18 Lecture 2 Pandas I Note 2 Lecture Participation 2 Lecture Participation 2 Jan 19 Lab 1 Prerequisite Coding (due Jan 23) Homework 1 Prerequisite Math (due Jan 25) ",
+    "content": "Jan 16 Lecture 1 Introduction Lecture Participation 1 Lecture Participation 1 Jan 18 Lecture 2 Pandas I Lecture Participation 2 Lecture Participation 2 Jan 19 Lab 1 Prerequisite Coding (due Jan 23) Homework 1 Prerequisite Math (due Jan 25) ",
     "url": "/sp24-testing/#week-1",
     
     "relUrl": "/#week-1"
   },"30": {
     "doc": "Home / Schedule",
     "title": "Week 2",
-    "content": "Jan 22 Discussion 1 Prerequisites Jan 23 Lecture 3 Pandas II Note 3 Lecture Participation 3 Lecture Participation 3 Jan 25 Lecture 4 Pandas III Note 4 Lecture Participation 4 Lecture Participation 4 Jan 26 Lab 2A Pandas (due Jan 30) Homework 2A Food Safety (due Feb 1) ",
+    "content": "Jan 22 Discussion 1 Prerequisites Jan 23 Lecture 3 Pandas II Lecture Participation 3 Lecture Participation 3 Jan 25 Lecture 4 Pandas III Lecture Participation 4 Lecture Participation 4 Jan 26 Lab 2A Pandas (due Jan 30) Homework 2A Food Safety (due Feb 1) ",
     "url": "/sp24-testing/#week-2",
     
     "relUrl": "/#week-2"
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 3",
-    "content": "Jan 29 Discussion 2 Pandas I Jan 30 Lecture 5 Data Cleaning and EDA Note 5 Lecture Participation 5 Lecture Participation 5 Feb 1 Lecture 6 Regex (and finish EDA) Note 6 Lecture Participation 6 Lecture Participation 6 Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
+    "content": "Jan 29 Discussion 2 Pandas I Jan 30 Lecture 5 Data Cleaning and EDA Lecture Participation 5 Lecture Participation 5 Feb 1 Lecture 6 Regex (and finish EDA) Lecture Participation 6 Lecture Participation 6 Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
     "url": "/sp24-testing/#week-3",
     
     "relUrl": "/#week-3"
   },"32": {
     "doc": "Home / Schedule",
     "title": "Week 4",
-    "content": "Feb 5 Discussion 3 Pandas II, EDA Feb 6 Lecture 7 Visualization I Note 7 Lecture Participation 7 Lecture Participation 7 Feb 8 Lecture 8 Visualization I Note 8 Lecture Participation 8 Lecture Participation 8 Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
+    "content": "Feb 5 Discussion 3 Pandas II, EDA Feb 6 Lecture 7 Visualization I Lecture Participation 7 Lecture Participation 7 Feb 8 Lecture 8 Visualization I Lecture Participation 8 Lecture Participation 8 Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
     "url": "/sp24-testing/#week-4",
     
     "relUrl": "/#week-4"
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "Feb 12 Discussion 4 Regex, Visualization, and Transformation Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Feb 15 Lecture 10 Modeling, SLR Note 10 Lecture Participation 10 Lecture Participation 10 Feb 16 Lab 4 Transformations (due Feb 20) Homework 3 Bike Sharing (due Feb 22) ",
+    "content": "Feb 12 Discussion 4 Regex, Visualization, and Transformation Feb 13 Lecture 9 Sampling Lecture Participation 9 Lecture Participation 9 Feb 15 Lecture 10 Modeling, SLR Lecture Participation 10 Lecture Participation 10 Feb 16 Lab 4 Transformations (due Feb 20) Homework 3 Bike Sharing (due Feb 22) ",
     "url": "/sp24-testing/#week-5",
     
     "relUrl": "/#week-5"
   },"34": {
     "doc": "Home / Schedule",
     "title": "Week 6",
-    "content": "Feb 19 Discussion 5 Probability, Sampling, and Visualization Feb 20 Lecture 11 Constant model, Loss, and Transformations Note 11 Lecture Participation 11 Lecture Participation 11 Feb 22 Lecture 12 OLS (Multiple Regression) Note 12 Lecture Participation 12 Lecture Participation 12 Feb 23 Lab 5 Modeling, Summary Statistics, and Loss Functions (due Feb 27) Homework 5 Modeling (due Feb 29) ",
+    "content": "Feb 19 Discussion 5 Probability, Sampling, and Visualization Feb 20 Lecture 11 Constant model, Loss, and Transformations Lecture Participation 11 Lecture Participation 11 Feb 22 Lecture 12 OLS (Multiple Regression) Lecture Participation 12 Lecture Participation 12 Feb 23 Lab 5 Modeling, Summary Statistics, and Loss Functions (due Feb 27) Homework 5 Modeling (due Feb 29) ",
     "url": "/sp24-testing/#week-6",
     
     "relUrl": "/#week-6"
   },"35": {
     "doc": "Home / Schedule",
     "title": "Week 7",
-    "content": "Feb 26 Discussion 6 Probability, Sampling, and Visualization Feb 27 Lecture 13 Gradient descent / sklearn Note 13, Note 14 Lecture Participation 13 Lecture Participation 13 Feb 29 Lecture 14 Feature Engineering Note 14 Lecture Participation 14 Lecture Participation 14 Mar 1 Lab 6 OLS (due Mar 5) Homework 6 Regression (due Mar 7) ",
+    "content": "Feb 26 Discussion 6 Probability, Sampling, and Visualization Feb 27 Lecture 13 Gradient descent / sklearn Lecture Participation 13 Lecture Participation 13 Feb 29 Lecture 14 Feature Engineering Lecture Participation 14 Lecture Participation 14 Mar 1 Lab 6 OLS (due Mar 5) Homework 6 Regression (due Mar 7) ",
     "url": "/sp24-testing/#week-7",
     
     "relUrl": "/#week-7"
   },"36": {
     "doc": "Home / Schedule",
     "title": "Week 8",
-    "content": "Mar 4 Discussion 7 Probability, Sampling, and Visualization Mar 5 Lecture 15 Guest Lecture - TBD Lecture Participation 15 Lecture Participation 15 Mar 7 Lecture 16 Case Study (HCE): CCAO Note 15 Lecture Participation 16 Lecture Participation 16 Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
+    "content": "Mar 4 Discussion 7 Probability, Sampling, and Visualization Mar 5 Lecture 15 Guest Lecture - TBD Lecture Participation 15 Lecture Participation 15 Mar 7 Lecture 16 Case Study (HCE): CCAO Lecture Participation 16 Lecture Participation 16 Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
     "url": "/sp24-testing/#week-8",
     
     "relUrl": "/#week-8"
   },"37": {
     "doc": "Home / Schedule",
     "title": "Week 9",
-    "content": "Mar 11 Discussion 8 Feature Engineering, Housing Mar 12 Lecture 17 Cross-Validation and Regularization Note 16 Lecture Participation 17 Lecture Participation 17 Mar 14 Lecture 18 Random Variables Note 17 Lecture Participation 18 Lecture Participation 18 Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
+    "content": "Mar 11 Discussion 8 Feature Engineering, Housing Mar 12 Lecture 17 Cross-Validation and Regularization Lecture Participation 17 Lecture Participation 17 Mar 14 Lecture 18 Random Variables Lecture Participation 18 Lecture Participation 18 Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
     "url": "/sp24-testing/#week-9",
     
     "relUrl": "/#week-9"
   },"38": {
     "doc": "Home / Schedule",
     "title": "Week 10",
-    "content": "Mar 18 Discussion 9 Cross-Validation and Regularization Mar 19 Lecture 19 Estimators, Bias, and Variance Note 18 Lecture Participation 19 Lecture Participation 19 Mar 21 Lecture 20 Causal Inference and Confounding Note 19 Lecture Participation 20 Lecture Participation 20 Mar 22 Lab 9 Probability (due Apr 2) Homework 7 Probability (due Apr 4) ",
+    "content": "Mar 18 Discussion 9 Cross-Validation and Regularization Mar 19 Lecture 19 Estimators, Bias, and Variance Lecture Participation 19 Lecture Participation 19 Mar 21 Lecture 20 Causal Inference and Confounding Lecture Participation 20 Lecture Participation 20 Mar 22 Lab 9 Probability (due Apr 2) Homework 7 Probability (due Apr 4) ",
     "url": "/sp24-testing/#week-10",
     
     "relUrl": "/#week-10"
@@ -281,28 +281,28 @@
   },"40": {
     "doc": "Home / Schedule",
     "title": "Week 12",
-    "content": "Apr 1 Discussion 10 RVs, Bias, and Variance Apr 2 Lecture 21 SQL I Note 20 Lecture Participation 21 Lecture Participation 21 Apr 4 Lecture 22 SQL II and Cloud Data Note 21 Lecture Participation 22 Lecture Participation 22 Apr 5 Lab 10 SQL (due Apr 9) Homework 8 SQL (due Apr 11) ",
+    "content": "Apr 1 Discussion 10 RVs, Bias, and Variance Apr 2 Lecture 21 SQL I Lecture Participation 21 Lecture Participation 21 Apr 4 Lecture 22 SQL II and Cloud Data Lecture Participation 22 Lecture Participation 22 Apr 5 Lab 10 SQL (due Apr 9) Homework 8 SQL (due Apr 11) ",
     "url": "/sp24-testing/#week-12",
     
     "relUrl": "/#week-12"
   },"41": {
     "doc": "Home / Schedule",
     "title": "Week 13",
-    "content": "Apr 8 Discussion 11 SQL Apr 9 Lecture 23 Logistic Regression I Note 22 Lecture Participation 23 Lecture Participation 23 Apr 11 Lecture 24 Logistic Regression II Note 23 Lecture Participation 24 Lecture Participation 24 Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
+    "content": "Apr 8 Discussion 11 SQL Apr 9 Lecture 23 Logistic Regression I Lecture Participation 23 Lecture Participation 23 Apr 11 Lecture 24 Logistic Regression II Lecture Participation 24 Lecture Participation 24 Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
     "url": "/sp24-testing/#week-13",
     
     "relUrl": "/#week-13"
   },"42": {
     "doc": "Home / Schedule",
     "title": "Week 14",
-    "content": "Apr 15 Discussion 12 Logistic Regression Apr 16 Lecture 25 PCA I Note 24 Lecture Participation 25 Lecture Participation 25 Apr 18 Lecture 26 PCA II Note 25 Lecture Participation 26 Lecture Participation 26 Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
+    "content": "Apr 15 Discussion 12 Logistic Regression Apr 16 Lecture 25 PCA I Lecture Participation 25 Lecture Participation 25 Apr 18 Lecture 26 PCA II Lecture Participation 26 Lecture Participation 26 Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
     "url": "/sp24-testing/#week-14",
     
     "relUrl": "/#week-14"
   },"43": {
     "doc": "Home / Schedule",
     "title": "Week 15",
-    "content": "Apr 22 Discussion 13 PCA Apr 23 Lecture 27 KMeans Clustering Note 26 Lecture Participation 27 Lecture Participation 27 Apr 25 Lecture 28 Guest + closing Lecture Participation 28 Lecture Participation 28 Apr 26 Lab 13 Clustering (due FIXME!!!) ",
+    "content": "Apr 22 Discussion 13 PCA Apr 23 Lecture 27 KMeans Clustering Lecture Participation 27 Lecture Participation 27 Apr 25 Lecture 28 Guest + closing Lecture Participation 28 Lecture Participation 28 Apr 26 Lab 13 Clustering (due Apr 30) ",
     "url": "/sp24-testing/#week-15",
     
     "relUrl": "/#week-15"

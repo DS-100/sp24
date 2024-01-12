@@ -7,12 +7,10 @@ Feb 12
 
 Feb 13
 : **Lecture 9**{: .label .label-lecture} Sampling
-    : [Note 9](https://ds100.org/course-notes/sampling/sampling.html)
 : **Lecture Participation 9**{: .label .label-survey } Lecture Participation 9
 
 Feb 15
 : **Lecture 10**{: .label .label-lecture} Modeling, SLR
-    : [Note 10](https://ds100.org/course-notes/intro_to_modeling/intro_to_modeling.html)
 : **Lecture Participation 10**{: .label .label-survey } Lecture Participation 10
 
 Feb 16

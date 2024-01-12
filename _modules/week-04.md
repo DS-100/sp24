@@ -7,12 +7,10 @@ Feb 5
 
 Feb 6
 : **Lecture 7**{: .label .label-lecture} Visualization I
-    : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 : **Lecture Participation 7**{: .label .label-survey } Lecture Participation 7
 
 Feb 8
 : **Lecture 8**{: .label .label-lecture} Visualization I
-    : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 : **Lecture Participation 8**{: .label .label-survey } Lecture Participation 8
 
 

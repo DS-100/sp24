@@ -11,7 +11,6 @@ Mar 5
 
 Mar 7
 : **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
-    : [Note 15](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
 : **Lecture Participation 16**{: .label .label-survey } Lecture Participation 16
 
 
