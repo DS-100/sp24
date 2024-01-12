@@ -192,7 +192,8 @@ As the primary academic support service for undergraduates at UC Berkeley, the [
 
 The [Educational Opportunity Program](http://eop.berkeley.edu/) (EOP, Cesar Chavez Student Center 119; 510-642-7224) at Cal has provided first generation and low income college students with the guidance and resources necessary to succeed at the best public university in the world. EOP’s individualized academic counseling, support services, and extensive campus referral network help students develop the unique gifts and talents they each bring to the university while empowering them to achieve.
 
-Students can access device lending options through the Student Technology Equity Program ([STEP](https://studenttech.berkeley.edu/devicelending)) program.
+Students can access device lending options through the Student Technology Equity Program [STEP](https://studenttech.berkeley.edu/devicelending) program.
+
 
 ### For mental well-being
 {:.no_toc}
