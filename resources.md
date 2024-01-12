@@ -21,7 +21,8 @@ Alongside each lecture are supplementary [Course Notes](https://ds100.org/course
 Lecture notes will be updated on a weekly basis, prior to the lecture. If you spot any errors or would like to suggest any changes, please email us at data100.instructors@berkeley.edu.
 
 ## Optional Supplementary Textbook
-Alongside each lecture are optional textbook readings to the Data 100 textbook, [Principles and Techniques of Data Science](https://www.textbook.ds100.org/). Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).
+Alongside each lecture are optional textbook readings to the Data 100 textbook, [Principles and Techniques of Data Science](https://learningds.org/intro.html).  
+Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).  If you find issues with the textbook, email Prof. Gonzalez directly.
 
 
 ## Exam Resources
