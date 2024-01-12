@@ -74,7 +74,7 @@ def main():
                 + 'role: ' + attributes['role'] + '\n'
                 + 'email: ' + attributes['email'] + '\n'
                 + 'website: ' + attributes['website'] + '\n'
-                + 'photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
+                + 'photo: http://ds100.org/sp24/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
                 + 'pronouns: ' + attributes['pronouns'] + '\n'
                 # + 'oh: ' + attributes['oh'] + '\n'
                 + '---\n'
@@ -85,7 +85,7 @@ def main():
                 + 'role: ' + attributes['role'] + '\n'
                 + 'email: ' + attributes['email'] + '\n'
                 + 'website: ' + attributes['website'] + '\n'
-                + 'photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
+                + 'photo: http://ds100.org/sp24/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
                 + 'pronouns: ' + attributes['pronouns'] + '\n'
                 + '---\n'
                 + attributes['bio'] + '\n')
