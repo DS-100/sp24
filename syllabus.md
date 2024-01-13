@@ -124,19 +124,20 @@ There are 2 live **lectures** held on Tuesdays and Thursdays, 11:00am-12:30pm, h
 
 
 ### Discussion
-Live **discussion sections** are one hour long, held on Tuesdays or Wednesdays. The goal of these GSI/UCS2-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
+Live **discussion sections** are one hour long, and held on Tuesdays or Wednesdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-- Discussion attendance will be recorded each week and account for 5% of the overall grade. Discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
-- Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
-- Online sections are reserved for students with specific needs, e.g., DSP, Data 200S, etc.; these can be requested through the Welcome Form.
-- All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them.
-- This semester we are offering an alternative grading scheme which shifts the discussion attendance weight (5%) onto the midterm (2.5%) and final (2.5%) scores.
-  - Discussion sections start in the second week of class. For the first discussion, you can attend any of the offered sections.
-  - You will be requested to choose the grading scheme in the second week of class (after the first discussion). If you opt for the graded discussion attendance option, you will get assigned a section based on your discussion time preferences collected through the pre-semester survey.
-  - Students are not permitted to switch between the two grading schemes once  finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
+This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will have the flexibility to attend any of the offered sections for the first discussion. Following the first discussion, students will be asked to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
 
+- Graded Discussion Attendance Option: Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
+    - Online sections are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
+    - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them.
+- Ungraded Discussion Attendance Option: Instead, the 5% discussion weight will be redistributed, with 2.5% added to both the midterm and final scores. 
+
+Students are not permitted to switch between the two grading schemes once  finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
+
+Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
 ### Homework and Projects
 
