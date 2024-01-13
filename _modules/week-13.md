@@ -2,12 +2,11 @@
 title: Week 13
 ---
 
-Apr 8
-: **Discussion 11**{: .label .label-disc } SQL
 
 Apr 9
 : **Lecture 23**{: .label .label-lecture} Logistic Regression I
 : **Lecture Participation 23**{: .label .label-survey } Lecture Participation 23
+: **Discussion 11**{: .label .label-disc } SQL
 
 Apr 11
 : **Lecture 24**{: .label .label-lecture} Logistic Regression II

@@ -2,12 +2,10 @@
 title: Week 8
 ---
 
-Mar 4
-: **Discussion 7**{: .label .label-disc } Probability, Sampling, and Visualization
-
 Mar 5
 : **Lecture 15**{: .label .label-lecture} Guest Lecture - TBD
 : **Lecture Participation 15**{: .label .label-survey } Lecture Participation 15
+: **Discussion 7**{: .label .label-disc } Probability, Sampling, and Visualization
 
 Mar 7
 : **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO

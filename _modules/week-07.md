@@ -2,12 +2,10 @@
 title: Week 7
 ---
 
-Feb 26
-: **Discussion 6**{: .label .label-disc } Probability, Sampling, and Visualization
-
 Feb 27
 : **Lecture 13**{: .label .label-lecture} Gradient descent / sklearn
 : **Lecture Participation 13**{: .label .label-survey } Lecture Participation 13
+: **Discussion 6**{: .label .label-disc } Probability, Sampling, and Visualization
 
 Feb 29
 : **Lecture 14**{: .label .label-lecture} Feature Engineering

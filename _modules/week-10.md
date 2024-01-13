@@ -2,12 +2,11 @@
 title: Week 10
 ---
 
-Mar 18
-: **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
 Mar 19
 : **Lecture 19**{: .label .label-lecture} Estimators, Bias, and Variance
 : **Lecture Participation 19**{: .label .label-survey } Lecture Participation 19
+: **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
 Mar 21
 : **Lecture 20**{: .label .label-lecture} Causal Inference and Confounding

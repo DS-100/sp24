@@ -2,12 +2,11 @@
 title: Week 15
 ---
 
-Apr 22
-: **Discussion 13**{: .label .label-disc } PCA
 
 Apr 23
 : **Lecture 27**{: .label .label-lecture} KMeans Clustering
 : **Lecture Participation 27**{: .label .label-survey } Lecture Participation 27
+: **Discussion 13**{: .label .label-disc } PCA
 
 Apr 25
 : **Lecture 28**{: .label .label-lecture} Guest + closing

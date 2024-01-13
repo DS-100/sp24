@@ -2,12 +2,10 @@
 title: Week 4
 ---
 
-Feb 5
-: **Discussion 3**{: .label .label-disc } Pandas II, EDA
-
 Feb 6
 : **Lecture 7**{: .label .label-lecture} Visualization I
 : **Lecture Participation 7**{: .label .label-survey } Lecture Participation 7
+: **Discussion 3**{: .label .label-disc } Pandas II, EDA
 
 Feb 8
 : **Lecture 8**{: .label .label-lecture} Visualization I
