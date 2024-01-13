@@ -27,7 +27,7 @@ Textbook readings are purely supplementary, and may contain material that is not
 
 ## Exam Resources
 
-| Semester | Midterm (1) | Midterm 2  | Final | Reference Sheet |
+| Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
 |Fall 2023| [Exam](https://drive.google.com/file/d/1DsZXh-VXsQPJBCGuOo7xX0zxBX5IiY7a/view?usp=sharing){:target="_blank"} [(Solutions)](https://drive.google.com/file/d/1On1Bwxah5OKyh_Or7G3FuZxyPEIDaF53/view?usp=sharing){:target="_blank"} | | | [Midterm](assets/exams/fa23/fa23_mt_reference_sheet.pdf) | 
 |Summer 2023| [Exam](assets/exams/su23/su23_mt.pdf) [(Solutions)](assets/exams/su23/su23_mt_sol.pdf) | | [Exam](assets/exams/su23/su23_final.pdf) [(Solutions)](assets/exams/su23/su23_final_sol.pdf)| [Midterm](assets/exams/su23/su23_mt_reference_sheet.pdf), [Final](assets/exams/su23/su23_final_reference_sheet.pdf)|
