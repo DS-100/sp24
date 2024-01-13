@@ -207,7 +207,8 @@ Ed is your primary platform for asking questions about the class. It is monitore
 | Final Exam | 30% | 32.5% | 30% | - | |
 | Graduate Final Project| - | - | 15% | 30% | |
 
-*Note: It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.*
+{: .important}
+> It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
 
 While we do not have homework and lab drops this semester, we will offer a grace period for homeworks/projects/labs, as well as an [Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A). See the next sections for more details.
 
