@@ -4,13 +4,10 @@ title: Week 4
 
 Feb 6
 : **Lecture 7**{: .label .label-lecture} Visualization I
-: **Lecture Participation 7**{: .label .label-survey } Lecture Participation 7
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA
 
 Feb 8
 : **Lecture 8**{: .label .label-lecture} Visualization I
-: **Lecture Participation 8**{: .label .label-survey } Lecture Participation 8
-
 
 Feb 9
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Feb 13)

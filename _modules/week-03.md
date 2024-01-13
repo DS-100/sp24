@@ -4,12 +4,10 @@ title: Week 3
 
 Jan 30
 : **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
-: **Lecture Participation 5**{: .label .label-survey } Lecture Participation 5
 : **Discussion 2**{: .label .label-disc } Pandas I
 
 Feb 1
 : **Lecture 6**{: .label .label-lecture} Regex (and finish EDA)
-: **Lecture Participation 6**{: .label .label-survey } Lecture Participation 6
 
 
 Feb 2

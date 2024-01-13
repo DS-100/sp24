@@ -5,12 +5,10 @@ title: Week 2
 
 Jan 23
 : **Lecture 3**{: .label .label-lecture} Pandas II
-: **Lecture Participation 3**{: .label .label-survey } Lecture Participation 3
 : **Discussion 1**{: .label .label-disc } Prerequisites
 
 Jan 25
 : **Lecture 4**{: .label .label-lecture } Pandas III
-: **Lecture Participation 4**{: .label .label-survey } Lecture Participation 4
 
 Jan 26
 : **Lab 2A**{: .label .label-lab } Pandas (due Jan 30)

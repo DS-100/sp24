@@ -5,13 +5,10 @@ title: Week 15
 
 Apr 23
 : **Lecture 27**{: .label .label-lecture} KMeans Clustering
-: **Lecture Participation 27**{: .label .label-survey } Lecture Participation 27
 : **Discussion 13**{: .label .label-disc } PCA
 
 Apr 25
 : **Lecture 28**{: .label .label-lecture} Guest + closing
-: **Lecture Participation 28**{: .label .label-survey } Lecture Participation 28
-
 
 Apr 26
 : **Lab 13**{: .label .label-lab } Clustering (due Apr 30)
