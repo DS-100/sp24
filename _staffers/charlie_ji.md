@@ -1,6 +1,6 @@
 ---
 name: Charlie Ji
-role: UCS2
+role: Lead Teaching Assistant 12
 email: charliechengjieji@berkeley.edu
 website: https://charliejcj.github.io/
 photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Charlie_Ji.png

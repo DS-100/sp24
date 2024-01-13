@@ -1,6 +1,7 @@
 ---
 name: Mir Miroyan
 role: Other
+team: Head TA
 email: miroyan.mihran@berkeley.edu
 website:
 photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Mir_Miroyan.jpg

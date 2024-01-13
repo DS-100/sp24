@@ -1,6 +1,6 @@
 ---
 name: Jessica Hsu
-role: UCS2
+role: UCS2 12
 email: jessh459@berkeley.edu
 website:
 photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Jessica_Hsu.png

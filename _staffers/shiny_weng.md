@@ -1,6 +1,7 @@
 ---
 name: Shiny Weng
 role: Other
+team: Head TA
 email: shinyweng@berkeley.edu
 website:
 photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Shiny_Weng.jpg
