@@ -63,7 +63,8 @@ become part of the history of Data 100 at Berkeley.
 
 ## Coding and Mathematics Resources
 
-This section is currently under construction -- we will be adding more resources down below!
+{: .note }
+> This section is currently under construction -- we will be adding more resources down below!
 
 #### Pandas
 
