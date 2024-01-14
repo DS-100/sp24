@@ -3,7 +3,7 @@ name: Rayna Bhattacharyya
 role: UCS1
 email: rayna_b@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Rayna_Bhattacharyya.jpg
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Rayna_Bhattacharyya.jpg
 pronouns: She/Her/Hers
 ---
 

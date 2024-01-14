@@ -3,7 +3,7 @@ name: Pragnay Nevatia
 role: UCS2 12
 email: pragnaynevatia@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Pragnay_Nevatia.jpeg
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Pragnay_Nevatia.jpeg
 pronouns: He/Him/His
 ---
 

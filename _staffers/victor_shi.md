@@ -3,7 +3,7 @@ name: Victor Shi
 role: UCS1
 email: victor.shi@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Victor_Shi.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Victor_Shi.png
 pronouns: He/Him/His
 ---
 

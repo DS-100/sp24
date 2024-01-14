@@ -3,7 +3,7 @@ name: Ishani Gupta
 role: Lead Teaching Assistant
 email: ishani@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Ishani_Gupta.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Ishani_Gupta.png
 pronouns: She/Her/Hers
 ---
 

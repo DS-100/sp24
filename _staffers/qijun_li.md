@@ -3,7 +3,7 @@ name: Qijun Li
 role: UCS1
 email: qijun.li@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Qijun_Li.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Qijun_Li.png
 pronouns: She/Her/Hers
 ---
 

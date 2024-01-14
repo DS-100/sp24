@@ -3,7 +3,7 @@ name: Angela Feng
 role: Lead Teaching Assistant
 email: anfeng2@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Angela_Feng.jpg
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Angela_Feng.jpg
 pronouns: She/Her/Hers
 ---
 

@@ -3,7 +3,7 @@ name: Nikhil Reddy
 role: UCS1
 email: nsreddy@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Nikhil_Reddy.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Nikhil_Reddy.png
 pronouns: He/Him/His
 ---
 

@@ -3,7 +3,7 @@ name: Julianna Lee
 role: UCS1
 email: juliannalee@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Julianna_Lee.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Julianna_Lee.png
 pronouns: She/Her/Hers
 ---
 

@@ -3,7 +3,7 @@ name: Malavikha Sudarshan
 role: UCS1
 email: malavikhasudarshan@berkeley.edu
 website: https://www.linkedin.com/in/malavikha-sudarshan/
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Malavikha_Sudarshan.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Malavikha_Sudarshan.png
 pronouns: She/Her/Hers
 ---
 

@@ -3,7 +3,7 @@ name: Nehal Sindhu
 role: UCS1
 email: nehalsindhu@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Nehal_Sindhu.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Nehal_Sindhu.png
 pronouns: She/Her/Hers
 ---
 

@@ -17,9 +17,9 @@ UC Berkeley, Spring 2024
 
 [Ed](https://edstem.org/us/courses/51810/discussion/){:target="\_blank" .btn .btn-ed .mr-1 }
 [Datahub](http://data100.datahub.berkeley.edu/){:target="\_blank" .btn .btn-datahub .mr-1 }
-<!-- [Gradescope](https://www.gradescope.com/courses/564792){:target="\_blank" .btn .btn-gradescope .mr-1 }
-[Lectures Playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfr24xMKf9uY3Nclj2gX0CQD&si=OopnvW3jasaYWx6W){:target="\_blank" .btn .btn-youtube .mr-1}
-[Extenuating Circumstances](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="\_blank" .btn .btn-blue .mr-1 } -->
+[Gradescope](https://www.gradescope.com/courses/696886){:target="\_blank" .btn .btn-gradescope .mr-1 }
+[Extenuating Circumstances](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="\_blank" .btn .btn-blue .mr-1 }
+<!-- [Lectures Playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfr24xMKf9uY3Nclj2gX0CQD&si=OopnvW3jasaYWx6W){:target="\_blank" .btn .btn-youtube .mr-1} -->
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

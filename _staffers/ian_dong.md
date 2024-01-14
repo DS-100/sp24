@@ -3,7 +3,7 @@ name: Ian Dong
 role: UCS1
 email: ihdong@berkeley.edu
 website: https://ianhdong.github.io/
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Ian_Dong.jpg
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Ian_Dong.jpg
 pronouns: He/Him/His
 ---
 

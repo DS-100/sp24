@@ -3,7 +3,7 @@ name: Chetan Goenka
 role: UCS1
 email: cgoenka@berkeley.edu
 website:
-photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Chetan_Goenka.png
+photo: http://ds100.org/sp24/resources/assets/staff_pics/Chetan_Goenka.png
 pronouns: He/Him/His
 ---
 
