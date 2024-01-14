@@ -2,7 +2,7 @@
 name: Brandon Huang
 role: UCS2
 email: dunmingbrandonhuang@berkeley.edu
-website: bransthre.github.io
+website: https://bransthre.github.io
 photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/Brandon_Huang.png
 pronouns: He/Him/His
 ---
