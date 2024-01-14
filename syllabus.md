@@ -71,7 +71,8 @@ Bear in mind that diversity has many facets, some of which are not visible. Your
 ### Be Respectful
 Beyond the slips that many of us make unintentionally are a host of behaviors that the course staff, department, and university do not tolerate. These are generally classified under the term harassment; sexual harassment is a specific form that is governed by federal laws known as Title IX.
 
-UC Berkeley’s [Title IX website](https://ophd.berkeley.edu/){:target="_blank"} provides many resources for understanding the terms, procedures, and policies around harassment. Make sure you are aware enough of these issues to avoid crossing a line in your interactions with other students. For example, repeatedly asking another student out on a date after they have said no can cross this line.
+{: .note }
+> UC Berkeley’s [**Title IX website**](https://ophd.berkeley.edu/){:target="_blank"} provides many resources for understanding the terms, procedures, and policies around harassment. Make sure you are aware enough of these issues to avoid crossing a line in your interactions with other students. For example, repeatedly asking another student out on a date after they have said no can cross this line.
 
 Your reaction to this topic might be to laugh it off, or to make or think snide remarks about “political correctness” or jokes about consent or other things. You might think people just need to grow a thicker skin or learn to take a joke. This isn’t your decision to make. Research shows the consequences (emotional as well as physical) on people who experience harassment. When your behavior forces another student to focus on something other than their education, you have crossed a line. You have no right to take someone else’s education away from them.
 
@@ -79,7 +80,8 @@ Your reaction to this topic might be to laugh it off, or to make or think snide 
 
 **We take all complaints about unprofessional or discriminatory behavior seriously.** Professionalism and respect for diversity are not just matters between students; they also apply to how the course staff treat the students. The staff of this course will treat you in a way that respects our differences. However, despite our best efforts, we might slip up, hopefully inadvertently. If you are concerned about classroom environment issues created by the staff or overall class dynamic, please feel free to talk to us about it. The instructors in particular welcome any comments or concerns regarding conduct of the course and the staff. See [below](#office-hours-and-communication) for how to best reach us.
 
-From the Data Science Department: [Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs){:target="_blank"} faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion){:target="_blank"}. We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform){:target="_blank"}.
+{: .note }
+> **From the Data Science Department:** [Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs){:target="_blank"} faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion){:target="_blank"}. We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform){:target="_blank"}.
 
 As course staff, we are committed to creating a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences and respects your identities and backgrounds (including race, ethnicity, nationality, gender identity, socioeconomic class, sexual orientation, language, religion, ability, and more.) To help accomplish this:
 
@@ -104,7 +106,6 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | | | |<span style="color:Red">**Homework N-1 due**</span> | <span style="color:Red">Homework N released</span> | 
 | |<span style="color:Red">**Lab N-1 due**</span>| | | <span style="color:Red">Lab N released</span>|
 
-
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar).
 - Lectures, discussions, assignments, projects, and exams are scheduled on the [Home page](..).
@@ -128,12 +129,13 @@ Live **discussion sections** are one hour long, and held on Tuesdays or Wednesda
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to sign up for the first discussion (details will be released through Ed). Following the first discussion, students will be asked to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
+{: .important }
+> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to sign up for the first discussion (details will be released through Ed). Following the first discussion, students will be asked to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
 
-- Graded Discussion Attendance Option: Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
+- **Graded Discussion Attendance Option:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
     - Online sections are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
     - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them.
-- Ungraded Discussion Attendance Option: Instead, the 5% discussion weight will be redistributed, with 2.5% added to both the midterm and final scores. 
+- **Ungraded Discussion Attendance Option:** Instead, the 5% discussion weight will be redistributed, with 2.5% added to both the midterm and final scores. 
 
 Students are not permitted to switch between the two grading schemes once  finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
 
@@ -162,7 +164,8 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 
 There will be two exams in this course:
 
-- **Midterm** on **Thursday, March 7** 7-9 PM PST.
+{: .important}
+> - **Midterm** on **Thursday, March 7** 7-9 PM PST.
 - **Final** on **Thursday, May 9** 8-11 AM PST.
 
 **All exams must be taken in-person.** There will be no alternate exams offered.
@@ -186,7 +189,7 @@ Course Communication:
 
     - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="_blank"} and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf){:target="_blank"}.
 
-Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
+    - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For logistical questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
 - For extenuating circumstances/DSP: student accommodation requests will be handled via the [Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
@@ -207,8 +210,7 @@ Ed is your primary platform for asking questions about the class. It is monitore
 | Final Exam | 30% | 32.5% | 30% | - | |
 | Graduate Final Project| - | - | 15% | 30% | |
 
-{: .important}
-> It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
+It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
 
 While we do not have homework and lab drops this semester, we will offer a grace period for homeworks/projects/labs, as well as an [Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A). See the next sections for more details.
 
@@ -224,7 +226,8 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! 
 
-You can make a late submission after the on-time deadline and up to the end of the grace period. **These late submissions are not penalized, but do not earn the 3% on-time bonus.** You do not need to explicitly contact staff about late submissions; just submit directly to Gradescope within the listed grace period.
+{: .note }
+> You can make a late submission after the on-time deadline and up to the end of the grace period. **These late submissions are not penalized, but do not earn the 3% on-time bonus.** You do not need to explicitly contact staff about late submissions; just submit directly to Gradescope within the listed grace period.
 
 **Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected comes up when aiming for the on-time deadline. As a result, getting an extension beyond the grace period will generally not be granted, except in rare, extraordinary emergencies (see the [Extenuating Circumstances](#extenuating-circumstances) section). The grace period is also intended to account for unexpected circumstances such as DataHub issues, so we will not be granting extensions if you fail to communicate any datahub issues before the grace period begins.
 
@@ -235,6 +238,7 @@ All official communication will refer to the on-time deadline as the expected da
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
 
+{: .important }
 The **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}** is for any circumstances that cannot be resolved via the grace period policy above. Within two business days of filling out the form, a course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
 
 We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our Grace Period Policy combined with the Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
@@ -244,6 +248,7 @@ Note that extenuating circumstances do not extend to logistical oversight, such 
 
 ### DSP Accommodations
 
+{: .important }
 If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our student support team at [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved assignment accommodations will have the 1-day grace period added to the approved extension to the on-time deadline. Please note that any extension, plus the grace period combined, cannot exceed **7 days**. DSP students can submit assignment extension accommodation requests via the **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}**.
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
@@ -287,7 +292,8 @@ Our [Resources](../resources) page lists not only course-specific academic resou
 
 If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Extenuating Circumstances Form. We know college can be stressful and we want to help you succeed.
 
-**Important Note**: We are committed to being a resource to you, but it is important to note that all members of the teaching staff for this course are [responsible employees](https://svsh.berkeley.edu/responsible-employee){:target="_blank"}, meaning that **we must disclose any incidents of sexual harassment or violence to campus authorities**. If you would like to speak to a confidential advocate, please consider reaching out to the [Berkeley PATH to Care Center](https://care.berkeley.edu/){:target="_blank"}.
+{: .important }
+We are committed to being a resource to you, but it is important to note that all members of the teaching staff for this course are [responsible employees](https://svsh.berkeley.edu/responsible-employee){:target="_blank"}, meaning that **we must disclose any incidents of sexual harassment or violence to campus authorities**. If you would like to speak to a confidential advocate, please consider reaching out to the [Berkeley PATH to Care Center](https://care.berkeley.edu/){:target="_blank"}.
 
 Finally, the main goal of this course is that you should learn and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 100!
 
