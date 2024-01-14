@@ -7,7 +7,7 @@ Feb 6
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA
 
 Feb 8
-: **Lecture 8**{: .label .label-lecture} Visualization I
+: **Lecture 8**{: .label .label-lecture} Visualization II
 
 Feb 9
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Feb 13)
