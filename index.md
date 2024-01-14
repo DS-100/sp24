@@ -30,14 +30,10 @@ UC Berkeley, Spring 2024
   </div>
 </div>
 
-<!-- {: .highlight }
+{: .highlight }
 
-> Course website is currently under construction.
-> 
-> Gradescope, YouTube playlist, and extrenuating circumstances form will be added soon on main page. -->
+> Welcome to [Week 1](#week-{{page.currWeekNumber}}) of Data 100!
 
-
-<!-- > Welcome to [Week 12](#week-{{page.currWeekNumber}}) of Data 100! -->
 
 <a name="schedule"></a>
 
