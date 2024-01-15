@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Jan 16
-: **Lecture 1**{: .label .label-lecture } Introduction
+: **Lecture 1**{: .label .label-lecture } [Introduction](lecture/lec01)
 
 Jan 18
 : **Lecture 2**{: .label .label-lecture } Pandas I
