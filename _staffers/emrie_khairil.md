@@ -1,5 +1,5 @@
 ---
-name: Emrie Khairil
+name: Emrie Loh
 role: UCS1
 email: emrieloh53@berkeley.edu
 website:
