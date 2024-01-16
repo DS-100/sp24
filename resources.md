@@ -83,7 +83,7 @@ become part of the history of Data 100 at Berkeley.
 + The official [Python3 regex guide](https://docs.python.org/3/howto/regex.html) is good!
 
 #### LaTeX
-+ [Quick Guide to Overleaf and LaTeX]({{site.baseurl}}/latex_guide)
++ [Quick Guide to Overleaf and LaTeX](https://www.overleaf.com/learn)
 
 #### Other Web References
 As a data scientist you will often need to search for information on various libraries and tools. In this class we will be using several key python libraries. Here are their documentation pages:
