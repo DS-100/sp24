@@ -8,6 +8,7 @@ Mar 5
 
 Mar 7
 : **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
+: **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
 Mar 8
 : **Lab 7**{: .label .label-lab }  Gradient descent and Sklearn (due Mar 12)

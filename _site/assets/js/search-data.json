@@ -253,7 +253,7 @@
   },"36": {
     "doc": "Home / Schedule",
     "title": "Week 8",
-    "content": "Mar 5 Lecture 15 Guest Lecture - TBD Discussion 7 OLS, Gradient Descent Mar 7 Lecture 16 Case Study (HCE): CCAO Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
+    "content": "Mar 5 Lecture 15 Guest Lecture - TBD Discussion 7 OLS, Gradient Descent Mar 7 Lecture 16 Case Study (HCE): CCAO Midterm Exam Midterm (7-9 PM PST) Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
     "url": "/sp24/#week-8",
     
     "relUrl": "/#week-8"
@@ -316,7 +316,7 @@
   },"45": {
     "doc": "Home / Schedule",
     "title": "Week 17",
-    "content": "May 9 Final Exam Final (8:00am - 11:00am) ",
+    "content": "May 9 Final Exam Final (8-11 AM PST) ",
     "url": "/sp24/#week-17",
     
     "relUrl": "/#week-17"
