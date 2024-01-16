@@ -4,7 +4,8 @@ title: Week 1
 
 Jan 16
 : **Lecture 1**{: .label .label-lecture } [Introduction](lecture/lec01)
-
+    : [Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)
+    
 Jan 18
 : **Lecture 2**{: .label .label-lecture } Pandas I
 
