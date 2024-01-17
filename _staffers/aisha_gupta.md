@@ -1,5 +1,5 @@
 ---
-name: Aisha_Gupta
+name: Aisha Gupta
 role: UCS1
 email: aishagupta@berkeley.edu
 website:
