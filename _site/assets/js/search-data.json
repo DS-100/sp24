@@ -204,7 +204,7 @@
   },"29": {
     "doc": "Home / Schedule",
     "title": "Week 1",
-    "content": "Jan 16 Lecture 1 Introduction Note 1 Lecture Participation 1 Lecture Participation 1 Jan 18 Lecture 2 Pandas I Jan 19 Lab 1 Prerequisite Coding (due Jan 23) Homework 1 Prerequisite Math (due Jan 25) ",
+    "content": "Jan 16 Lecture 1 Introduction Note 1 Lecture Participation 1 Lecture Participation 1 Jan 18 Lecture 2 Pandas I Note 2 Jan 19 Lab 1 Prerequisite Coding (due Jan 23) Homework 1 Prerequisite Math (due Jan 25) ",
     "url": "/sp24/#week-1",
     
     "relUrl": "/#week-1"
@@ -344,7 +344,7 @@
   },"49": {
     "doc": "Lecture 2 – Pandas, Part I",
     "title": "Lecture 2 – Pandas, Part I",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | code (Data 8) | code HTML (Data 8) | recording | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | code (Data 8) | code HTML (Data 8) | . ",
     "url": "/sp24/lecture/lec02/",
     
     "relUrl": "/lecture/lec02/"
