@@ -8,7 +8,7 @@ Jan 16
 : **Lecture Participation 1**{: .label .label-survey } [Lecture Participation 1](https://app.sli.do/event/chu6qXaBnB85nJ94hxxLQS/embed/polls/778cb2fa-c709-4a6e-b177-fada34008037)
 
 Jan 18
-: **Lecture 2**{: .label .label-lecture } Pandas I
+: **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
 
 Jan 19
 : **Lab 1**{: .label .label-lab } Prerequisite Coding (due Jan 23)
