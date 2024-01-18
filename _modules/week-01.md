@@ -10,6 +10,7 @@ Jan 16
 Jan 18
 : **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
+: **Lecture Participation 2**{: .label .label-survey } [Lecture Participation 2](https://app.sli.do/event/gdKvBCZcJ6SdsycdrmYxeP/embed/polls/d3723264-c3c1-48d2-81a4-4afd69231056)
 
 Jan 19
 : **Lab 1**{: .label .label-lab } Prerequisite Coding (due Jan 23)
