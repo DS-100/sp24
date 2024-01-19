@@ -8,7 +8,7 @@ Mar 5
 
 Mar 7
 : **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/case_study_HCE/case_study_HCE.html))
+
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
 Mar 8
