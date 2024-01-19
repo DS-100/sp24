@@ -148,7 +148,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - All homeworks and projects must be submitted to Gradescope by their posted deadlines. There may be separate coding and written Gradescope portals for the same assignment; please check that you are submitting the right part.
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
-- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, etc). See the [Collaboration Policy](#collaboration-policy-and-academic-dishonesty) for more details.
+- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, etc). See the [Collaboration Policy](#collaboration-policy-and-academic-honesty) for more details.
 - See the [Policies](#policies) section for the submission grace period.
 
 ### Lab
