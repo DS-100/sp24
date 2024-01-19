@@ -15,5 +15,5 @@ Jan 18
 Jan 19
 : **Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab01%2Flab01.ipynb&branch=main){:target="_blank"} (due Jan 23)
 : **Homework 1A**{: .label .label-hw } [Plotting and Permutation Test](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main){:target="_blank"} (due Jan 25)
-: **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1Xydw2X8PB_FLZ1sOc0b4XPxyjXmOPKRS/view?usp=sharing){:target="_blank"} (due Jan 25)
+: **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1RDPptF9z4SD9xl7SkchfrqTAyvU-oA8Q/view?usp=sharing){:target="_blank"} (due Jan 25)
 
