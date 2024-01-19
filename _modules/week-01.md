@@ -13,6 +13,7 @@ Jan 18
 : **Lecture Participation 2**{: .label .label-survey } [Lecture Participation 2](https://app.sli.do/event/gdKvBCZcJ6SdsycdrmYxeP/embed/polls/d3723264-c3c1-48d2-81a4-4afd69231056)
 
 Jan 19
-: **Lab 1**{: .label .label-lab } Prerequisite Coding (due Jan 23)
-: **Homework 1**{: .label .label-hw } Prerequisite Math (due Jan 25)
+: **Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due Jan 23)
+: **Homework 1A**{: .label .label-hw } [Plotting and Permutation Test](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main) (due Jan 25)
+: **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1Xydw2X8PB_FLZ1sOc0b4XPxyjXmOPKRS/view?usp=sharing) (due Jan 25)
 
