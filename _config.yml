@@ -31,15 +31,15 @@ permalink: pretty
 nav_external_links:
   - title: Course Notes
     url: https://ds100.org/course-notes/
-    hide_icon: false
+    hide_icon: true
     # opens_in_new_tab: true
   - title: Debugging Guide
     url: https://ds100.org/debugging-guide/
-    hide_icon: false
+    hide_icon: true
     # opens_in_new_tab: true
   - title: Course FAQ
     url: https://ds100.org/faqs/sp24/
-    hide_icon: false
+    hide_icon: true
     # opens_in_new_tab: true
 
 footer: >-
