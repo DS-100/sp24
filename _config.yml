@@ -31,13 +31,16 @@ permalink: pretty
 nav_external_links:
   - title: Course Notes
     url: https://ds100.org/course-notes/
-    hide_icon: true
+    hide_icon: false
+    # opens_in_new_tab: true
   - title: Debugging Guide
     url: https://ds100.org/debugging-guide/
-    hide_icon: true
+    hide_icon: false
+    # opens_in_new_tab: true
   - title: Course FAQ
     url: https://ds100.org/faqs/sp24/
-    hide_icon: true
+    hide_icon: false
+    # opens_in_new_tab: true
 
 footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
