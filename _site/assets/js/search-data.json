@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 1 of Data 100! . ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 2 of Data 100! . ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -582,7 +582,7 @@
   },"83": {
     "doc": "Resources",
     "title": "Optional Supplementary Textbook",
-    "content": "Alongside each lecture are optional textbook readings to the Data 100 textbook, Principles and Techniques of Data Science. Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive). If you find issues with the textbook, email Prof. Gonzalez directly. ",
+    "content": "Here are optional textbook readings, Learning Data Science, supplementary to the Data 100 lecture material. Textbook readings are purely optional, and may contain material that is not in scope (and may also not be comprehensive). If you find issues with the textbook, email Prof. Gonzalez directly. ",
     "url": "/sp24/resources/#optional-supplementary-textbook",
     
     "relUrl": "/resources/#optional-supplementary-textbook"
