@@ -34,7 +34,7 @@ UC Berkeley, Spring 2024
 
 > Welcome to [Week 2](#week-{{page.currWeekNumber}}) of Data 100!
 > 
-> Lectures will be webcast at: [https://berkeley.zoom.us/j/91646148607](https://berkeley.zoom.us/j/91646148607)
+> Lectures will be webcast at: [https://berkeley.zoom.us/j/91646148607](https://berkeley.zoom.us/j/91646148607){:target="\_blank"}.
 
 
 {: .note }
