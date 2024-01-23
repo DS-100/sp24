@@ -34,6 +34,9 @@ UC Berkeley, Spring 2024
 
 > Welcome to [Week 2](#week-{{page.currWeekNumber}}) of Data 100!
 
+{: .note }
+> <span style="color:red">**Enrollment: As of Jan. 23, 2024, Data C100/200 is closed and no further enrollment is possible.**</span> 
+
 
 <a name="schedule"></a>
 
