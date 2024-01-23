@@ -4,7 +4,7 @@ title: Week 2
 
 
 Jan 23
-: **Lecture 3**{: .label .label-lecture} Pandas II
+: **Lecture 3**{: .label .label-lecture} [Pandas II](lecture/lec03)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pandas_2/pandas_2.html) - to be updated)
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1LbBje5lL8nOZcrEjhfmxH02VNe4NdHt7/view?usp=sharing)
 
