@@ -6,6 +6,7 @@ title: Week 2
 Jan 23
 : **Lecture 3**{: .label .label-lecture} [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
+: **Lecture Participation 3**{: .label .label-survey } [Lecture Participation 3](https://app.sli.do/event/4q8L7NzdonRLKQLtwNh6h6/embed/polls/f1cc3b1c-6115-4fc9-b4a9-7cf03aec4c88)
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1LbBje5lL8nOZcrEjhfmxH02VNe4NdHt7/view?usp=sharing)
 
 Jan 25
