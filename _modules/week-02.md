@@ -11,7 +11,7 @@ Jan 23
     : [Solution](https://drive.google.com/file/d/1PHLN5gTd8_dr9PVXUWnTd5kQ4_j76C8f/view?usp=sharing){:target="_blank"}
 
 Jan 25
-: **Lecture 4**{: .label .label-lecture } Pandas III
+: **Lecture 4**{: .label .label-lecture } [Pandas III](lecture/lec04)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pandas_3/pandas_3.html) - to be updated)
 
 Jan 26
