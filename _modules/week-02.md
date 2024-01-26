@@ -13,6 +13,7 @@ Jan 23
 Jan 25
 : **Lecture 4**{: .label .label-lecture } [Pandas III](lecture/lec04)
     : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
+: **Lecture Participation 4**{: .label .label-survey } [Lecture Participation 4](https://app.sli.do/event/wRN9uW7bQdscqhpSBAX8yW/embed/polls/25ffb070-37cf-493a-9f3d-126390b203cf)
 
 Jan 26
 : **Lab 2A**{: .label .label-lab } Pandas (due Jan 30)

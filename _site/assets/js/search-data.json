@@ -211,7 +211,7 @@
   },"30": {
     "doc": "Home / Schedule",
     "title": "Week 2",
-    "content": "Jan 23 Lecture 3 Pandas II Note 3 Lecture Participation 3 Lecture Participation 3 Discussion 1 Prerequisites Solution Jan 25 Lecture 4 Pandas III Note 4 Jan 26 Lab 2A Pandas (due Jan 30) Homework 2A Food Safety (due Feb 1) ",
+    "content": "Jan 23 Lecture 3 Pandas II Note 3 Lecture Participation 3 Lecture Participation 3 Discussion 1 Prerequisites Solution Jan 25 Lecture 4 Pandas III Note 4 Lecture Participation 4 Lecture Participation 4 Jan 26 Lab 2A Pandas (due Jan 30) Homework 2A Food Safety (due Feb 1) ",
     "url": "/sp24/#week-2",
     
     "relUrl": "/#week-2"
@@ -358,7 +358,7 @@
   },"51": {
     "doc": "Lecture 4 – Pandas, Part III",
     "title": "Lecture 4 – Pandas, Part III",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec04/",
     
     "relUrl": "/lecture/lec04/"
