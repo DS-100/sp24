@@ -7,3 +7,4 @@ _staffers/sheets_parser.json
 .*.swo
 DS_Store
 .bundle
+Gemfile.lock
