@@ -12,7 +12,7 @@ Jan 23
 
 Jan 25
 : **Lecture 4**{: .label .label-lecture } [Pandas III](lecture/lec04)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pandas_3/pandas_3.html) - to be updated)
+    : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
 
 Jan 26
 : **Lab 2A**{: .label .label-lab } Pandas (due Jan 30)
