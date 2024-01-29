@@ -4,11 +4,13 @@ title: Week 3
 
 Jan 30
 : **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
+    : [Fall '23 Note](https://ds100.org/fa23-course-notes/eda/eda.html)
 
 : **Discussion 2**{: .label .label-disc } Pandas I
 
 Feb 1
 : **Lecture 6**{: .label .label-lecture} Regex (and finish EDA)
+    : [Fall '23 Note](https://ds100.org/fa23-course-notes/regex/regex.html)
 
 
 Feb 2
