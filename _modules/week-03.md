@@ -4,7 +4,7 @@ title: Week 3
 
 Jan 30
 : **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/eda/eda.html) - to be updated)
+    : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 
 : **Discussion 2**{: .label .label-disc } Pandas I [Worksheet](https://drive.google.com/file/d/1goQA_imeCr8dOZ4VgfU_pbnbxHabYYwR/view), [Worksheet Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student.git&urlpath=lab%2Ftree%2Fsp24-student.git%2Fdisc%2Fdisc02%2Fdisc02_pandas_I%2Fdisc02-worksheet-blank.ipynb&branch=main), 
 [Groupwork Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student.git&urlpath=lab%2Ftree%2Fsp24-student.git%2Fdisc%2Fdisc02%2Fdisc02_pandas_I%2Fdisc02_groupwork_blank.ipynb&branch=main)
