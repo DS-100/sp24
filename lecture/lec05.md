@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 5 – EDA, Part II
 
-Presented by Fernando Pérez
+Presented by Joseph E. Gonzalez 
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
