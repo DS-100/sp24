@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 Jan 30
-: **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
+: **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/eda/eda.html) - to be updated)
 
 : **Discussion 2**{: .label .label-disc } Pandas I
