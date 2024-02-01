@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 6 – Data Wrangling and EDA (Part 2)
 
-Presented by Fernando Pérez
+Presented by Joseph E. Gonzalez 
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
