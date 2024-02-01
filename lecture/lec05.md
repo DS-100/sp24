@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 5 – EDA II
+title: Lecture 5 – Data Cleaning and EDA
 nav_exclude: true
 ---
 
-# Lecture 5 – EDA, Part II
+# Lecture 5 – Data Cleaning and EDA
 
 Presented by Joseph E. Gonzalez 
 
