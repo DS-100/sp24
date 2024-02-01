@@ -11,7 +11,7 @@ Jan 30
     : [Worksheet Solution](https://drive.google.com/file/d/1WhbAk08gtDcD5OG_Wuj0MqPuGPgNAb6I/view?usp=sharing){:target="_blank"}, [Groupwork Solution](https://drive.google.com/file/d/1mmP4KV-X-KGRs8FFcYpoZy_iMGOJtS7L/view?usp=sharing)
 
 Feb 1
-: **Lecture 6**{: .label .label-lecture} Data Wrangling and EDA (Part 2)
+: **Lecture 6**{: .label .label-lecture} [Data Wrangling and EDA (Part 2)](lecture/lec06)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/regex/regex.html) - to be updated)
 
 
