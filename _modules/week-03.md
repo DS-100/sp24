@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 Jan 30
-: **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
+: **Lecture 5**{: .label .label-lecture} [Data Wrangling and EDA (Part 1)](lecture/lec05)
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 : **Lecture Participation 5**{: .label .label-survey } [Lecture Participation 5](https://app.sli.do/event/g4ZLgtRr6tdEW9EBYEVuw2/embed/polls/6f605f91-05e5-446b-820f-31735240176e)
 
@@ -11,7 +11,7 @@ Jan 30
     : [Worksheet Solution](https://drive.google.com/file/d/1WhbAk08gtDcD5OG_Wuj0MqPuGPgNAb6I/view?usp=sharing){:target="_blank"}, [Groupwork Solution](https://drive.google.com/file/d/1mmP4KV-X-KGRs8FFcYpoZy_iMGOJtS7L/view?usp=sharing)
 
 Feb 1
-: **Lecture 6**{: .label .label-lecture} [Regex](lecture/lec06)
+: **Lecture 6**{: .label .label-lecture} [Data Wrangling and EDA (Part 2) & Text Wrangling and Regex](lecture/lec06)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/regex/regex.html) - to be updated)
 
 

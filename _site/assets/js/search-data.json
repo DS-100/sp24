@@ -218,7 +218,7 @@
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 3",
-    "content": "Jan 30 Lecture 5 Data Cleaning and EDA Note 5 Lecture Participation 5 Lecture Participation 5 Discussion 2 Pandas I, Worksheet Notebook, Groupwork Notebook Worksheet Solution, Groupwork Solution Feb 1 Lecture 6 Regex (Fa23 Note - to be updated) Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
+    "content": "Jan 30 Lecture 5 Data Wrangling and EDA (Part 1) Note 5 Lecture Participation 5 Lecture Participation 5 Discussion 2 Pandas I, Worksheet Notebook, Groupwork Notebook Worksheet Solution, Groupwork Solution Feb 1 Lecture 6 Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex (Fa23 Note - to be updated) Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
     "url": "/sp24/#week-3",
     
     "relUrl": "/#week-3"
@@ -363,447 +363,454 @@
     
     "relUrl": "/lecture/lec04/"
   },"52": {
-    "doc": "Lecture 5 – Data Cleaning and EDA",
-    "title": "Lecture 5 – Data Cleaning and EDA",
+    "doc": "Lecture 5 – Data Wrangling and EDA (Part 1)",
+    "title": "Lecture 5 – Data Wrangling and EDA (Part 1)",
     "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code (part 1) | code HTML (part 1) | code (part 2) | code HTML (part 2) | code (part 3) | code HTML (part 3) | recording | . ",
     "url": "/sp24/lecture/lec05/",
     
     "relUrl": "/lecture/lec05/"
   },"53": {
-    "doc": "Lecture 6 – Regex",
-    "title": "Lecture 6 – Regex",
+    "doc": "Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex",
+    "title": "Lecture 6 – Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex",
     "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "url": "/sp24/lecture/lec06/#lecture-6--data-wrangling-and-eda-part-2--text-wrangling-and-regex",
+    
+    "relUrl": "/lecture/lec06/#lecture-6--data-wrangling-and-eda-part-2--text-wrangling-and-regex"
+  },"54": {
+    "doc": "Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex",
+    "title": "Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex",
+    "content": " ",
     "url": "/sp24/lecture/lec06/",
     
     "relUrl": "/lecture/lec06/"
-  },"54": {
+  },"55": {
     "doc": "Lecture 7 – Visualization",
     "title": "Lecture 7 – Visualization I",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec07/#lecture-7--visualization-i",
     
     "relUrl": "/lecture/lec07/#lecture-7--visualization-i"
-  },"55": {
+  },"56": {
     "doc": "Lecture 7 – Visualization",
     "title": "Lecture 7 – Visualization",
     "content": " ",
     "url": "/sp24/lecture/lec07/",
     
     "relUrl": "/lecture/lec07/"
-  },"56": {
+  },"57": {
     "doc": "Lecture 8 – Visualization II",
     "title": "Lecture 8 – Visualization II",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec08/",
     
     "relUrl": "/lecture/lec08/"
-  },"57": {
+  },"58": {
     "doc": "Lecture 9 – Sampling",
     "title": "Lecture 9 – Sampling",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec09/",
     
     "relUrl": "/lecture/lec09/"
-  },"58": {
+  },"59": {
     "doc": "Lecture 10 – Intro to Modeling, SLR",
     "title": "Lecture 10 – Intro to Modeling, SLR",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | recording | . ",
     "url": "/sp24/lecture/lec10/",
     
     "relUrl": "/lecture/lec10/"
-  },"59": {
+  },"60": {
     "doc": "Lecture 11 – Constant model, Loss, and Transformations",
     "title": "Lecture 11 – Constant Model, Loss, and Transformations",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec11/#lecture-11--constant-model-loss-and-transformations",
     
     "relUrl": "/lecture/lec11/#lecture-11--constant-model-loss-and-transformations"
-  },"60": {
+  },"61": {
     "doc": "Lecture 11 – Constant model, Loss, and Transformations",
     "title": "Lecture 11 – Constant model, Loss, and Transformations",
     "content": " ",
     "url": "/sp24/lecture/lec11/",
     
     "relUrl": "/lecture/lec11/"
-  },"61": {
+  },"62": {
     "doc": "Lecture 12 – Ordinary Least Squares",
     "title": "Lecture 12 – Ordinary Least Squares",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec12/",
     
     "relUrl": "/lecture/lec12/"
-  },"62": {
+  },"63": {
     "doc": "Lecture 13 – Gradient Descent",
     "title": "Lecture 13 – Gradient Descent",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec13/",
     
     "relUrl": "/lecture/lec13/"
-  },"63": {
+  },"64": {
     "doc": "Lecture 14 – Sklearn and Feature Engineering",
     "title": "Lecture 14 – Sklearn and Feature Engineering",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec14/",
     
     "relUrl": "/lecture/lec14/"
-  },"64": {
+  },"65": {
     "doc": "Lecture 15 – Fairness in Housing Appraisal",
     "title": "Lecture 15 – Case Study (HCE): Fairness in Housing Appraisal",
     "content": "Presented by Ari Edmundson . Content by Ari Edmundson . | slides | recording | . ",
     "url": "/sp24/lecture/lec15/#lecture-15--case-study-hce-fairness-in-housing-appraisal",
     
     "relUrl": "/lecture/lec15/#lecture-15--case-study-hce-fairness-in-housing-appraisal"
-  },"65": {
+  },"66": {
     "doc": "Lecture 15 – Fairness in Housing Appraisal",
     "title": "Lecture 15 – Fairness in Housing Appraisal",
     "content": " ",
     "url": "/sp24/lecture/lec15/",
     
     "relUrl": "/lecture/lec15/"
-  },"66": {
+  },"67": {
     "doc": "Lecture 16 – ross-Validation and Regularization",
     "title": "Lecture 16 – Cross-Validation and Regularization",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec16/#lecture-16--cross-validation-and-regularization",
     
     "relUrl": "/lecture/lec16/#lecture-16--cross-validation-and-regularization"
-  },"67": {
+  },"68": {
     "doc": "Lecture 16 – ross-Validation and Regularization",
     "title": "Lecture 16 – ross-Validation and Regularization",
     "content": " ",
     "url": "/sp24/lecture/lec16/",
     
     "relUrl": "/lecture/lec16/"
-  },"68": {
+  },"69": {
     "doc": "Lecture 17 – Random Variables",
     "title": "Lecture 17 – Random Variables",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec17/",
     
     "relUrl": "/lecture/lec17/"
-  },"69": {
+  },"70": {
     "doc": "Lecture 18 – Estimators, Bias and Variance",
     "title": "Lecture 18 – Estimators, Bias and Variance",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec18/",
     
     "relUrl": "/lecture/lec18/"
-  },"70": {
+  },"71": {
     "doc": "Lecture 19 – Bias, Variance, and Inference in Modeling",
     "title": "Lecture 19 – Bias, Variance, and Inference in Modeling",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec19/",
     
     "relUrl": "/lecture/lec19/"
-  },"71": {
+  },"72": {
     "doc": "Lecture 20 – SQL I",
     "title": "Lecture 20 – SQL I",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec20/",
     
     "relUrl": "/lecture/lec20/"
-  },"72": {
+  },"73": {
     "doc": "Lecture 21 – SQL II",
     "title": "Lecture 21 – SQL II",
     "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec21/",
     
     "relUrl": "/lecture/lec21/"
-  },"73": {
+  },"74": {
     "doc": "Lecture 22 – Logistic Regression I",
     "title": "Lecture 22 – Logistic Regression I",
     "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec22/",
     
     "relUrl": "/lecture/lec22/"
-  },"74": {
+  },"75": {
     "doc": "Lecture 23 – PCA II",
     "title": "Lecture 23 – PCA II",
     "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | PCA II code HTML | Fashion MNIST code HTML | recording | . ",
     "url": "/sp24/lecture/lec23/",
     
     "relUrl": "/lecture/lec23/"
-  },"75": {
+  },"76": {
     "doc": "Lecture 24 – Decision trees",
     "title": "Lecture 24 - Decision Trees",
     "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec24/#lecture-24---decision-trees",
     
     "relUrl": "/lecture/lec24/#lecture-24---decision-trees"
-  },"76": {
+  },"77": {
     "doc": "Lecture 24 – Decision trees",
     "title": "Lecture 24 – Decision trees",
     "content": " ",
     "url": "/sp24/lecture/lec24/",
     
     "relUrl": "/lecture/lec24/"
-  },"77": {
+  },"78": {
     "doc": "Lecture 25 – Conclusion",
     "title": "Lecture 25 - Conclusion",
     "content": "Presented by Bella Crouch and Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | recording | . ",
     "url": "/sp24/lecture/lec25/#lecture-25---conclusion",
     
     "relUrl": "/lecture/lec25/#lecture-25---conclusion"
-  },"78": {
+  },"79": {
     "doc": "Lecture 25 – Conclusion",
     "title": "Lecture 25 – Conclusion",
     "content": " ",
     "url": "/sp24/lecture/lec25/",
     
     "relUrl": "/lecture/lec25/"
-  },"79": {
+  },"80": {
     "doc": "Resources",
     "title": "Resources",
     "content": "Here is a collection of resources that will help you learn more about various concepts and skills covered in the class. Learning by reading is a key part of being a well-rounded data scientist. We will not assign mandatory reading but instead encourage you to look at these and other materials. If you find something helpful, post it on EdStem, and consider contributing it to the course website. Jump to: . | Supplementary Course Notes | Optional Supplementary Textbook | Exam Resources | Course Website | Coding and Mathematics Resources . | Pandas | SQL | Regex | LaTeX | Other Web References | Calculus and Linear Algebra | Probability | . | Books | Wellness Resources | Data Science Education | Local Setup (Old) | . ",
     "url": "/sp24/resources/",
     
     "relUrl": "/resources/"
-  },"80": {
+  },"81": {
     "doc": "Resources",
     "title": "Supplementary Course Notes",
     "content": "Alongside each lecture are supplementary Course Notes. Lecture notes will be updated on a weekly basis, prior to the lecture. If you spot any errors or would like to suggest any changes, please email us at data100.instructors@berkeley.edu. ",
     "url": "/sp24/resources/#supplementary-course-notes",
     
     "relUrl": "/resources/#supplementary-course-notes"
-  },"81": {
+  },"82": {
     "doc": "Resources",
     "title": "Optional Supplementary Textbook",
     "content": "Here are optional textbook readings, Learning Data Science, supplementary to the Data 100 lecture material. Textbook readings are purely optional, and may contain material that is not in scope (and may also not be comprehensive). If you find issues with the textbook, email Prof. Gonzalez directly. ",
     "url": "/sp24/resources/#optional-supplementary-textbook",
     
     "relUrl": "/resources/#optional-supplementary-textbook"
-  },"82": {
+  },"83": {
     "doc": "Resources",
     "title": "Exam Resources",
     "content": "| Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Video] | Exam (Solutions) [Video] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Video] |   | . | Fall 2017 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/sp24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
-  },"83": {
+  },"84": {
     "doc": "Resources",
     "title": "Course Website",
     "content": "We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible github repository. You can send us changes to the course website by forking and sending a pull request to the course website github repository. You will then become part of the history of Data 100 at Berkeley. ",
     "url": "/sp24/resources/#course-website",
     
     "relUrl": "/resources/#course-website"
-  },"84": {
+  },"85": {
     "doc": "Resources",
     "title": "Coding and Mathematics Resources",
     "content": "This section is currently under construction – we will be adding more resources down below! . Pandas . | Pandas API Reference | The Pandas Cookbook: This provides a nice overview of some of the basic Pandas functions. However, it is slightly out of date. | Learn Pandas A set of lessons providing an overview of the Pandas library. | Python for Data Science Another set of notebook demonstrating Pandas functionality. | . SQL . | We’ve assembled some SQL Review Slides to help you brush up on SQL. | This SQL Cheat Sheet is an awesome resource that was created by Luke Harrison, a former Data 100 student. | . Regex . | Regex101.com. Remember to select the Python flavour of Regex! | Data 100 Regex Reference Sheet | The official Python3 regex guide is good! | . LaTeX . | Quick Guide to Overleaf and LaTeX | . Other Web References . As a data scientist you will often need to search for information on various libraries and tools. In this class we will be using several key python libraries. Here are their documentation pages: . | Python: . | Python Tutorial: Teach yourself python. This is a pretty comprehensive tutorial. | Python + Numpy Tutorial this tutorial provides a great overview of a lot of the functionality we will be using in DS100. | Python 101: A notebook demonstrating a lot of python functionality with some (minimal explanation). | . | Data Visualization: . | matplotlib.pyplot tutorial: This short tutorial provides an overview of the basic plotting utilities we will be using. | Pandas Tutor. | Kernel Density Visualization. | Altair Documentation: Altair(Vega-Lite) is a new and powerful visualization library. We might not get to teach it this semester, but you should check it out if you are interested in pursuing visualization deeper. In particular, you should find the example gallery helpful. | Prof. Jeff Heer’s Visualization Curriculum: This repository contains a series of Python-based Jupyter notebooks that teaches data visualization using Vega-Lite and Altair. | If you are interested in learning more about data visualization, you can find more materials in: . | Edward Tufte’s book sequences – a classic! | Prof. Heer’s class. | . | . | . Calculus and Linear Algebra . Note: None of these resources are meant to be a substitute for the appropriate requirement / co-requisite (Math 54, etc.). If you have no familiarity whatsoever with either of these topics, these may not be adequate and we strongly recommend spending time covering the prerequisite material yourself. We will assume that you have prior knowledge of these requirements and that these resources are simply to refresh your memory of concepts that you have previously learned. Please reach out to staff if you have any questions or concerns about this. Calculus: In terms of calculus, you will need to know a few things, most of which are covered within the space of the first homework and lab. Specifically, you will need to know univariate calculus rules like: Taking derivatives of a univariate function (i.e. f(x), where x is the only variable); Derivative power rule; Knowing derivatives of mathematical functions like: sinx,cosx,logx,ex; Chain rule; Product rule (rarely); Derivatives of sums. We will expect some multivariate fluency like: Taking partial derivatives of a multivariate function (i.e. f(x,y,z), where x,y,z are all variables); Gradients (the concept). | Khan Academy: Derivatives, Definitions, and Basic Rules; Multivariable Derivatives . | Math 53: Derivatives of Vector Functions . | . Linear Algebra: . Concepts roughly in order of importance: vectors, matrices; rank/nullity; inner products, orthogonality, norms; linear independence; orthonormal matrices; vector spaces; projections; invertibility. | EE16A notes/assignments: Vector and Matrix Operations (Note 2A, Note 2B); Span, Linear Dependence/Independence (Note 3); Linear Transformations (Note 5); Matrix Inversion (Note 6); Vector Subspaces (Note 6); Inner Products (Note 21); Least Squares (Note 23); | Math 54: Prof. Alex Paulin Video Lectures | Data 100 textbook: Geometric Perspective of Linear Projection (Chapter 15); Vector Spaces (Appendix 2) | 3blue1brown: Essence of Linear Algebra | Khan Academy: Linear Algebra | MIT OpenCourseware: Linear Algebra Video Lectures | . Probability . | We’d also like to point you to the textbook for Data C88S, an introductory probability course geared towards data science students at Berkeley. | . ",
     "url": "/sp24/resources/#coding-and-mathematics-resources",
     
     "relUrl": "/resources/#coding-and-mathematics-resources"
-  },"85": {
+  },"86": {
     "doc": "Resources",
     "title": "Books",
     "content": "Because data science is a relatively new and rapidly evolving discipline there is no single ideal textbook for this subject. Instead we plan to use reading from a collection of books all of which are free. However, we have listed a few optional books that will provide additional context for those who are interested. | Principles and Techniques of Data Science, the Data 100 textbook. | Introduction to Statistical Learning (Free online PDF) This book is a great reference for the machine learning and some of the statistics material in the class . | Data Science from Scratch (Available as eBook for Berkeley students) This more applied book covers many of the topics in this class using Python but doesn’t go into sufficient depth for some of the more mathematical material. | Doing Data Science (Available as eBook for Berkeley students) This books provides a unique case-study view of data science but uses R and not Python. | Python for Data Analysis (Available as eBook for Berkeley students). This book provides a good reference for the Pandas library. | . ",
     "url": "/sp24/resources/#books",
     
     "relUrl": "/resources/#books"
-  },"86": {
+  },"87": {
     "doc": "Resources",
     "title": "Wellness Resources",
     "content": "Your well-being matters, and we hope that Data 100 is never a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful. COVID-19 Resources and Support . You can find UC Berkeley’ COVID-19 resources and support here. For academic performance, support, and technology . The Center for Access to Engineering Excellence (325 Davis Hall) is an inclusive center that offers study spaces, nutritious snacks, and tutoring in &gt;50 courses for Berkeley engineers and other majors across campus. The Center also offers a wide range of professional development, leadership, and wellness programs, and loans iclickers, laptops, and professional attire for interviews. As the primary academic support service for undergraduates at UC Berkeley, the Student Learning Center (510-642-7332) assists students in transitioning to Cal, navigating the academic terrain, creating networks of resources, and achieving academic, personal, and professional goals. Through various services including tutoring, study groups, workshops, and courses, SLC supports undergraduate students in Biological and Physical Sciences, Business Administration, Computer Science, Economics, Mathematics, Social Sciences, Statistics, Study Strategies, and Writing. The Educational Opportunity Program (EOP, Cesar Chavez Student Center 119; 510-642-7224) at Cal has provided first generation and low income college students with the guidance and resources necessary to succeed at the best public university in the world. EOP’s individualized academic counseling, support services, and extensive campus referral network help students develop the unique gifts and talents they each bring to the university while empowering them to achieve. Students can access device lending options through the Student Technology Equity Program STEP program. For mental well-being . The staff of the UHS Counseling and Psychological Services (Tang Center, 2222 Bancroft Way; 510-642-9494; for after-hours support, please call the 24/7 line at 855-817-5667) provides confidential, brief counseling and crisis intervention to students with personal, academic and career stress. Services are provided by a multicultural group of professional counselors including psychologists, social workers, and advanced level trainees. All undergraduate and graduate students are eligible for CAPS services, regardless of insurance coverage. To improve access for engineering students, a licensed psychologist from the Tang Center also holds walk-in appointments for confidential counseling in Bechtel Engineering Center 241 (check here for schedule). For disability accommodations . The Disabled Students’ Program (DSP, 260 César Chávez Student Center #4250; 510-642-0518) serves students with disabilities of all kinds, including mobility impairments, blind or low vision, deaf or hard of hearing; chronic illnesses (chronic pain, repetitive strain injuries, brain injuries, AIDS/HIV, cancer, etc.) psychological disabilities (bipolar disorder, severe anxiety or depression, etc.), Attention Deficit Disorder/Attention Deficit Hyperactivity Disorder, and Learning Disabilities. Services are individually designed and based on the specific needs of each student as identified by DSP’s Specialists. The Program’s official website includes information on DSP staff, UCB’s disabilities policy, application procedures, campus access guides for most university buildings, and portals for students and faculty. For solving a dispute . The Ombudsperson for Students (Sproul Hall 250; 510-642-5754) provides a confidential service for students involved in a University-related problem (academic or administrative), acting as a neutral complaint resolver and not as an advocate for any of the parties involved in a dispute. The Ombudsperson can provide information on policies and procedures affecting students, facilitate students’ contact with services able to assist in resolving the problem, and assist students in complaints concerning improper application of University policies or procedures. All matters referred to this office are held in strict confidence. The only exceptions, at the sole discretion of the Ombudsperson, are cases where there appears to be imminent threat of serious harm. The Student Advocate’s Office (SAO) is an executive, non-partisan office of the ASUC. We offer free, confidential casework services and resources to any student(s) navigating issues with the University, including academic, conduct, financial aid, and grievance concerns. All support is centered around students and aims for an equity-based approach. For recovery from sexual harassment or sexual assault . The Care Line (510-643-2005) is a 24/7, confidential, free, campus-based resource for urgent support around sexual assault, sexual harassment, interpersonal violence, stalking, and invasion of sexual privacy. The Care Line will connect you with a confidential advocate for trauma-informed crisis support including time-sensitive information, securing urgent safety resources, and accompaniment to medical care or reporting. For social services . Social Services provides confidential services and counseling to help students with managing problems that can emerge from illness such as financial, academic, legal, family concerns, and more. They specialize in helping students with pregnancy resources and referrals; alcohol/drug problems related to one’s own or a family member’s use; sexual assault/rape; relationship or other violence; and support for health concerns-new diagnoses or ongoing conditions. Social Services staff will assess a student’s immediate needs, work with the student to develop a plan to meet those needs, and facilitate arrangements with academic departments and advocate for the student with other campus offices and community agencies, as well as coordinate services within UHS. For finding community on campus . The mission of the Berkeley International Office (2299 Piedmont Avenue, 510-642-2818) is to provide support with all the essential resources needed to not only survive, but thrive here at UC Berkeley. Their mission is to support you and work together towards justice and belonging for all. They define Basic Needs as the essential resources that impact your health, belonging, persistence, and overall well being. It is an ecosystem that includes: nutritious food, stable housing, hygiene, transportation, healthcare, mental wellness, financial sustainability, sleep, and emergency dependent services. They refuse to accept hunger, homelessness, and all other basic needs injustices as part of our university. The Gender Equity Resource Center, fondly referred to as GenEq, is a UC Berkeley campus community center committed to fostering an inclusive Cal experience for all. GenEq is the campus location where students, faculty, staff and Alumni connect for resources, services, education and leadership programs related to gender and sexuality. The programs and services of the Gender Equity Resource Center are focused into four key areas: women; lesbian, gay, bisexual, and transgender (LGBT); sexual and dating violence; and hate crimes and bias driven incidents. GenEq strives to provide a space for respectful dialogue about sexuality and gender; illuminate the interrelationship of sexism, homophobia and gender bias and violence; create a campus free of violence and hate; provide leadership opportunities; advocate on behalf of survivors of sexual, hate, dating and gender violence; foster a community of women and LGBT leaders; and be a portal to campus and community resources on LGBT, Women, and the many intersections of identity (e.g., race, class, ability, etc.). The Undocumented Students Program (119 Cesar Chavez Center; 642-7224) practices a holistic, multicultural and solution-focused approach that delivers individualized service for each student. The academic counseling, legal support, financial aid resources and extensive campus referral network provided by USP helps students develop the unique gifts and talents they each bring to the university, while empowering a sense of belonging. The program’s mission is to support the advancement of undocumented students within higher education and promote pathways for engaged scholarship. The Multicultural Education Program (MEP) is one of six initiatives funded by the Evelyn and Walter Haas, Jr. Fund to work towards institutional change and to create a positive campus climate for diversity. The MEP is a five-year initiative to establish a sustainable infrastructure for activities like educational consultation and diversity workshops for the campus that address both specific topics, and to cater to group needs across the campus. For basic needs (food, shelter, etc.) . The Basic Needs Center (lower level of MLK Student Union, Suite 72) provides support with all the essential resources needed to not only survive, but thrive here at UC Berkeley. Their mission is to support you and work together towards justice and belonging for all. They define Basic Needs as the essential resources that impact your health, belonging, persistence, and overall well being. It is an ecosystem that includes: nutritious food, stable housing, hygiene, transportation, healthcare, mental wellness, financial sustainability, sleep, and emergency dependent services. They refuse to accept hunger, homelessness, and all other basic needs injustices as part of our university. The UC Berkeley Food Pantry (#68 Martin Luther King Student Union) aims to reduce food insecurity among students and staff at UC Berkeley, especially the lack of nutritious food. Students and staff can visit the pantry as many times as they need and take as much as they need while being mindful that it is a shared resource. The pantry operates on a self-assessed need basis; there are no eligibility requirements. The pantry is not for students and staff who need supplemental snacking food, but rather, core food support. ",
     "url": "/sp24/resources/#wellness-resources",
     
     "relUrl": "/resources/#wellness-resources"
-  },"87": {
+  },"88": {
     "doc": "Resources",
     "title": "Data Science Education",
     "content": "Interested in bringing the Data Science major or curriculum to your academic institution? Please fill out this form if you would like support from Berkeley in offering some variant of our Data Science courses at your institution (or just to let us know that you’re interested). Information about the courses appear at data8.org and ds100.org. Please note that this form is only for instructors. If you are only interested in learning Python or data science, please look at our Data 8 or Data 100 websites mentioned above. ",
     "url": "/sp24/resources/#data-science-education",
     
     "relUrl": "/resources/#data-science-education"
-  },"88": {
+  },"89": {
     "doc": "Resources",
     "title": "Local Setup (Old)",
     "content": "NOTE: This section is out of date and no longer supported by the course staff. Click here to read our guide on how to set up our development environment locally (as an alternative to using DataHub). Please note that any autograder tests will only work on DataHub. ",
     "url": "/sp24/resources/#local-setup-old",
     
     "relUrl": "/resources/#local-setup-old"
-  },"89": {
+  },"90": {
     "doc": "Local Setup",
     "title": "Local Setup",
     "content": "We will still be using datahub as our primary computing environment. This page serves as a guide for alternative environment setup. In other words: you don’t have to follow these instructions unless you’d like an alternative to datahub. ",
     "url": "/sp24/setup/",
     
     "relUrl": "/setup/"
-  },"90": {
+  },"91": {
     "doc": "Local Setup",
     "title": "Contents",
     "content": ". | Installing conda by OS . | OSX | Windows | Linux | . | Creating your environment | Working on assignments locally | Opening notebooks locally | Verifying your environment | Removing the environment to start over | Submitting your work | FAQ | . ",
     "url": "/sp24/setup/#contents",
     
     "relUrl": "/setup/#contents"
-  },"91": {
+  },"92": {
     "doc": "Local Setup",
     "title": "OSX",
     "content": ". | You will need access to the command line. On a Mac, you can open the Terminal by opening Spotlight (Cmd + Space) and typing \"Terminal\". Alternatively, you can go to your Applications screen and select Terminal (it might be in the folder named \"Other\") . | Homebrew is a package manager for OSX. If you haven’t already, install it by running the following in the command line (copy, paste, and enter): . # This downloads the Ruby code of the installation script and runs it /usr/bin/ruby -e \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)\" . Verify your installation by making sure brew --version doesn’t error at your terminal. | Download and install Anaconda: . # Uses curl to download the installation script curl https://repo.continuum.io/miniconda/Miniconda2-4.5.11-MacOSX-x86_64.sh &gt; miniconda.sh # Run the miniconda installer (you will need to enter your password) bash miniconda.sh . | Close and restart your terminal. Ensure the installation worked by running conda --version. | . You may remove the miniconda.sh script now if you’d like. Click here to continue to the next part of the setup. ",
     "url": "/sp24/setup/#osx",
     
     "relUrl": "/setup/#osx"
-  },"92": {
+  },"93": {
     "doc": "Local Setup",
     "title": "Windows",
     "content": "Windows is especially prone to error if you aren’t careful about your configuration. If you’ve already had Anaconda or git installed and can’t get the other to work, try uninstalling everything and starting from scratch. Installing Anaconda: . | Visit the Anaconda website and download the installer for Python 3.7. Download the 64-bit installer if your computer is 64-bit (most likely), the 32-bit installer if not. See this FAQ if you are unsure. | Run the exe file to install Anaconda. Leave all the options as default (install for all users, in the default location). Make sure both of these checkboxes are checked: . | . 1) Verify that the installation is working by starting the Anaconda Prompt (you should be able to start it from the Start Menu) and typing python: . Notice how the python prompt shows that it is running from Anaconda. Now you have conda installed! . From now on, when we talk about the “Terminal” or “Command Prompt”, we are referring to the Anaconda Prompt that you just installed. Click here to continue to the next part of the setup. ",
     "url": "/sp24/setup/#windows",
     
     "relUrl": "/setup/#windows"
-  },"93": {
+  },"94": {
     "doc": "Local Setup",
     "title": "Linux",
     "content": "These instructions assume you have apt-get (Ubuntu and Debian). For other distributions of Linux, substitute the appropriate package manager. | Your terminal program allows you to type commands to control your computer. On Linux, you can open the Terminal by going to the Applications menu and clicking “Terminal”. | Install wget. This is a command-line tool that lets you download files / webpages at the command line. sudo apt-get install wget . | Download the Anaconda installation script: . wget -O install_anaconda.sh https://repo.continuum.io/miniconda/Miniconda2-4.5.11-Linux-x86_64.sh . | . 4) Install Anaconda: . bash install_anaconda.sh . 5) Close and restart your terminal. Ensure the installation worked by running `conda --version`. You may remove the install_anaconda.sh script now if you’d like. Click here to continue to the next part of the setup. ",
     "url": "/sp24/setup/#linux",
     
     "relUrl": "/setup/#linux"
-  },"94": {
+  },"95": {
     "doc": "Local Setup",
     "title": "Creating your environment",
     "content": "These instructions are the same for OSX, Windows, and Linux. | Download the data100 data100_environment.yml] from the course repository here or: . # download via curl curl https://raw.githubusercontent.com/DS-100/su20/gh-pages/resources/assets/local_setup/data100_environment.yml &gt; data100_environment.yml # OR download via wget wget -O data100_environment.yml https://raw.githubusercontent.com/DS-100/su20/gh-pages/resources/assets/local_setup/data100_environment.yml . | . This YAML file is what we use to specify the dependencies and packages (and their versions) we wish to install into the conda environment we will make for this class. The purpose of the environment is to ensure that everyone in the course is using the same package versions for every assignment whether or not they are working on datahub. This is to prevent inconsistent behavior due to differences in package versions. | Using the Terminal, navigate to the directory where you downloaded data100_environment.yml. Run these commands to create a new conda environment. Each conda environment maintains its own package versions, allowing us to switch between package versions easily. For example, this class uses Python 3, but you might have another that uses Python 2. With a conda environment, you can switch between those at will. # sanity check on conda installation. Should be 4.5 or higher conda --version # update conda just in case it's out of date # enter y if prompted to proceed conda update conda # download git conda install -c anaconda git # Create a python 3.6 conda environment with the full set # of packages specified in environment.yml (jupyter, numpy, pandas, ...) conda env create -f data100_environment.yml # Switch to the data100 environment conda activate data100 # Check if packages are in the environment # This should not be empty! conda list . | . From now on, you can switch to the data100 env with conda activate data100, and switch back to the default env with conda deactivate. ",
     "url": "/sp24/setup/#creating-your-environment",
     
     "relUrl": "/setup/#creating-your-environment"
-  },"95": {
+  },"96": {
     "doc": "Local Setup",
     "title": "Working on assignments locally",
     "content": "These instructions are the same for OSX, Windows, and Linux. To work on assignments, you should fetch the assignment on datahub, navigate to the assignment folder and click on the download icon on the top right: . Then you can unzip the files into a folder of your choosing. Remember the location of your assignment files because you’ll need to navigate to that folder to open the notebook. ",
     "url": "/sp24/setup/#working-on-assignments-locally",
     
     "relUrl": "/setup/#working-on-assignments-locally"
-  },"96": {
+  },"97": {
     "doc": "Local Setup",
     "title": "Opening notebooks locally",
     "content": "To open Jupyter notebooks, you’ll navigate to parent directory of the assignment in your terminal, activate the environment, and start up a jupyter server. This will look something like: . cd path/to/assignment/directory conda activate data100 jupyter notebook . This will automatically open the notebook interface in your browser. You can then browse to a notebook and open it. Make sure to always work in the data100 conda environment when you are using jupyter notebooks for this class. This ensures you have all the necessary packages required for the notebook to run. ",
     "url": "/sp24/setup/#opening-notebooks-locally",
     
     "relUrl": "/setup/#opening-notebooks-locally"
-  },"97": {
+  },"98": {
     "doc": "Local Setup",
     "title": "Verifying Your Environment",
     "content": "You can tell if you are correct environment if your terminal looks something like: . Additionally, . conda env list . outputs a list of all your conda environments, and data100 should appear with a * next to it (the active one). ",
     "url": "/sp24/setup/#verifying-your-environment",
     
     "relUrl": "/setup/#verifying-your-environment"
-  },"98": {
+  },"99": {
     "doc": "Local Setup",
     "title": "Removing the environment to start over",
     "content": "If you feel as if you’ve messed up and need to start over, you can remove the environment with . conda remove --name data100 --all . To verify that the environment was removed, in your Terminal window or an Anaconda Prompt, run: . conda info --envs . Which should then no longer display the data100 environment. ",
     "url": "/sp24/setup/#removing-the-environment-to-start-over",
     
     "relUrl": "/setup/#removing-the-environment-to-start-over"
-  },"99": {
+  },"100": {
     "doc": "Local Setup",
     "title": "Submitting your work",
     "content": "Submissions will still be handled via datahub. To upload your work, navigate to the appropriate assignment folder on datahub and click on the upload button on the top right. Remember to validate, submit, and upload to Gradescope (for homeworks and projects). ",
     "url": "/sp24/setup/#submitting-your-work",
     
     "relUrl": "/setup/#submitting-your-work"
-  },"100": {
+  },"101": {
     "doc": "Local Setup",
     "title": "FAQ",
     "content": "Shell not properly configured to use conda activate . If you had an older version of Anaconda installed (perhaps for another class), you may see the following message. Follow the instructions in the prompt to: . | Enable conda for all users sudo ln -s ... | Put the base environment on PATH echo \"conda activate\" &gt;&gt; ~/.bash_profile\". Note that ~/.bash_profile may be something different like ~/.bashrc. | Manually remove the line that looks like export PATH=\"/usr/local/miniconda3/bin:$PATH\" from your .bash_profile. Use your favorite plaintext editor to do this (do not use a rich text editor like Microsoft Word!). | . ",
     "url": "/sp24/setup/#faq",
     
     "relUrl": "/setup/#faq"
-  },"101": {
+  },"102": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Jump to: Instructors, Lead Teaching Assistants, UCS2s, UCS1s. Note: Consult the calendar for the most up-to-date office hours. All GSI Office Hours will be held in Warren 101B. ",
     "url": "/sp24/staff/",
     
     "relUrl": "/staff/"
-  },"102": {
+  },"103": {
     "doc": "Staff",
     "title": "Course Staff Email",
     "content": "Contact course staff via Ed with any questions or concerns. For sensitive matters, the staff email address data100.instructors@berkeley.edu is monitored by the instructors and a few lead TAs. ",
     "url": "/sp24/staff/#course-staff-email",
     
     "relUrl": "/staff/#course-staff-email"
-  },"103": {
+  },"104": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . ",
     "url": "/sp24/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"104": {
+  },"105": {
     "doc": "Staff",
     "title": "Leads",
     "content": "Head TA Mir Miroyan He/Him/His . miroyan.mihran@berkeley.edu . Hey, I am Mir! If you want to know more, come to my OH! . Head TA Shiny Weng She/Her/Hers . shinyweng@berkeley.edu . Hi! I’m Shiny, a senior majoring in Computer Science and Statistics. Super excited to meet you all this spring, and I hope you love Data 100 as much as we do. Ask me for doggo pics! :’) &lt;3 . Angela Feng She/Her/Hers . anfeng2@berkeley.edu . Hi! I’m a senior studying computer science and data science. In my free time, I like to listen to music, make the most out of my Netflix account (let me know if you have shows recs), and have recently gotten into 3d origami! I look forward to meeting y’all! :) . Ishani Gupta She/Her/Hers . ishani@berkeley.edu . Hi! I’m Ishani, and I’m a junior studying Economics and Data Science. I enjoy baking and crocheting stuffed animals in my free time, and I’m looking forward to meeting everyone! . Milad Shafaie He/Him/His . mshafaie@berkeley.edu . Hello! . Nikhil Ghosh He/Him/His . nikhil_ghosh@berkeley.edu . Nikhil Ghosh is a PhD student in the Statistics department at UC Berkeley working with Bin Yu and Song Mei. His main research interest is the theory of deep learning. Sean Wei He/Him/His . seanwei2001@berkeley.edu . A whole entire grad student . Simon Mo He/Him/His . xmo@berkeley.edu . Simon is a graduate student researching Cloud and LLM Systems, talk to me if you are interested in CS system research! . Yuerou Tang They/Them/Theirs . yuerou.tang@berkeley.edu . chirp chirp . Charlie Ji He/Him/His . charliechengjieji@berkeley.edu . Hi all! I’m Charlie, a junior studying Computer Science and Data Science from Shanghai, China. This is my fourth semester on the Data 100 course staff. I love making music, playing board games, exploring great food spots, and embarking on all kinds of outdoor adventures. Feel free to reach out to me about anything—super excited to meet you all! . Matthew Shen He/Him/His . mattyshen@berkeley.edu . currently live, laugh, loving . Shreya Gupta She/Her/Hers . shreya.g@berkeley.edu . Hello everyone! I’m a Computer Science and Data Science (Honors) double major. The impact of Data100 on my academic journey has been nothing short of transformative, and I’m truly excited to have the chance to connect with each of you. My goal? To make this experience as fantastic for you as it was for me. Feel free to reach out if you have any questions at all, would love to get to know you all- cheers! . ",
     "url": "/sp24/staff/#leads",
     
     "relUrl": "/staff/#leads"
-  },"105": {
+  },"106": {
     "doc": "Staff",
     "title": "UCS2s",
     "content": "Aneesh Durai He/Him/His . aneesh.durai@berkeley.edu . Hello hello! I’m Aneesh, and I’m very excited to be working with you this semester! . Arman Kazmi He/Him/His . armankazmi@berkeley.edu . hi :) . Jessica Hsu She/Her/Hers . jessh459@berkeley.edu . Hello! I’m Jessica, a junior majoring in computer science. I enjoy hiking, binge watching random shows, and eating bread :)) Super excited to meet everyone! . Lillian Weng She/Her/Hers . lillianweng@berkeley.edu . Hello, I’m a senior studying CS and Data Science. Looking forward to meeting you all! . Prabhleen Kaur She/Her/Hers . prabhleenkaur@berkeley.edu . Hey everyone! I’m a 3rd year Data Science major interested in healthcare. Some of my favorite things are Sikh music, spotting big birds in the sky, and putting stickers on stuff :) . Pragnay Nevatia He/Him/His . pragnaynevatia@berkeley.edu . Hi! I’m a senior majoring in Chemical Engineering. Very excited to teach Data 100 again and meet you all this Spring! : ) . Yash Dave He/Him/His . yashdave003@berkeley.edu . Hi! I’m Yash, a junior majoring in Applied Math and CS with a minor in Public Policy. Excited to teach Data 100 this fall! . Abby O'Neill She/Her/Hers . abigator7@berkeley.edu . Very excited to be here! In my third year studying CS and DS, and happiest when I’m in nature, surrounded by friends and food. Brandon Huang He/Him/His . dunmingbrandonhuang@berkeley.edu . roses are redI have to work on Sundayif you’re reading thisI’m a DATA 100 TA . Claire Ding She/Her/Hers . jding25@berkeley.edu . Hi there, this is Claire :D I’m a junior studying CS and DS. In my free time, I like to explore new coffee shops and hang out with friends. Can’t wait to meet y’all! . Minoli Daigavane She/Her/Hers . minoli@berkeley.edu . :P . Sakshi Kolli She/Her/Hers . sakkolli@berkeley.edu . Hi! I’m Sakshi, a junior majoring in Data Science and Economics. In my free time, I enjoy playing soccer, watching sports, and playing the drums. Hope you all enjoy this amazing class! . ",
     "url": "/sp24/staff/#ucs2s",
     
     "relUrl": "/staff/#ucs2s"
-  },"106": {
+  },"107": {
     "doc": "Staff",
     "title": "UCS1s",
     "content": "Aanvi Kothari She/Her/Hers . aanvi.kothari@berkeley.edu . Hi, I’m Aanvi! I’m from Calcutta, India and am majoring in CS. I like to swim, play golf and find new music when I’m free. Hope you all enjoy this class as much as I did:) . Aditi Somayajula She/Her/Hers . aditi.somayajula@berkeley.edu . Hello! I am a fourth-year majoring in Computer Science. Looking forward to this semester! . Aisha Gupta She/Her/Hers . aishagupta@berkeley.edu . Hi everyone, I’m a third year studying Data Science! I love watching marvel movies, reading, hiking, and binging sitcoms! . Alena Chao She/Her/Hers . alenachao@berkeley.edu . Hi! I’m Alena and I’m a sophomore studying EECS and data science, looking forward to meeting you all :) . Anshul Jambula He/Him/His . ajambula@berkeley.edu . Hi everyone! I’m a second year double majoring in Computer Science and Data Science. Excited to work with you guys this semester! . Ayesha Mahfuz She/Her/Hers . ayeshamahfuz@berkeley.edu . Hi! My name is Ayesha Mahfuz and I am currently a sophomore majoring in Computer Science and Data Science. Data 100 has been one of my favorite courses I have taken at Berkeley so far and I am really excited to be on course staff this semester. Don’t hesitate to reach out if you have any questions about the class or Berkeley in general, I am always open to chat! . Boris Fan He/Him/His . david_fan1@berkeley.edu . Hi everyone, I’m Boyu(Boris), studying Data Science and Statistics. Let’s embrace the possibilities in Data Science! . Brie Zhou She/Her/Hers . yujiazhou@berkeley.edu . Hi! I am Brie . Chetan Goenka He/Him/His . cgoenka@berkeley.edu . Hi y’all! I’m a fourth year majoring in cs. In my free time i love to bike in the berkeley hills, listen to music, and explore the bay area. I really enjoyed my time in data 100 and i hope all you of do too! . Dan Nguyen He/Him/His . danluunguyen@berkeley.edu . Hoi hoi! I’m a sophomore majoring in Computer Science, and I like to waste my money of coffee shops for the vibe &lt;3333. Eager to meet you all! . Derry Xu He/Him/His . derryxu@berkeley.edu . Hello everyone, my name is Derry. I’m a Junior studying CS/DS/Stats. Looking forward to our semester together! . Emrie Loh He/Him/His . emrieloh53@berkeley.edu . I’m a second year data science major. Excited to be a part of course staff for the first time. Harry Huang He/Him/His . harry_huang@berkeley.edu . Hi! This is Harry. I’m here to help! . Ian Dong He/Him/His . ihdong@berkeley.edu . Hi! My name is Ian, and I’m a third year majoring in computer science and data science. In my free time, I love to play basketball, tennis, binging Netflix shows, and enjoying time with friends and family. I’m always looking to explore any TV shows to binge so hit me up with any suggestions! . Iris Ho She/Her/Hers . iris.ho@berkeley.edu . Hi! . Jesse Yao He/Him/His . jessetyao@berkeley.edu . Hello! I’m Jesse . Joel Cisneros He/Him/His . joelcisneros25@berkeley.edu . Hi! I’m a junior majoring in Computer Science. Looking forward to a great semester! . Julianna Lee She/Her/Hers . juliannalee@berkeley.edu . hello! i’m a third year studying data science who plays tons of basketball, crochets, and occasionally runs on college ave. Malavikha Sudarshan She/Her/Hers . malavikhasudarshan@berkeley.edu . hello :) i’m a third-year majoring in computer science and art practice, with a minor in data science. i’m also from scotland, in the uk! i love baking, painting and lifting :p . Nehal Sindhu She/Her/Hers . nehalsindhu@berkeley.edu . Hi! I’m a junior studying Data Science and Public Health. Data 100 has been my favorite course so far, and I hope to share my love for it with you!! Apart from that, I love pandas (the animal more than the library), matcha, concerts, and Thai food! . Nikhil Reddy He/Him/His . nsreddy@berkeley.edu . Hey! I’m a junior majoring in chemical engineering. Looking forward to a great semester! . Nitya Adapala She/Her/Hers . nityasri.adapala@berkeley.edu . Hello! I’m Nitya and I’m a third year majoring in Computer Science. In my free time, I love exploring new cuisines and trying out new restaurants so let me know if you have any recs! Data 100 was one of my favourite classes at Berkeley so I hope you all enjoy it too. Looking forward to meeting you all! :) . Qijun Li She/Her/Hers . qijun.li@berkeley.edu . Hi I’m a junior majoring in CS and applied math. Hope y’all enjoy Data 100 this semester ^^ . Rahul Sharma He/Him/His . rahuldsharma17@berkeley.edu . Hi everyone, I’m Rahul and I’m a junior studying computer science. Looking forward to a great semester! . Rayna Bhattacharyya She/Her/Hers . rayna_b@berkeley.edu . Hey everyone! I’m a sophomore studying CS and Data science. I’m looking forward to meeting you all! . Rishi Khare He/Him/His . rishi.khare@berkeley.edu . Hi, I’m a third year studying CS + DS from Dallas, TX. Excited to meet you all! . Ritik Sinha He/Him/His . ritiksinha1@berkeley.edu . Hello! I’m a junior studying computer science - super excited for an amazing semester! . Sarah Kiefer She/Her/Hers . sarahkiefer@berkeley.edu . Hey guys! I’m a third year double majoring in Data Science and Economics and this is my 4th semester teaching but my first time for Data 100. I love baking, reality TV, playing any kind of sport, and hanging out with friends. Sarika Pasumarthy She/Her/Hers . sarikapasumarthy@berkeley.edu . Hi everyone I’m a sophomore studying computer science and data science, this is my second time on course staff and I’m super hyped!! Feel free to reach out for anything or to talk about good mystery novel or romcom recs :D . Satwika Paul She/Her/Hers . paulsatwika6@berkeley.edu . Hi! I’m a sophomore studying Computer Science and Data Science from Chicago. Super excited for this semester :) . Shashwat Bansal He/Him/His . shashwat@berkeley.edu . Hi, I’m Shashwat, a junior studying CS/DS/Math from New Delhi. I enjoy learning foreign languages, working out and watching movies in my free time. Tyler Zhao He/Him/His . jiahong24@berkeley.edu . Hello! I’m a sophomore doing a double major in CS and statistics. I like going on new hiking trails and following both kinds of football in my spare time. Victor Shi He/Him/His . victor.shi@berkeley.edu . Hi! I’m a junior majoring in CS and Stats. I like playing basketball, poker, and going to the gym in my free time. Looking forward to getting to meet everyone! . Xiaorui Liu He/Him/His . xiaoruiliu@berkeley.edu . Hi! I’m a third year CS, Data Science, and History major. This is my first semester on Data100 but previously I’ve been CS70 and DataC104 staff. Some of my personal interests include digital humanities, cooking, and listening to music. I hope y’all have an amazing semester! . YuCian Liu He/Him/His . yucianliu@berkeley.edu . Hi! I’m a second year studying CS and design. I’m 95% confident that my love for matcha is real. ",
     "url": "/sp24/staff/#ucs1s",
     
     "relUrl": "/staff/#ucs1s"
-  },"107": {
+  },"108": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": "Jump to: . | About Data 100 . | Goals | Prerequisites | . | Course Culture . | Be Aware of Your Actions | Be Respectful | Communicate Issues with Course Staff and/or the Department | . | Course Components . | Lecture | Discussion | Homework and Projects | Lab | Exams | Graduate Final Project | . | Office Hours and Communication | Policies . | Grading Scheme | On-Time Submission | Grace Period | Extenuating Circumstances | DSP Accommodations | Regrade Requests | Collaboration Policy and Academic Honesty | . | Academic and Wellness Resources | We want you to succeed! | Acknowledgments | . ",
     "url": "/sp24/syllabus/",
     
     "relUrl": "/syllabus/"
-  },"108": {
+  },"109": {
     "doc": "Syllabus",
     "title": "About Data 100",
     "content": "Combining data, computation, and inferential thinking, data science is redefining how people and organizations solve challenging problems and understand their world. This intermediate level class bridges between Data 8 and upper division computer science and statistics courses as well as methods courses in other fields. In this class, we explore key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.​ Through a strong emphasis on data centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing. Goals . | Prepare students for advanced Berkeley courses in data-management, machine learning, and statistics, by providing the necessary foundation and context. | Enable students to start careers as data scientists by providing experience working with real-world data, tools, and techniques. | Empower students to apply computational and inferential thinking to address real-world problems. | . Prerequisites . While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. Prerequisites will be enforced in Data 100. It is your responsibility to know the material in the prerequisites. The instructors do not have the authority to waive these requirements. Undergraduates should fill out the Enrollment Exception Form managed by CDSS to request an exception. | Foundations of Data Science: Data 8 covers much of the material in Data 100 but at an introductory level. Data 8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning. | Computing: The Structure and Interpretation of Computer Programs (CS 61A) or Computational Structures in Data Science (Data 88C). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python. | Math: Linear Algebra (Math 54, EECS 16A, Math 56, Math 110, or Stat 89A). We will need some basic concepts like linear operators, projections, and optimization to analyze and derive new prediction algorithms. This may be satisfied concurrently to Data 100. | . Please consult the Resources page for additional resources for reviewing prerequisite material. Textbook: There is no official textbook for Data 100 this semester; we will provide course notes that will be released with the respective lectures. ",
     "url": "/sp24/syllabus/#about-data-100",
     
     "relUrl": "/syllabus/#about-data-100"
-  },"109": {
+  },"110": {
     "doc": "Syllabus",
     "title": "Course Culture",
     "content": "Students taking Data C100 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students. Be Aware of Your Actions . Sometimes, the little things add up to creating an unwelcoming culture to some students. For example, you and a friend may think you are sharing a private joke about other races, majors, genders, abilities, cultures, etc. but this can have adverse effects on classmates who overhear it. There is a great deal of research on something called “stereotype threat”: research finds that simply reminding someone that they belong to a particular culture or share a particular identity (on whatever dimension) can interfere with their course performance. Stereotype threat works both ways: you can assume that a student will struggle based on who they appear to be, or you can assume that a student is doing great based on who they appear to be. Both are potentially harmful. Bear in mind that diversity has many facets, some of which are not visible. Your classmates may have medical conditions (physical or mental), personal situations (financial, family, etc.), or interests that aren’t common to most students in the course. Another aspect of professionalism is avoiding comments that (likely unintentionally) put down colleagues for situations they cannot control. Bragging in open space that an assignment is easy or “crazy,” for example, can send subtle cues that discourage classmates who are dealing with issues that you can’t see. Please take care, so we can create a class in which all students feel supported and respected. Be Respectful . Beyond the slips that many of us make unintentionally are a host of behaviors that the course staff, department, and university do not tolerate. These are generally classified under the term harassment; sexual harassment is a specific form that is governed by federal laws known as Title IX. UC Berkeley’s Title IX website provides many resources for understanding the terms, procedures, and policies around harassment. Make sure you are aware enough of these issues to avoid crossing a line in your interactions with other students. For example, repeatedly asking another student out on a date after they have said no can cross this line. Your reaction to this topic might be to laugh it off, or to make or think snide remarks about “political correctness” or jokes about consent or other things. You might think people just need to grow a thicker skin or learn to take a joke. This isn’t your decision to make. Research shows the consequences (emotional as well as physical) on people who experience harassment. When your behavior forces another student to focus on something other than their education, you have crossed a line. You have no right to take someone else’s education away from them. Communicate Issues with Course Staff and/or the Department . We take all complaints about unprofessional or discriminatory behavior seriously. Professionalism and respect for diversity are not just matters between students; they also apply to how the course staff treat the students. The staff of this course will treat you in a way that respects our differences. However, despite our best efforts, we might slip up, hopefully inadvertently. If you are concerned about classroom environment issues created by the staff or overall class dynamic, please feel free to talk to us about it. The instructors in particular welcome any comments or concerns regarding conduct of the course and the staff. See below for how to best reach us. From the Data Science Department: Data Science Undergraduate Studies faculty and staff are committed to creating a community where every person feels respected, included, and supported. We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this online form. As course staff, we are committed to creating a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences and respects your identities and backgrounds (including race, ethnicity, nationality, gender identity, socioeconomic class, sexual orientation, language, religion, ability, and more.) To help accomplish this: . | If your name and/or pronouns differ from those that appear in your official records, please let us know. | If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with us. We want to be resources for you. | We (like many people) are still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it. | While the course staff understands that improving diversity, equity, and inclusion (DEI) are not enough to overcome systemic issues in academia such as racism, queerphobia, and other forms of discrimination and hatred, we also recognize the importance of DEI work. | The Data Science Department has some resources available at https://data.berkeley.edu/about/diversity-equity-and-inclusion. | There’s also a great set of resources available at https://eecs.berkeley.edu/resources/students/grievances. | . | If there are other resources you think we should list here, let us know! | . ",
     "url": "/sp24/syllabus/#course-culture",
     
     "relUrl": "/syllabus/#course-culture"
-  },"110": {
+  },"111": {
     "doc": "Syllabus",
     "title": "Course Components",
     "content": "Below is a high-level “typical week in the course” for Spring 2024. | Mo | Tu | We | Th | Fr | . |   | Live Lecture |   | Live Lecture |   | . |   | Discussion Section | Discussion Section |   |   | . |   | Office Hours | Office Hours | Office Hours | Office Hours | . |   |   |   | Homework N-1 due | Homework N released | . |   | Lab N-1 due |   |   | Lab N released | . | All deadlines are subject to change. | The Office Hours schedule is on the Calendar page. | Lectures, discussions, assignments, projects, and exams are scheduled on the Home page. | . Lecture . There are 2 live lectures held on Tuesdays and Thursdays, 11:00am-12:30pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture. Lecture participation: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to “participate” in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture. | Lecture participation is graded using poll responses on a 0/1 basis. | Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (11:00am-12:30pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit. | Asynchronous Participation: complete all participation poll questions from the link provided on the course website within one week of the corresponding lecture. | In both cases, participation is graded on completion, not correctness. | . | If you submit all participation polls over the course of the semester (i.e., do not use any of the three automatic drops), you will receive +0.5% bonus points applied to your final overall grade in the class. | See the Policies section for lecture participation drops. | . Discussion . Live discussion sections are one hour long, and held on Tuesdays or Wednesdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. The lectures, assignments, and exams of this course are structured with the expectation that all students attend discussion. The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions. This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to sign up for the first discussion (details will be released through Ed). Following the first discussion, students will be asked to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S. | Graded Discussion Attendance Option: Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for. | Online sections are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the Pre-Semester and Discussion Selection Form. | All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them. | . | Ungraded Discussion Attendance Option: Instead, the 5% discussion weight will be redistributed, with 2.5% added to both the midterm and final scores. | . Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or data100.instructors@berkeley.edu. Please refer to Grading Scheme for a comprehensive grade breakdown. Homework and Projects . Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Projects are 2-week assignments (with a weekly checkpoint) that synthesize multiple topics. | All homeworks and projects must be submitted to Gradescope by their posted deadlines. There may be separate coding and written Gradescope portals for the same assignment; please check that you are submitting the right part. | Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment. | The primary form of support students will have for homeworks and projects are office hours and Ed. | Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, etc). See the Collaboration Policy for more details. | See the Policies section for the submission grace period. | . Lab . Labs are shorter, weekly programming assignments designed to give students familiarity with new ideas. They are meant to be completed prior to homework. | All lab assignments must be submitted to Gradescope by their posted deadlines. | All lab autograder tests are public (visible). | We will not be having lab sections for Data 100/200 this semester. Rather, we’ll provide extensive lab support on Ed and accompanying video walkthroughs. | All labs are intended to take about an hour. | Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200. See the Policies section for the submission grace period. | . Exams . There will be two exams in this course: . | Midterm on Thursday, March 7 7-9 PM PST. | Final on Thursday, May 9 8-11 AM PST. | . All exams must be taken in-person. There will be no alternate exams offered. Graduate Final Project . All students enrolled in the graduate version of the course (CS C200A or Stat C200C, i.e. Data 200; Data 200S) will be graded according to the Graduate grading scheme, which includes a team-based Graduate Final Project distributed in the second half of the semester. More details to be in the coming weeks. ",
     "url": "/sp24/syllabus/#course-components",
     
     "relUrl": "/syllabus/#course-components"
-  },"111": {
+  },"112": {
     "doc": "Syllabus",
     "title": "Office Hours and Communication",
     "content": "We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during office hours. | All office hours will be updated on the Calendar. | In-person course staff office hours will be held in Warren Hall 101B. | In general, students can come to staff office hours for any questions on course assignments or material. | Instructor office hours are generally reserved for conceptual questions, course review, course logistics, research opportunities, and career planning. | . Course Communication: . | EdStem, or Ed for short, is our course forum this semester. All course announcements will be through Ed. We are not using bCourses this semester. Please check out Ed or the FAQ page first before emailing course staff directly. | Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct. | Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team: . | . | For logistical questions: our course staff email is data100.instructors@berkeley.edu. This email is monitored by the instructors, the head TAs, and a few lead TAs. | For extenuating circumstances/DSP: student accommodation requests will be handled via the Extenuating Circumstances Form. Our staff email for student support and DSP accommodations is data100.support@berkeley.edu. | Please only contact the course instructors directly for matters that require strict privacy and their personal attention. | . | . ",
     "url": "/sp24/syllabus/#office-hours-and-communication",
     
     "relUrl": "/syllabus/#office-hours-and-communication"
-  },"112": {
+  },"113": {
     "doc": "Syllabus",
     "title": "Policies",
     "content": "Grading Scheme . | Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details | . | Homeworks | 25% | 25% | 20% | 25% | No drop | . | Projects | 10% | 10% | 10% | 10% | No drop | . | Labs | 5% | 5% | - | 5% | No drop | . | Discussions | 5% | - | - | - | Drop 3 lowest scores | . | Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores | . | Midterm Exam | 20% | 22.5% | 20% | 25% |   | . | Final Exam | 30% | 32.5% | 30% | - |   | . | Graduate Final Project | - | - | 15% | 30% |   | . It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S. While we do not have homework and lab drops this semester, we will offer a grace period for homeworks/projects/labs, as well as an Extenuating Circumstances Form. See the next sections for more details. On-Time Submission . All assignments are due at 11:59 PM Pacific Time on the due date specified on the Home / Schedule page. The date and time of this deadline are firm. Submitting even a minute past is considered late. Submitting by this “on-time” deadline earns an extra-credit on-time bonus, a 3% perk. This is available for homeworks, projects, and labs. Grace Period . We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) grace period for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! . You can make a late submission after the on-time deadline and up to the end of the grace period. These late submissions are not penalized, but do not earn the 3% on-time bonus. You do not need to explicitly contact staff about late submissions; just submit directly to Gradescope within the listed grace period. Submissions are not accepted beyond the grace period. The grace period is strictly enforced. We recommend thinking of the grace period as a backup, in case something unexpected comes up when aiming for the on-time deadline. As a result, getting an extension beyond the grace period will generally not be granted, except in rare, extraordinary emergencies (see the Extenuating Circumstances section). The grace period is also intended to account for unexpected circumstances such as DataHub issues, so we will not be granting extensions if you fail to communicate any datahub issues before the grace period begins. All official communication will refer to the on-time deadline as the expected dates that you will submit assignments. Extenuating Circumstances . We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you. The Extenuating Circumstances Form is for any circumstances that cannot be resolved via the grace period policy above. Within two business days of filling out the form, a course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email data100.support@berkeley.edu. We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). Our Grace Period Policy combined with the Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out. Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the student’s responsibility to identify and resolve these issues in advance of the on-time deadline. We will not grant accommodations for these cases; instead, please use the grace period to cushion these submission errors. DSP Accommodations . If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our student support team at data100.support@berkeley.edu. DSP students who receive approved assignment accommodations will have the 1-day grace period added to the approved extension to the on-time deadline. Please note that any extension, plus the grace period combined, cannot exceed 7 days. DSP students can submit assignment extension accommodation requests via the Extenuating Circumstances Form. You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete. Regrade Requests . Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment. Always check that the autograder executes correctly! Gradescope will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed as soon as possible. Regrade requests will not be considered in cases in which: . | a student uploads the incorrect file to the autograder. | the autograder fails to execute and the student does not notify the course staff before the assignment deadline. | a student fails to save their notebook before exporting and uploads an old version to the autograder. | a situation arises in which the course staff cannot ensure that the student’s work was done before the assignment deadline. | . Collaboration Policy and Academic Honesty . We will be following the EECS departmental policy on Academic Honesty, which states that using work or resources that are not your own or not permitted by the course may lead to disciplinary actions, including a failing grade in the course. Assignments. Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. If you do discuss the assignments with others please include their names at the top of your notebook. Restated, you and your friends are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so is considered academic misconduct. We will be running advanced plagiarism detection programs on all assignments. Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited. Exams. Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don’t do it! Students caught cheating on any exam will fail the course. Plagiarism on any assignment, as well as other violations to Berkeley’s Code of Conduct, will be reported to the Center for Student Conduct. The CSC treats most first-time offenses as a Non-Reportable Warning. Additionally we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, an F in the course, or even dismissal from the university. It’s just not worth it! . Rather than copying someone else’s work, ask for help. You are not alone in Data 100! The entire staff is here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and respect for you. Finally, know that it’s normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles, even though many try not to show it. Even if you don’t learn everything that’s being covered, you’ll be able to build on what you do learn, whereas if you cheat you’ll have nothing to build on. You aren’t expected to be perfect; it’s ok not to get an A. ",
     "url": "/sp24/syllabus/#policies",
     
     "relUrl": "/syllabus/#policies"
-  },"113": {
+  },"114": {
     "doc": "Syllabus",
     "title": "Academic and Wellness Resources",
     "content": "Our Resources page lists not only course-specific academic resources such as course notes, past exams, study guides, and prerequisite review links, but also campus wellness resources on COVID-19, academic support, technology support, mental well-being, DSP accommodations, dispute resolution, social services, campus community, and basic needs. Our staff will also refer to this page when supporting you through this course. ",
     "url": "/sp24/syllabus/#academic-and-wellness-resources",
     
     "relUrl": "/syllabus/#academic-and-wellness-resources"
-  },"114": {
+  },"115": {
     "doc": "Syllabus",
     "title": "We want you to succeed!",
     "content": "If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Extenuating Circumstances Form. We know college can be stressful and we want to help you succeed. We are committed to being a resource to you, but it is important to note that all members of the teaching staff for this course are responsible employees, meaning that we must disclose any incidents of sexual harassment or violence to campus authorities. If you would like to speak to a confidential advocate, please consider reaching out to the Berkeley PATH to Care Center. Finally, the main goal of this course is that you should learn and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 100! . ",
     "url": "/sp24/syllabus/#we-want-you-to-succeed",
     
     "relUrl": "/syllabus/#we-want-you-to-succeed"
-  },"115": {
+  },"116": {
     "doc": "Syllabus",
     "title": "Acknowledgments",
     "content": "Academic Honesty policy and closing words adapted from Data 8. Course Culture inspired and adapted with permission from Dr. Sarah Chasins’ Fall 2021 CS 164 Syllabus and Grace O’Connell, the Asssociate Dean for Inclusive Excellence. ",

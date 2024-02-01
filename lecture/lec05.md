@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 5 – Data Cleaning and EDA
+title: Lecture 5 – Data Wrangling and EDA (Part 1)
 nav_exclude: true
 ---
 
-# Lecture 5 – Data Cleaning and EDA
+# Lecture 5 – Data Wrangling and EDA (Part 1)
 
 Presented by Joseph E. Gonzalez 
 

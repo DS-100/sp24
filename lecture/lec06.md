@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 6 – Regex
+title: Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex
 nav_exclude: true
 ---
 
-# Lecture 6 – Regex
+# Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex
 
 Presented by Joseph E. Gonzalez 
 
