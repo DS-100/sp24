@@ -218,7 +218,7 @@
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 3",
-    "content": "Jan 30 Lecture 5 Data Wrangling and EDA (Part 1) Note 5 Lecture Participation 5 Lecture Participation 5 Discussion 2 Pandas I, Worksheet Notebook, Groupwork Notebook Worksheet Solution, Video Groupwork Solution, Video Feb 1 Lecture 6 Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex (Fa23 Note - to be updated) Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
+    "content": "Jan 30 Lecture 5 Data Wrangling and EDA (Part 1) Note 5 Lecture Participation 5 Lecture Participation 5 Discussion 2 Pandas I, Worksheet Notebook, Groupwork Notebook Worksheet Solution, Video Groupwork Solution, Video Feb 1 Lecture 6 Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex (Fa23 Note - to be updated) Lecture Participation 6 Lecture Participation 6 Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
     "url": "/sp24/#week-3",
     
     "relUrl": "/#week-3"
@@ -372,7 +372,7 @@
   },"53": {
     "doc": "Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex",
     "title": "Lecture 6 – Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex",
-    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec06/#lecture-6--data-wrangling-and-eda-part-2--text-wrangling-and-regex",
     
     "relUrl": "/lecture/lec06/#lecture-6--data-wrangling-and-eda-part-2--text-wrangling-and-regex"
