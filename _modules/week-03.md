@@ -17,5 +17,5 @@ Feb 1
 : **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
 
 Feb 2
-: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Feb 6)
-: **Homework 2B**{: .label .label-hw } Food Safety II (due Feb 8)
+: **Lab 2B**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab02B%2Flab02B.ipynb&branch=main) (due Feb 6)
+: **Homework 2B**{: .label .label-hw } [Food Safety II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw02B%2Fhw02B.ipynb&branch=main) (due Feb 8)
