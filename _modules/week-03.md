@@ -12,8 +12,8 @@ Jan 30
 
 Feb 1
 : **Lecture 6**{: .label .label-lecture} [Data Wrangling and EDA (Part 2) & Text Wrangling and Regex](lecture/lec06)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/regex/regex.html) - to be updated)
-: **Lecture Participation 6**{: .label .label-survey } [Lecture Participation 6](https://app.sli.do/event/uvg9BVWK1BES99GzXk6uPZ/embed/polls/7c30037b-213a-4a3c-b652-3d683c893352f)
+    : [Note 6](https://ds100.org/course-notes/regex/regex.html)
+: **Lecture Participation 6**{: .label .label-survey } [Lecture Participation 6](https://app.sli.do/event/uvg9BVWK1BES99GzXk6uPZ/embed/polls/7c30037b-213a-4a3c-b652-3d683c893352)
 : **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
 
 Feb 2
