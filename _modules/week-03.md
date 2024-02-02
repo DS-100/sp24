@@ -15,6 +15,7 @@ Feb 1
     : [Note 6](https://ds100.org/course-notes/regex/regex.html)
 : **Lecture Participation 6**{: .label .label-survey } [Lecture Participation 6](https://app.sli.do/event/uvg9BVWK1BES99GzXk6uPZ/embed/polls/7c30037b-213a-4a3c-b652-3d683c893352)
 : **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1Bj_tu3TnI9aCg1SjHsKENw6ACxx4Gthm/view?usp=sharing)
 
 Feb 2
 : **Lab 2B**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab02B%2Flab02B.ipynb&branch=main) (due Feb 6)
