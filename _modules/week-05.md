@@ -13,4 +13,4 @@ Feb 15
 
 Feb 16
 : **Lab 4**{: .label .label-lab } Transformations (due Feb 20)
-: **Homework 3**{: .label .label-hw } Bike Sharing (due Feb 22)
+: **Homework 4**{: .label .label-hw } Bike Sharing (due Feb 22)
