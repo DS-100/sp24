@@ -4,7 +4,7 @@ title: Week 4
 
 Feb 6
 : **Lecture 7**{: .label .label-lecture} Visualization I
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/visualization_1/visualization_1.html) - to be updated)
+    : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA
 
