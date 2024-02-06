@@ -5,6 +5,7 @@ title: Week 4
 Feb 6
 : **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
+: **Lecture Participation 7**{: .label .label-survey } [Lecture Participation 7](https://app.sli.do/event/kyBZi8W6Xb72izwTmTaw59/embed/polls/a331b697-7021-4acc-b94f-32081e2e0f7c)
 
 : **Discussion 3**{: .label .label-disc } [Pandas II, EDA](https://drive.google.com/file/d/1QkJSCLEi8dLjepXTn9k9sdQhNPodf0on/view)
 

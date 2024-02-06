@@ -225,7 +225,7 @@
   },"32": {
     "doc": "Home / Schedule",
     "title": "Week 4",
-    "content": "Feb 6 Lecture 7 Visualization I (Fa23 Note - to be updated) Discussion 3 Pandas II, EDA . Feb 8 Lecture 8 Visualization II (Fa23 Note - to be updated) Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
+    "content": "Feb 6 Lecture 7 Visualization I Note 7 Lecture Participation 7 Lecture Participation 7 Discussion 3 Pandas II, EDA . Feb 8 Lecture 8 Visualization II (Fa23 Note - to be updated) Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
     "url": "/sp24/#week-4",
     
     "relUrl": "/#week-4"
@@ -386,7 +386,7 @@
   },"55": {
     "doc": "Lecture 7 – Visualization",
     "title": "Lecture 7 – Visualization I",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec07/#lecture-7--visualization-i",
     
     "relUrl": "/lecture/lec07/#lecture-7--visualization-i"
@@ -582,7 +582,7 @@
   },"83": {
     "doc": "Resources",
     "title": "Exam Resources",
-    "content": "| Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Video] | Exam (Solutions) [Video] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Video] |   | . | Fall 2017 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
+    "content": "| Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Video] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Video] | Exam (Solutions) [Video] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Video] |   | . | Fall 2017 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/sp24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
