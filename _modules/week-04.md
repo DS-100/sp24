@@ -6,7 +6,7 @@ Feb 6
 : **Lecture 7**{: .label .label-lecture} Visualization I
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 
-: **Discussion 3**{: .label .label-disc } Pandas II, EDA
+: **Discussion 3**{: .label .label-disc } [Pandas II, EDA](https://drive.google.com/file/d/1QkJSCLEi8dLjepXTn9k9sdQhNPodf0on/view)
 
 Feb 8
 : **Lecture 8**{: .label .label-lecture} Visualization II
