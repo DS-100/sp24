@@ -3,12 +3,14 @@ title: Week 4
 ---
 
 Feb 6
-: **Lecture 7**{: .label .label-lecture} Visualization I
+: **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
+    : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 
-: **Discussion 3**{: .label .label-disc } Pandas II, EDA
+: **Discussion 3**{: .label .label-disc } [Pandas II, EDA](https://drive.google.com/file/d/1QkJSCLEi8dLjepXTn9k9sdQhNPodf0on/view)
 
 Feb 8
 : **Lecture 8**{: .label .label-lecture} Visualization II
+    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/visualization_2/visualization_2.html) - to be updated)
 
 
 Feb 9
