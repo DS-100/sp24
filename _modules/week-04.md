@@ -14,6 +14,7 @@ Feb 6
 Feb 8
 : **Lecture 8**{: .label .label-lecture} [Visualization II](lecture/lec08)
     : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
+: **Lecture Participation 8**{: .label .label-survey } [Lecture Participation 8](https://app.sli.do/event/xoDDAduNrUpYuFVXAuygxt/embed/polls/c5cd2c58-da34-45fc-b3b1-a53f386b5a22)
 
 
 Feb 9

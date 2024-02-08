@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 3 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 4 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -225,7 +225,7 @@
   },"32": {
     "doc": "Home / Schedule",
     "title": "Week 4",
-    "content": "Feb 6 Lecture 7 Visualization I Note 7 Lecture Participation 7 Lecture Participation 7 Discussion 3 Pandas II, EDA Solution Feb 8 Lecture 8 Visualization II (Fa23 Note - to be updated) Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
+    "content": "Feb 6 Lecture 7 Visualization I Note 7 Lecture Participation 7 Lecture Participation 7 Discussion 3 Pandas II, EDA Solution Feb 8 Lecture 8 Visualization II Note 8 Lecture Participation 8 Lecture Participation 8 Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
     "url": "/sp24/#week-4",
     
     "relUrl": "/#week-4"
@@ -400,7 +400,7 @@
   },"57": {
     "doc": "Lecture 8 – Visualization II",
     "title": "Lecture 8 – Visualization II",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec08/",
     
     "relUrl": "/lecture/lec08/"
