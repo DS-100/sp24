@@ -13,7 +13,7 @@ Feb 6
 
 Feb 8
 : **Lecture 8**{: .label .label-lecture} [Visualization II](lecture/lec08)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/visualization_2/visualization_2.html) - to be updated)
+    : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 
 
 Feb 9
