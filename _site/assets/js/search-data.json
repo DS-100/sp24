@@ -218,21 +218,21 @@
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 3",
-    "content": "Jan 30 Lecture 5 Data Wrangling and EDA (Part 1) Note 5 Lecture Participation 5 Lecture Participation 5 Discussion 2 Pandas I, Worksheet Notebook, Groupwork Notebook Worksheet Solution, Video Groupwork Solution, Video Feb 1 Lecture 6 Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex Note 6 Lecture Participation 6 Lecture Participation 6 Exam Prep 1 Pandas Solution Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
+    "content": "Jan 30 Lecture 5 Data Wrangling and EDA (Part 1) Note 5 Lecture Participation 5 Lecture Participation 5 Discussion 2 Pandas I, Worksheet Notebook, Groupwork Notebook Worksheet Solution, Video Groupwork Solution, Video Feb 1 Lecture 6 Data Wrangling and EDA (Part 2) &amp; Text Wrangling and Regex Note 6 Lecture Participation 6 Lecture Participation 6 Exam Prep 1 Pandas Solution, Video Feb 2 Lab 2B Data Cleaning and EDA (due Feb 6) Homework 2B Food Safety II (due Feb 8) ",
     "url": "/sp24/#week-3",
     
     "relUrl": "/#week-3"
   },"32": {
     "doc": "Home / Schedule",
     "title": "Week 4",
-    "content": "Feb 6 Lecture 7 Visualization I Note 7 Lecture Participation 7 Lecture Participation 7 Discussion 3 Pandas II, EDA Solution Feb 8 Lecture 8 Visualization II Note 8 Lecture Participation 8 Lecture Participation 8 Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
+    "content": "Feb 6 Lecture 7 Visualization I Note 7 Lecture Participation 7 Lecture Participation 7 Discussion 3 Pandas II, EDA, Regex Solution Feb 8 Lecture 8 Visualization II Note 8 Lecture Participation 8 Lecture Participation 8 Feb 9 Lab 3 Regex, EDA (due Feb 13) Homework 3 Tweets (due Feb 15) ",
     "url": "/sp24/#week-4",
     
     "relUrl": "/#week-4"
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "Feb 13 Lecture 9 Sampling Discussion 4 Regex, Visualization, and Transformation . Feb 15 Lecture 10 Modeling, SLR Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
+    "content": "Feb 13 Lecture 9 Sampling Discussion 4 Visualization, and Transformation . Feb 15 Lecture 10 Modeling, SLR Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
