@@ -22,4 +22,4 @@ Feb 8
 
 Feb 9
 : **Lab 3**{: .label .label-lab } [Regex, EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab03%2Flab03.ipynb&branch=main) (due Feb 13)
-: **Homework 3**{: .label .label-hw } [Tweets](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2F%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) (due Feb 15)
+: **Homework 3**{: .label .label-hw } [Text Analysis of Bloomberg Articles](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2F%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) (due Feb 15)
