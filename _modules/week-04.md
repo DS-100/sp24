@@ -15,8 +15,11 @@ Feb 8
 : **Lecture 8**{: .label .label-lecture} [Visualization II](lecture/lec08)
     : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 : **Lecture Participation 8**{: .label .label-survey } [Lecture Participation 8](https://app.sli.do/event/xoDDAduNrUpYuFVXAuygxt/embed/polls/c5cd2c58-da34-45fc-b3b1-a53f386b5a22)
+: **Exam Prep 2**{: .label .label-vit } [Pandas II, RegEx](https://drive.google.com/file/d/1mojtbASPO8BrQG3He9EwkXl7zSCb6FvA/view?usp=drive_link)
+    : [Solution](https://drive.google.com/file/d/1HJFrHVYRj8YuLDcrM2Vlrjd5W6Tr55Wv/view?usp=drive_link){:target="_blank"}
+
 
 
 Feb 9
-: **Lab 3**{: .label .label-lab } Regex, EDA (due Feb 13)
-: **Homework 3**{: .label .label-hw } Text Analysis of Bloomberg Articles (due Feb 15)
+: **Lab 3**{: .label .label-lab } [Regex, EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab03%2Flab03.ipynb&branch=main) (due Feb 13)
+: **Homework 3**{: .label .label-hw } [Tweets](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2F%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) (due Feb 15)
