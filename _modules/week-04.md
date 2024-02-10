@@ -19,4 +19,4 @@ Feb 8
 
 Feb 9
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Feb 13)
-: **Homework 3**{: .label .label-hw } Tweets (due Feb 15)
+: **Homework 3**{: .label .label-hw } Text Analysis of Bloomberg Articles (due Feb 15)
