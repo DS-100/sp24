@@ -16,6 +16,7 @@ Feb 8
     : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 : **Lecture Participation 8**{: .label .label-survey } [Lecture Participation 8](https://app.sli.do/event/xoDDAduNrUpYuFVXAuygxt/embed/polls/c5cd2c58-da34-45fc-b3b1-a53f386b5a22)
 : **Exam Prep 2**{: .label .label-vit } [Pandas II, RegEx](https://drive.google.com/file/d/1mojtbASPO8BrQG3He9EwkXl7zSCb6FvA/view?usp=drive_link)
+    : [Solution](https://drive.google.com/file/d/1HJFrHVYRj8YuLDcrM2Vlrjd5W6Tr55Wv/view?usp=drive_link){:target="_blank"}
 
 
 
