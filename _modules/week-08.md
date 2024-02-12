@@ -3,11 +3,11 @@ title: Week 8
 ---
 
 Mar 5
-: **Lecture 15**{: .label .label-lecture} Guest Lecture - TBD
+: **Lecture 15**{: .label .label-lecture} Case Study (HCE): CCAO
 : **Discussion 7**{: .label .label-disc } OLS, Gradient Descent
 
 Mar 7
-: **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
+: **Lecture 16**{: .label .label-lecture} Guest Lecture - TBD
 
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
