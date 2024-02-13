@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Feb 13
-: **Lecture 9**{: .label .label-lecture} Sampling
+: **Lecture 9**{: .label .label-lecture} [Sampling](lecture/lec09)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/sampling/sampling.html) - to be updated)
 : **Discussion 4**{: .label .label-disc } [Visualization, and Transformation](https://drive.google.com/file/d/1pMzukNJOnuS5Xf9zu08P9THYBun_sNq5/view)
 
