@@ -232,7 +232,7 @@
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "Feb 13 Lecture 9 Sampling (Fa23 Note - to be updated) Discussion 4 Visualization, and Transformation Feb 15 Lecture 10 Modeling, SLR (Fa23 Note - to be updated) Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
+    "content": "Feb 13 Lecture 9 Sampling (Fa23 Note - to be updated) Discussion 4 Visualization, and Transformation, Worksheet Notebook Feb 15 Lecture 10 Modeling, SLR (Fa23 Note - to be updated) Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
@@ -407,7 +407,7 @@
   },"58": {
     "doc": "Lecture 9 – Sampling",
     "title": "Lecture 9 – Sampling",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec09/",
     
     "relUrl": "/lecture/lec09/"
