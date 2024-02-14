@@ -7,7 +7,7 @@ Mar 5
 : **Discussion 7**{: .label .label-disc } OLS, Gradient Descent
 
 Mar 7
-: **Lecture 16**{: .label .label-lecture} Guest Lecture - TBD
+: **Lecture 16**{: .label .label-lecture} No Lecture
 
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
