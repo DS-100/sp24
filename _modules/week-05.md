@@ -11,7 +11,7 @@ Feb 13
 
 
 Feb 15
-: **Lecture 10**{: .label .label-lecture} Modeling, SLR
+: **Lecture 10**{: .label .label-lecture} [Modeling, SLR](lecture/lec10)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/intro_to_modeling/intro_to_modeling.html) - to be updated)
 
 Feb 16
