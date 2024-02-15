@@ -232,7 +232,7 @@
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Discussion 4 Visualization, and Transformation, Worksheet Notebook . Feb 15 Lecture 10 Modeling, SLR (Fa23 Note - to be updated) Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
+    "content": "Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Discussion 4 Visualization, and Transformation, Worksheet Notebook Worksheet Solution, Notebook Solution . Feb 15 Lecture 10 Modeling, SLR (Fa23 Note - to be updated) Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
@@ -253,7 +253,7 @@
   },"36": {
     "doc": "Home / Schedule",
     "title": "Week 8",
-    "content": "Mar 5 Lecture 15 Case Study (HCE): CCAO Discussion 7 OLS, Gradient Descent Mar 7 Lecture 16 Guest Lecture - TBD Midterm Exam Midterm (7-9 PM PST) . Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
+    "content": "Mar 5 Lecture 15 Case Study (HCE): CCAO Discussion 7 OLS, Gradient Descent Mar 7 Lecture 16 No Lecture Midterm Exam Midterm (7-9 PM PST) . Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
     "url": "/sp24/#week-8",
     
     "relUrl": "/#week-8"
@@ -414,7 +414,7 @@
   },"59": {
     "doc": "Lecture 10 – Intro to Modeling, SLR",
     "title": "Lecture 10 – Intro to Modeling, SLR",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | recording | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | . ",
     "url": "/sp24/lecture/lec10/",
     
     "relUrl": "/lecture/lec10/"
