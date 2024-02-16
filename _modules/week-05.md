@@ -14,7 +14,7 @@ Feb 13
 
 Feb 15
 : **Lecture 10**{: .label .label-lecture} [Modeling, SLR](lecture/lec10)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/intro_to_modeling/intro_to_modeling.html) - to be updated)
+    : [Note 10](https://ds100.org/course-notes/intro_to_modeling/intro_to_modeling.html)
 : **Lecture Participation 10**{: .label .label-survey } [Lecture Participation 10](https://app.sli.do/event/uKi4DcywXuqhzD6r3tuAMH/embed/polls/67d90bfd-f1d3-4c11-a889-e5e8c1f4e4e9)
 : **Exam Prep 3**{: .label .label-vit } [Visualization](https://drive.google.com/file/d/1BFhRfg06QgpocBFPe4qB8oSv7AvIUGkU/view?usp=sharing)
 
