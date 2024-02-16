@@ -232,7 +232,7 @@
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Discussion 4 Visualization, and Transformation, Worksheet Notebook Worksheet Solution, Notebook Solution . Feb 15 Lecture 10 Modeling, SLR (Fa23 Note - to be updated) Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
+    "content": "Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Discussion 4 Visualization, and Transformation, Worksheet Notebook Worksheet Solution, Notebook Solution . Feb 15 Lecture 10 Modeling, SLR (Fa23 Note - to be updated) Lecture Participation 10 Lecture Participation 10 Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
@@ -414,7 +414,7 @@
   },"59": {
     "doc": "Lecture 10 – Intro to Modeling, SLR",
     "title": "Lecture 10 – Intro to Modeling, SLR",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | recording | . ",
     "url": "/sp24/lecture/lec10/",
     
     "relUrl": "/lecture/lec10/"
