@@ -164,3 +164,7 @@ a {
 .btn-youtube {
   @include btn-color($white, #FF0000);
 }
+
+.btn-oh {
+  @include btn-color($white, #ff1493);
+}

@@ -2466,3 +2466,8 @@ a { color: #2869e6; }
 .btn-youtube:hover, .btn-youtube.zeroclipboard-is-hover { color: #fff; background-color: #eb0000; background-image: linear-gradient(#ff0a0a, #eb0000); }
 .btn-youtube:active, .btn-youtube.selected, .btn-youtube.zeroclipboard-is-active { background-color: #e60000; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
 .btn-youtube.selected:hover { background-color: #cc0000; }
+
+.btn-oh { color: #fff; background-color: #ff0a8e; background-image: linear-gradient(#ff2e9f, #ff0a8e); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
+.btn-oh:hover, .btn-oh.zeroclipboard-is-hover { color: #fff; background-color: #ff008a; background-image: linear-gradient(#ff1e98, #ff008a); }
+.btn-oh:active, .btn-oh.selected, .btn-oh.zeroclipboard-is-active { background-color: #fa0087; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
+.btn-oh.selected:hover { background-color: #e00079; }
