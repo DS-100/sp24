@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 5 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 5 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -239,7 +239,7 @@
   },"34": {
     "doc": "Home / Schedule",
     "title": "Week 6",
-    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations Discussion 5 Probability, Sampling, and Visualization . Feb 22 Lecture 12 OLS (Multiple Regression) Feb 23 Lab 5 Modeling, Summary Statistics, and Loss Functions (due Feb 27) Homework 5 Modeling (due Feb 29) ",
+    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations (Fa23 Note - to be updated) Discussion 5 Probability, Sampling, and Visualization . Feb 22 Lecture 12 OLS (Multiple Regression) (Fa23 Note - to be updated) Feb 23 Lab 5 Modeling, Summary Statistics, and Loss Functions (due Feb 27) Homework 5 Modeling (due Feb 29) ",
     "url": "/sp24/#week-6",
     
     "relUrl": "/#week-6"
