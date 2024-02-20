@@ -14,4 +14,4 @@ Mar 21
 
 Mar 22
 : **Lab 9**{: .label .label-lab }  Probability (due Apr 2)
-: **Homework 7**{: .label .label-hw } Probability (due Apr 4)
+: **Homework 6**{: .label .label-hw } Probability (due Apr 4)

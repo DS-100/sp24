@@ -14,4 +14,4 @@ Apr 4
 
 Apr 5
 : **Lab 10**{: .label .label-lab }  SQL (due Apr 9)
-: **Homework 8**{: .label .label-hw } SQL (due Apr 11)
+: **Homework 7**{: .label .label-hw } SQL (due Apr 11)

@@ -14,4 +14,4 @@ Feb 22
 
 Feb 23
 : **Lab 5**{: .label .label-lab }  Modeling, Summary Statistics, and Loss Functions (due Feb 27)
-: **Homework 5**{: .label .label-hw } Modeling (due Feb 29)
+: **Homework 5**{: .label .label-hw } Modeling and Regression (due Feb 29)
