@@ -17,7 +17,7 @@ Feb 15
     : [Note 10](https://ds100.org/course-notes/intro_to_modeling/intro_to_modeling.html)
 : **Lecture Participation 10**{: .label .label-survey } [Lecture Participation 10](https://app.sli.do/event/uKi4DcywXuqhzD6r3tuAMH/embed/polls/67d90bfd-f1d3-4c11-a889-e5e8c1f4e4e9)
 : **Exam Prep 3**{: .label .label-vit } [Visualization](https://drive.google.com/file/d/1BFhRfg06QgpocBFPe4qB8oSv7AvIUGkU/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/1mp5zJzCnNnqXnxhQwvZ78nX3xu8YP2k9/view?usp=drive_link)
+    : [Solution](https://drive.google.com/file/d/1mp5zJzCnNnqXnxhQwvZ78nX3xu8YP2k9/view?usp=drive_link){:target="_blank"}, [Video](https://youtu.be/YYx7rxNP4GI)
 
 Feb 16
 : **Lab 4**{: .label .label-lab } [Transformations](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab04%2Flab04.ipynb&branch=main) (due Feb 20)
