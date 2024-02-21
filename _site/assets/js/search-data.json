@@ -232,21 +232,21 @@
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Discussion 4 Visualization, and Transformation, Worksheet Notebook Worksheet Solution, Notebook Solution . Feb 15 Lecture 10 Modeling, SLR Note 10 Lecture Participation 10 Lecture Participation 10 Exam Prep 3 Visualization Solution, Video Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
+    "content": "Feb 13 Lecture 9 Sampling Note 9 Lecture Participation 9 Lecture Participation 9 Discussion 4 Visualization and Transformation, Worksheet Notebook Worksheet Solution, Notebook Solution . Feb 15 Lecture 10 Modeling, SLR Note 10 Lecture Participation 10 Lecture Participation 10 Exam Prep 3 Visualization Solution, Video Feb 16 Lab 4 Transformations (due Feb 20) Homework 4 Bike Sharing (due Feb 22) ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
   },"34": {
     "doc": "Home / Schedule",
     "title": "Week 6",
-    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations (Fa23 Note - to be updated) Discussion 5 Probability, Sampling, and Visualization . Feb 22 Lecture 12 OLS (Multiple Regression) (Fa23 Note - to be updated) Feb 23 Lab 5 Modeling, Summary Statistics, and Loss Functions (due Feb 27) Homework 5 Modeling (due Feb 29) ",
+    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations Note 11 Lecture Participation 11 Lecture Participation 11 Discussion 5 Probability, Sampling, and Simple Linear Regression . Feb 22 Lecture 12 OLS (Multiple Regression) (Fa23 Note - to be updated) Feb 23 Lab 5 Modeling, Summary Statistics, and Loss Functions (due Feb 27) Homework 5 Modeling and Regression (due Feb 29) ",
     "url": "/sp24/#week-6",
     
     "relUrl": "/#week-6"
   },"35": {
     "doc": "Home / Schedule",
     "title": "Week 7",
-    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Discussion 6 Models . Feb 29 Lecture 14 Feature Engineering Mar 1 Lab 6 OLS (due Mar 5) Homework 6 Regression (due Mar 7) ",
+    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Discussion 6 Models . Feb 29 Lecture 14 Feature Engineering Mar 1 Lab 6 OLS (due Mar 5) ",
     "url": "/sp24/#week-7",
     
     "relUrl": "/#week-7"
@@ -267,7 +267,7 @@
   },"38": {
     "doc": "Home / Schedule",
     "title": "Week 10",
-    "content": "Mar 19 Lecture 19 Estimators, Bias, and Variance Discussion 9 Cross-Validation and Regularization . Mar 21 Lecture 20 Causal Inference and Confounding Mar 22 Lab 9 Probability (due Apr 2) Homework 7 Probability (due Apr 4) ",
+    "content": "Mar 19 Lecture 19 Estimators, Bias, and Variance Discussion 9 Cross-Validation and Regularization . Mar 21 Lecture 20 Causal Inference and Confounding Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
     "url": "/sp24/#week-10",
     
     "relUrl": "/#week-10"
@@ -281,7 +281,7 @@
   },"40": {
     "doc": "Home / Schedule",
     "title": "Week 12",
-    "content": "Apr 2 Lecture 21 SQL I Discussion 10 RVs, Bias, and Variance . Apr 4 Lecture 22 SQL II and Cloud Data Apr 5 Lab 10 SQL (due Apr 9) Homework 8 SQL (due Apr 11) ",
+    "content": "Apr 2 Lecture 21 SQL I Discussion 10 RVs, Bias, and Variance . Apr 4 Lecture 22 SQL II and Cloud Data Apr 5 Lab 10 SQL (due Apr 9) Homework 7 SQL (due Apr 11) ",
     "url": "/sp24/#week-12",
     
     "relUrl": "/#week-12"
@@ -421,7 +421,7 @@
   },"60": {
     "doc": "Lecture 11 – Constant model, Loss, and Transformations",
     "title": "Lecture 11 – Constant Model, Loss, and Transformations",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec11/#lecture-11--constant-model-loss-and-transformations",
     
     "relUrl": "/lecture/lec11/#lecture-11--constant-model-loss-and-transformations"
@@ -582,7 +582,7 @@
   },"83": {
     "doc": "Resources",
     "title": "Exam Resources",
-    "content": "| Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Video] | Exam (Solutions) [Video] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Video] |   | . | Fall 2017 | Exam (Solutions) [Video] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
+    "content": "| Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/sp24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
