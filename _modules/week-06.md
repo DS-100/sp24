@@ -13,6 +13,9 @@ Feb 20
 Feb 22
 : **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/ols/ols.html) - to be updated)
+: **Exam Prep 4**{: .label .label-vit } [Sampling](https://drive.google.com/file/d/1r7rCzF19kSSYLU2acQ_fmpvf5LnSDADH/view?usp=sharing)
+    <!-- : [Solution](https://drive.google.com/file/d/1mp5zJzCnNnqXnxhQwvZ78nX3xu8YP2k9/view?usp=drive_link){:target="_blank"}, [Video](https://youtu.be/YYx7rxNP4GI) -->
+
 
 Feb 23
 : **Lab 5**{: .label .label-lab }  Modeling, Summary Statistics, and Loss Functions (due Feb 27)
