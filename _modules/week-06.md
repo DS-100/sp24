@@ -11,7 +11,7 @@ Feb 20
     : [Solution](https://drive.google.com/file/d/1l4fYJBmXXjApIxlYoifWpHOt918wUKdD/view){:target="_blank"}
 
 Feb 22
-: **Lecture 12**{: .label .label-lecture} OLS (Multiple Regression)
+: **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/ols/ols.html) - to be updated)
 
 Feb 23
