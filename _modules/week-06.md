@@ -19,5 +19,5 @@ Feb 22
 
 
 Feb 23
-: **Lab 5**{: .label .label-lab }  Modeling, Summary Statistics, and Loss Functions (due Feb 27)
-: **Homework 5**{: .label .label-hw } Modeling and Regression (due Feb 29)
+: **Lab 5**{: .label .label-lab }  [Modeling, Loss Functions, and Summary Statistics](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab05%2Flab05.ipynb&branch=main) (due Feb 27)
+: **Homework 5**{: .label .label-hw } [Sampling](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main) (due Feb 29)
