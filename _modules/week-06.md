@@ -12,7 +12,7 @@ Feb 20
 
 Feb 22
 : **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/ols/ols.html) - to be updated)
+    : [Note 12](https://ds100.org/course-notes/ols/ols.html)
 : **Lecture Participation 12**{: .label .label-survey } [Lecture Participation 12](https://app.sli.do/event/di9LwLNAgXJ3a4sWFULzrf/embed/polls/8be431e7-00ed-4023-bba9-b3d2c53077ec)
 : **Exam Prep 4**{: .label .label-vit } [Sampling](https://drive.google.com/file/d/1r7rCzF19kSSYLU2acQ_fmpvf5LnSDADH/view?usp=sharing)
     <!-- : [Solution](https://drive.google.com/file/d/1mp5zJzCnNnqXnxhQwvZ78nX3xu8YP2k9/view?usp=drive_link){:target="_blank"}, [Video](https://youtu.be/YYx7rxNP4GI) -->
