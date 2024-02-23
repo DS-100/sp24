@@ -8,7 +8,7 @@ Feb 6
 : **Lecture Participation 7**{: .label .label-survey } [Lecture Participation 7](https://app.sli.do/event/kyBZi8W6Xb72izwTmTaw59/embed/polls/a331b697-7021-4acc-b94f-32081e2e0f7c)
 
 : **Discussion 3**{: .label .label-disc } [Pandas II, EDA, Regex](https://drive.google.com/file/d/1QkJSCLEi8dLjepXTn9k9sdQhNPodf0on/view)
-    : [Solution](https://drive.google.com/file/d/1UhRo1135S0KzAv2iRqMVvUOSfm07Nx2u/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1UhRo1135S0KzAv2iRqMVvUOSfm07Nx2u/view?usp=sharing){:target="_blank"}, [Video](https://youtu.be/we5hk2bokZE)
 
 
 Feb 8

@@ -9,7 +9,7 @@ Feb 13
 
 : **Discussion 4**{: .label .label-disc } [Visualization and Transformation](https://drive.google.com/file/d/1pMzukNJOnuS5Xf9zu08P9THYBun_sNq5/view), [Worksheet Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=tree%2Fsp24-student%2Fdisc%2Fdisc04%2Fdisc04_visualizations%2Fdisc04_coding_exercises.ipynb&branch=main)
 
-    : Worksheet [Solution](https://drive.google.com/file/d/1Ms_sTgBIfftd0lfYge7wWubII4-vtPYD/view?usp=sharing), Notebook [Solution](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=tree%2Fsp24-student%2Fdisc%2Fdisc04%2Fdisc04_visualizations%2Fdisc04_coding_exercises_gsi.ipynb&branch=main)
+    : Worksheet [Solution](https://drive.google.com/file/d/1Ms_sTgBIfftd0lfYge7wWubII4-vtPYD/view?usp=sharing), Notebook [Solution](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=tree%2Fsp24-student%2Fdisc%2Fdisc04%2Fdisc04_visualizations%2Fdisc04_coding_exercises_gsi.ipynb&branch=main), [Video](https://youtu.be/q0sRHAkbcVI)
 
 
 Feb 15
