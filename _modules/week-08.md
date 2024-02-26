@@ -4,7 +4,7 @@ title: Week 8
 
 Mar 5
 : **Lecture 15**{: .label .label-lecture} Case Study (HCE): CCAO
-: **Discussion 7**{: .label .label-disc } OLS, Gradient Descent
+: **Discussion 7**{: .label .label-disc } Midterm Review
 
 Mar 7
 : **Lecture 16**{: .label .label-lecture} No Lecture
