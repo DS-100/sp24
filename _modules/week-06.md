@@ -15,7 +15,7 @@ Feb 22
     : [Note 12](https://ds100.org/course-notes/ols/ols.html)
 : **Lecture Participation 12**{: .label .label-survey } [Lecture Participation 12](https://app.sli.do/event/di9LwLNAgXJ3a4sWFULzrf/embed/polls/8be431e7-00ed-4023-bba9-b3d2c53077ec)
 : **Exam Prep 4**{: .label .label-vit } [Sampling](https://drive.google.com/file/d/1r7rCzF19kSSYLU2acQ_fmpvf5LnSDADH/view?usp=sharing)
-    : [Video](https://youtu.be/m3XEZUA_HBU)
+    : [Solution](https://drive.google.com/file/d/1HeSPwI54AD8zznSi2NhfnpsOukzjUcU-/view?usp=sharing), [Video](https://youtu.be/m3XEZUA_HBU)
     <!-- : [Solution](https://drive.google.com/file/d/1mp5zJzCnNnqXnxhQwvZ78nX3xu8YP2k9/view?usp=drive_link){:target="_blank"}, [Video](https://youtu.be/YYx7rxNP4GI) -->
     
 
