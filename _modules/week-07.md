@@ -4,7 +4,7 @@ title: Week 7
 
 Feb 27
 : **Lecture 13**{: .label .label-lecture} [Gradient descent / sklearn](lecture/lec13)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/gradient_descent/gradient_descent.html) - to be updated)
+    : [Note 11](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
 : **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/2HTD1yqcaC7F3RL1nok8jw/embed/polls/f84bcceb-e12f-4ef6-9f03-4aac2a26db58)
 
 : **Discussion 6**{: .label .label-disc } [Constant Models, OLS, and Multiple Linear Regression](https://drive.google.com/file/d/1XdbKUvIKYVHBW3BSAXyIQIRdxm5i1iwN/view)
