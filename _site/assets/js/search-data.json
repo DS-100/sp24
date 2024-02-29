@@ -246,7 +246,7 @@
   },"35": {
     "doc": "Home / Schedule",
     "title": "Week 7",
-    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Note 11 Lecture Participation 13 Lecture Participation 13 Discussion 6 Constant Models, OLS, and Multiple Linear Regression Solution Feb 29 Lecture 14 Feature Engineering (Fa23 Note - to be updated) Exam Prep 5 OLS Solution Mar 1 Lab 6 OLS (due Mar 5) ",
+    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Note 11 Lecture Participation 13 Lecture Participation 13 Discussion 6 Constant Models, OLS, and Multiple Linear Regression Solution Feb 29 Lecture 14 Feature Engineering (Fa23 Note - to be updated) Lecture Participation 14 Lecture Participation 13 Exam Prep 5 OLS Solution Mar 1 Lab 6 OLS (due Mar 5) ",
     "url": "/sp24/#week-7",
     
     "relUrl": "/#week-7"
@@ -449,7 +449,7 @@
   },"64": {
     "doc": "Lecture 14 – Sklearn and Feature Engineering",
     "title": "Lecture 14 – Sklearn and Feature Engineering",
-    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec14/",
     
     "relUrl": "/lecture/lec14/"
