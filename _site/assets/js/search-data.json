@@ -239,14 +239,14 @@
   },"34": {
     "doc": "Home / Schedule",
     "title": "Week 6",
-    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations Note 11 Lecture Participation 11 Lecture Participation 11 Discussion 5 Probability, Sampling, and Simple Linear Regression Solution Feb 22 Lecture 12 OLS (Multiple Regression) Note 12 Lecture Participation 12 Lecture Participation 12 Exam Prep 4 Sampling Video Feb 23 Lab 5 Modeling, Loss Functions, and Summary Statistics (due Feb 27) Homework 5 Sampling (due Feb 29) ",
+    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations Note 11 Lecture Participation 11 Lecture Participation 11 Discussion 5 Probability, Sampling, and Simple Linear Regression Solution Feb 22 Lecture 12 OLS (Multiple Regression) Note 12 Lecture Participation 12 Lecture Participation 12 Exam Prep 4 Sampling Solution, Video Feb 23 Lab 5 Modeling, Loss Functions, and Summary Statistics (due Feb 27) Homework 5 Sampling (due Feb 29) ",
     "url": "/sp24/#week-6",
     
     "relUrl": "/#week-6"
   },"35": {
     "doc": "Home / Schedule",
     "title": "Week 7",
-    "content": "Feb 27 Lecture 13 Gradient descent / sklearn (Fa23 Note - to be updated) Lecture Participation 13 Lecture Participation 13 Discussion 6 Constant Models, OLS, and Multiple Linear Regression . Feb 29 Lecture 14 Feature Engineering (Fa23 Note - to be updated) Mar 1 Lab 6 OLS (due Mar 5) ",
+    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Note 11 Lecture Participation 13 Lecture Participation 13 Discussion 6 Constant Models, OLS, and Multiple Linear Regression Solution Feb 29 Lecture 14 Feature Engineering (Fa23 Note - to be updated) Exam Prep 5 OLS Solution Mar 1 Lab 6 OLS (due Mar 5) ",
     "url": "/sp24/#week-7",
     
     "relUrl": "/#week-7"
@@ -442,14 +442,14 @@
   },"63": {
     "doc": "Lecture 13 – Gradient Descent",
     "title": "Lecture 13 – Gradient Descent",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec13/",
     
     "relUrl": "/lecture/lec13/"
   },"64": {
     "doc": "Lecture 14 – Sklearn and Feature Engineering",
     "title": "Lecture 14 – Sklearn and Feature Engineering",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec14/",
     
     "relUrl": "/lecture/lec14/"
@@ -582,7 +582,7 @@
   },"83": {
     "doc": "Resources",
     "title": "Exam Resources",
-    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
+    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/sp24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"

@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 13 – Gradient Descent
 
-Presented by Fernando Pérez
+Presented by Joseph E. Gonzalez 
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 

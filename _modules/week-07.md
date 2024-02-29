@@ -11,7 +11,7 @@ Feb 27
     : [Solution](https://drive.google.com/file/d/1UNM97mS6jnd1xFVytHj4aMKhreuVvhCn/view){:target="_blank"}
 
 Feb 29
-: **Lecture 14**{: .label .label-lecture} Feature Engineering
+: **Lecture 14**{: .label .label-lecture} [Feature Engineering](lecture/lec14)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/feature_engineering/feature_engineering.html) - to be updated)
 : **Exam Prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/1y5itmGnFxa8S-hC9s0ooGbm8gVn_uQnV/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing)<!-- , [Video](https://youtu.be/m3XEZUA_HBU) -->
