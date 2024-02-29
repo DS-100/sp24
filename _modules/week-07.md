@@ -13,6 +13,8 @@ Feb 27
 Feb 29
 : **Lecture 14**{: .label .label-lecture} Feature Engineering
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/feature_engineering/feature_engineering.html) - to be updated)
+: **Exam Prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/1y5itmGnFxa8S-hC9s0ooGbm8gVn_uQnV/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing)<!-- , [Video](https://youtu.be/m3XEZUA_HBU) -->
 
 Mar 1
 : **Lab 6**{: .label .label-lab }  OLS (due Mar 5)
