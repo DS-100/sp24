@@ -18,4 +18,4 @@ Feb 29
     : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing)<!-- , [Video](https://youtu.be/m3XEZUA_HBU) -->
 
 Mar 1
-: **Lab 6**{: .label .label-lab }  OLS (due Mar 5)
+: **Lab 6**{: .label .label-lab }  [OLS](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due Mar 5)
