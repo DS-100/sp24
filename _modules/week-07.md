@@ -4,7 +4,7 @@ title: Week 7
 
 Feb 27
 : **Lecture 13**{: .label .label-lecture} [Gradient descent / sklearn](lecture/lec13)
-    : [Note 11](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
+    : [Note 13](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
 : **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/2HTD1yqcaC7F3RL1nok8jw/embed/polls/f84bcceb-e12f-4ef6-9f03-4aac2a26db58)
 
 : **Discussion 6**{: .label .label-disc } [Constant Models, OLS, and Multiple Linear Regression](https://drive.google.com/file/d/1XdbKUvIKYVHBW3BSAXyIQIRdxm5i1iwN/view)
@@ -12,7 +12,7 @@ Feb 27
 
 Feb 29
 : **Lecture 14**{: .label .label-lecture} [Feature Engineering](lecture/lec14)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/feature_engineering/feature_engineering.html) - to be updated)
+    : [Note 14](https://ds100.org/course-notes/feature_engineering/feature_engineering.html)
 : **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/dEhz5DBPDgMvTrEUJdJe8B/embed/polls/eeba6954-121e-44b0-8396-4e8cb3282ee6)
 : **Exam Prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/1y5itmGnFxa8S-hC9s0ooGbm8gVn_uQnV/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing)<!-- , [Video](https://youtu.be/m3XEZUA_HBU) -->
