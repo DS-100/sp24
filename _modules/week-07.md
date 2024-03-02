@@ -15,7 +15,7 @@ Feb 29
     : [Note 14](https://ds100.org/course-notes/feature_engineering/feature_engineering.html)
 : **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/dEhz5DBPDgMvTrEUJdJe8B/embed/polls/eeba6954-121e-44b0-8396-4e8cb3282ee6)
 : **Exam Prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/1y5itmGnFxa8S-hC9s0ooGbm8gVn_uQnV/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing), Video [Part 1](https://youtu.be/x96KgmmWJhk), [Part 2](https://youtu.be/wceI7Mh_a9M), [Part 3](https://youtu.be/gkooxv_jScI), [Part 4](https://youtu.be/6KF9e46rfz8)
+    : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing), [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE)
 
 Mar 1
 : **Lab 6**{: .label .label-lab }  [OLS](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due Mar 5)
