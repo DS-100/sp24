@@ -9,7 +9,6 @@ Mar 5
 
 Mar 7
 : **Lecture 16**{: .label .label-lecture} No Lecture
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/cv_regularization/cv_reg.html) - to be updated)
 
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
