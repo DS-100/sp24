@@ -8,7 +8,7 @@ Feb 20
 : **Lecture Participation 11**{: .label .label-survey } [Lecture Participation 11](https://app.sli.do/event/2VGnqNwokS2rzhhGQ4BAn4/embed/polls/09adc993-bea7-42d6-a3f4-95dfb4ce8df7)
 
 : **Discussion 5**{: .label .label-disc } [Probability, Sampling, and Simple Linear Regression](https://drive.google.com/file/d/1AiYM8JJZdJs8jPMuC9rW5nfcN_IjQuF3/view)
-    : [Solution](https://drive.google.com/file/d/1l4fYJBmXXjApIxlYoifWpHOt918wUKdD/view){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1l4fYJBmXXjApIxlYoifWpHOt918wUKdD/view){:target="_blank"}, [Video](https://youtu.be/VUTv2Ror7hE){:target="_blank"}
 
 Feb 22
 : **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
