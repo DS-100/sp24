@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 7 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 8 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -239,21 +239,21 @@
   },"34": {
     "doc": "Home / Schedule",
     "title": "Week 6",
-    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations Note 11 Lecture Participation 11 Lecture Participation 11 Discussion 5 Probability, Sampling, and Simple Linear Regression Solution Feb 22 Lecture 12 OLS (Multiple Regression) Note 12 Lecture Participation 12 Lecture Participation 12 Exam Prep 4 Sampling Solution, Video Feb 23 Lab 5 Modeling, Loss Functions, and Summary Statistics (due Feb 27) Homework 5 Sampling (due Feb 29) ",
+    "content": "Feb 20 Lecture 11 Constant model, Loss, and Transformations Note 11 Lecture Participation 11 Lecture Participation 11 Discussion 5 Probability, Sampling, and Simple Linear Regression Solution, Video Feb 22 Lecture 12 OLS (Multiple Regression) Note 12 Lecture Participation 12 Lecture Participation 12 Exam Prep 4 Sampling Solution, Video Feb 23 Lab 5 Modeling, Loss Functions, and Summary Statistics (due Feb 27) Homework 5 Sampling (due Feb 29) ",
     "url": "/sp24/#week-6",
     
     "relUrl": "/#week-6"
   },"35": {
     "doc": "Home / Schedule",
     "title": "Week 7",
-    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Note 11 Lecture Participation 13 Lecture Participation 13 Discussion 6 Constant Models, OLS, and Multiple Linear Regression Solution Feb 29 Lecture 14 Feature Engineering (Fa23 Note - to be updated) Lecture Participation 14 Lecture Participation 13 Exam Prep 5 OLS Solution Mar 1 Lab 6 OLS (due Mar 5) ",
+    "content": "Feb 27 Lecture 13 Gradient descent / sklearn Note 13 Lecture Participation 13 Lecture Participation 13 Discussion 6 Constant Models, OLS, and Multiple Linear Regression Solution, Video Feb 29 Lecture 14 Feature Engineering Note 14 Lecture Participation 14 Lecture Participation 13 Exam Prep 5 OLS Solution, Video Mar 1 Lab 6 OLS (due Mar 5) ",
     "url": "/sp24/#week-7",
     
     "relUrl": "/#week-7"
   },"36": {
     "doc": "Home / Schedule",
     "title": "Week 8",
-    "content": "Mar 5 Lecture 15 Case Study (HCE): CCAO Discussion 7 Midterm Review Mar 7 Lecture 16 No Lecture Midterm Exam Midterm (7-9 PM PST) . Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
+    "content": "Mar 5 Lecture 15 Case Study (HCE): CCAO (Fa23 Note - to be updated) Discussion 7 Midterm Review Mar 7 Lecture 16 No Lecture Midterm Exam Midterm (7-9 PM PST) . Mar 8 Lab 7 Gradient descent and Sklearn (due Mar 12) Project A1 Housing I (due Mar 14) ",
     "url": "/sp24/#week-8",
     
     "relUrl": "/#week-8"
@@ -456,7 +456,7 @@
   },"65": {
     "doc": "Lecture 15 – Fairness in Housing Appraisal",
     "title": "Lecture 15 – Case Study (HCE): Fairness in Housing Appraisal",
-    "content": "Presented by Ari Edmundson . Content by Ari Edmundson . | slides | recording | . ",
+    "content": "Presented by Ari Edmundson . Content by Ari Edmundson . | slides | . ",
     "url": "/sp24/lecture/lec15/#lecture-15--case-study-hce-fairness-in-housing-appraisal",
     
     "relUrl": "/lecture/lec15/#lecture-15--case-study-hce-fairness-in-housing-appraisal"
@@ -470,7 +470,7 @@
   },"67": {
     "doc": "Lecture 16 – ross-Validation and Regularization",
     "title": "Lecture 16 – Cross-Validation and Regularization",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec16/#lecture-16--cross-validation-and-regularization",
     
     "relUrl": "/lecture/lec16/#lecture-16--cross-validation-and-regularization"
@@ -484,56 +484,56 @@
   },"69": {
     "doc": "Lecture 17 – Random Variables",
     "title": "Lecture 17 – Random Variables",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec17/",
     
     "relUrl": "/lecture/lec17/"
   },"70": {
     "doc": "Lecture 18 – Estimators, Bias and Variance",
     "title": "Lecture 18 – Estimators, Bias and Variance",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec18/",
     
     "relUrl": "/lecture/lec18/"
   },"71": {
     "doc": "Lecture 19 – Bias, Variance, and Inference in Modeling",
     "title": "Lecture 19 – Bias, Variance, and Inference in Modeling",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec19/",
     
     "relUrl": "/lecture/lec19/"
   },"72": {
     "doc": "Lecture 20 – SQL I",
     "title": "Lecture 20 – SQL I",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec20/",
     
     "relUrl": "/lecture/lec20/"
   },"73": {
     "doc": "Lecture 21 – SQL II",
     "title": "Lecture 21 – SQL II",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec21/",
     
     "relUrl": "/lecture/lec21/"
   },"74": {
     "doc": "Lecture 22 – Logistic Regression I",
     "title": "Lecture 22 – Logistic Regression I",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec22/",
     
     "relUrl": "/lecture/lec22/"
   },"75": {
     "doc": "Lecture 23 – PCA II",
     "title": "Lecture 23 – PCA II",
-    "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | PCA II code HTML | Fashion MNIST code HTML | recording | . ",
+    "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | PCA II code HTML | Fashion MNIST code HTML | . ",
     "url": "/sp24/lecture/lec23/",
     
     "relUrl": "/lecture/lec23/"
   },"76": {
     "doc": "Lecture 24 – Decision trees",
     "title": "Lecture 24 - Decision Trees",
-    "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec24/#lecture-24---decision-trees",
     
     "relUrl": "/lecture/lec24/#lecture-24---decision-trees"
@@ -547,7 +547,7 @@
   },"78": {
     "doc": "Lecture 25 – Conclusion",
     "title": "Lecture 25 - Conclusion",
-    "content": "Presented by Bella Crouch and Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | recording | . ",
+    "content": "Presented by Bella Crouch and Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | . ",
     "url": "/sp24/lecture/lec25/#lecture-25---conclusion",
     
     "relUrl": "/lecture/lec25/#lecture-25---conclusion"
@@ -582,7 +582,7 @@
   },"83": {
     "doc": "Resources",
     "title": "Exam Resources",
-    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
+    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/sp24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
