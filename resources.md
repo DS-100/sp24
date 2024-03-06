@@ -15,6 +15,9 @@ Jump to:
 * TOC
 {:toc}
 
+## Reference Sheet
+Here is the Spring 2024 Midterm [Reference Sheet](https://static.us.edusercontent.com/files/fDlPghP1Yd8UbTdEx8MaUPb5).
+
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
 
