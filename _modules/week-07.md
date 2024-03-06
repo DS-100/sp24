@@ -13,7 +13,7 @@ Feb 27
 Feb 29
 : **Lecture 14**{: .label .label-lecture} [Feature Engineering](lecture/lec14)
     : [Note 14](https://ds100.org/course-notes/feature_engineering/feature_engineering.html)
-: **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/dEhz5DBPDgMvTrEUJdJe8B/embed/polls/eeba6954-121e-44b0-8396-4e8cb3282ee6)
+: **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 14](https://app.sli.do/event/dEhz5DBPDgMvTrEUJdJe8B/embed/polls/eeba6954-121e-44b0-8396-4e8cb3282ee6)
 : **Exam Prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/1y5itmGnFxa8S-hC9s0ooGbm8gVn_uQnV/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing), [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE)
 
