@@ -15,5 +15,5 @@ Mar 7
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
 Mar 8
-: **Lab 7**{: .label .label-lab }  Gradient descent and Sklearn (due Mar 12)
-: **Project A1**{: .label .label-hw } Housing I (due Mar 14)
+: **Lab 7**{: .label .label-lab }  [Gradient descent and Sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab07%2Flab07.ipynb&branch=main){:target="_blank"} (due Mar 12)
+: **Project A1**{: .label .label-hw } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fproj%2FprojA1%2FprojA1.ipynb&branch=main){:target="_blank"} (due Mar 14)
