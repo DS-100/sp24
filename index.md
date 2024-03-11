@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: https://edstem.org/us/courses/33744/
   faq: https://ds100.org/fa23faq
-currWeekNumber: 8
+currWeekNumber: 9
 ---
 
 # Data 100: Principles and Techniques of Data Science
