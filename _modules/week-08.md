@@ -10,7 +10,7 @@ Mar 5
     : [Solution](https://drive.google.com/file/d/1DTPD0s1GNK-wKGx-h3n4kjlqXA8IGsTU/view?usp=sharing){:target="_blank"}
 
 Mar 7
-: **Lecture 16**{: .label .label-lecture} No Lecture
+: **No Lecture**{: .label .label-lecture}
 
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
