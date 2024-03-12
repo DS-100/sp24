@@ -5,7 +5,7 @@ title: Week 9
 
 Mar 12
 : **Lecture 16**{: .label .label-lecture} [Cross-Validation and Regularization](lecture/lec16)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/cv_regularization/cv_reg.html) - to be updated)
+    : [Note 16](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
 
 : **Discussion 8**{: .label .label-disc } [Gradient descent, Feature Engineering, Housing](https://drive.google.com/file/d/1W-9-3x_wCSfuP5Oh1ddWx2vjsVn3blLe/view?usp=sharing)
 
