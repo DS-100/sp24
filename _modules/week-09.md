@@ -11,7 +11,7 @@ Mar 12
     : [Solution](https://drive.google.com/file/d/1j0XKdh2YyknRUViqHqD_Q-4aHuyIR2Wi){:target="_blank"}
     
 Mar 14
-: **Lecture 17**{: .label .label-lecture} Random Variables
+: **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/probability_1/probability_1.html) - to be updated)
 
 
