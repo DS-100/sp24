@@ -13,6 +13,8 @@ Mar 12
 Mar 14
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
     : [Note 17](https://ds100.org/course-notes/probability_1/probability_1.html)
+: **Exam Prep 6**{: .label .label-vit } [Gradient Descent](https://drive.google.com/file/d/1Z5CMynW9iOs_zL_FpYhYLnDkQXtRtUnR/view?usp=sharing)
+    <!-- : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing), [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE) -->
 
 
 Mar 15

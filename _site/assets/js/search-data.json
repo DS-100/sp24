@@ -162,7 +162,7 @@
   },"23": {
     "doc": "Home / Schedule",
     "title": "Week 9",
-    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Mar 14 Lecture 17 Random Variables (Fa23 Note - to be updated) Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
+    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Exam Prep 6 Gradient Descent Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
     "url": "/sp24/#week-9",
     
     "relUrl": "/#week-9"
@@ -386,7 +386,7 @@
   },"55": {
     "doc": "Lecture 17 – Random Variables",
     "title": "Lecture 17 – Random Variables",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec17/",
     
     "relUrl": "/lecture/lec17/"
@@ -491,7 +491,7 @@
   },"70": {
     "doc": "Resources",
     "title": "Exam Resources",
-    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
+    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Spring 2024 | Exam (Solutions) |   |   | Midterm | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) | Midterm, Final | . | Spring 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Exam (Solutions) | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/sp24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
