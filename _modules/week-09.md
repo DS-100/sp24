@@ -12,7 +12,7 @@ Mar 12
     
 Mar 14
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/probability_1/probability_1.html) - to be updated)
+    : [Note 17](https://ds100.org/course-notes/probability_1/probability_1.html)
 
 
 Mar 15
