@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 9 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00 to 4:30 in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 10 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -162,14 +162,14 @@
   },"23": {
     "doc": "Home / Schedule",
     "title": "Week 9",
-    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Exam Prep 6 Gradient Descent Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
+    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Lecture Participation 17 Lecture Participation 17 Exam Prep 6 Gradient Descent Solution Mar 15 Lab 8 Model Selection, Regularization, and Cross-Validation (due Mar 19) Project A2 Housing II (due Mar 21) ",
     "url": "/sp24/#week-9",
     
     "relUrl": "/#week-9"
   },"24": {
     "doc": "Home / Schedule",
     "title": "Week 10",
-    "content": "Mar 19 Lecture 18 Estimators, Bias, and Variance Discussion 9 Cross-Validation and Regularization . Mar 21 Lecture 19 Causal Inference and Confounding Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
+    "content": "Mar 19 Lecture 18 Estimators, Bias, and Variance (Fa23 Note - to be updated) Discussion 9 Cross-Validation and Regularization Mar 21 Lecture 19 Causal Inference and Confounding (Fa23 Note - to be updated) Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
     "url": "/sp24/#week-10",
     
     "relUrl": "/#week-10"
@@ -386,7 +386,7 @@
   },"55": {
     "doc": "Lecture 17 – Random Variables",
     "title": "Lecture 17 – Random Variables",
-    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec17/",
     
     "relUrl": "/lecture/lec17/"

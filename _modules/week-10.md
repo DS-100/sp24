@@ -5,11 +5,12 @@ title: Week 10
 
 Mar 19
 : **Lecture 18**{: .label .label-lecture} Estimators, Bias, and Variance
-
+    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/probability_2/probability_2.html) - to be updated)
 : **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
 Mar 21
 : **Lecture 19**{: .label .label-lecture} Causal Inference and Confounding
+    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/inference_causality/inference_causality.html) - to be updated)
 
 
 Mar 22
