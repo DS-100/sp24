@@ -86,7 +86,7 @@ become part of the history of Data 100 at Berkeley.
 
 #### Regex
 + [Regex101.com](https://regex101.com). Remember to select the Python flavour of Regex!
-+ [Data 100 Regex Reference Sheet](https://drive.google.com/file/d/1-OkbAv-iLCljI_6b-NcmmmosePbP3jEZ/view?usp=sharing)
++ [Data 100 Regex Reference Sheet](assets/other/regex_reference_fa23.pdf)
 + The official [Python3 regex guide](https://docs.python.org/3/howto/regex.html) is good!
 
 #### LaTeX
