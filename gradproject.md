@@ -52,8 +52,8 @@ The graduate project element will require the following deliverables:
 
 | Deadline (at 11:59 PM Pacific) | Event / Deliverable                        | Link                                                           | Grading Weight |
 |--------------------------------|--------------------------------------------|----------------------------------------------------------------|----------------|
-| 3/15                           | Research Proposal and Project Groups Due   | [Google Form](https://forms.gle/DcBp3ZbM8TpTfSRD6)             | 5%             |
-| 3/22                           | Checkpoint 1: EDA + Internal Peer Review 1 |    | 10%            |
+| 3/15                           | Research Proposal and Project Groups Due   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
+| 3/22                           | Checkpoint 1: EDA + Internal Peer Review 1 |  [Internal Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  | 10%            |
 | Week of 4/8                    | Checkpoint 2: Mandatory Check-in with TA   |                                                                | 7.5%           |
 | 4/19                           | Internal Peer Review 2 Due                 |                                                                | 20%            |
 | 4/26                           | First Draft of Final Report Due            |                                                                | 7.5%           |
@@ -247,7 +247,7 @@ The first deliverable of your group project is just to form your group, choose a
 
 ## Checkpoint 1: EDA + Internal Peer Review
 
-The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploratory data analysis results on Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Your submission should include:
+The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploratory data analysis report to Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Your submission should include:
 
 <!-- - **Project Introduction and Goals:** Please briefly introduce your project. Think about introducing your project to someone who has a background in data science but does not know the dataset and your research question. This part should not exceed 500 words. Here are some components to help you get started:
   - What is the dataset about? How was the data collected? What are the available features and information? What is the size of the dataset?
@@ -256,37 +256,38 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
   - What are the models you plan to use? Why would the model be a good fit for your project? What are potential pitfalls you could run into?
   - What is your goal for the project? What are the expected deliverables? -->
 
-- **EDA:** Show the results from your EDA work. You should include:
-  - **Data Sampling and Collection**
-    - How was the data read and sampled for your EDA process?
-    - Was there any potential bias introduced in the sampling process?
-  - **Data Cleaning**
-    - What type of data are you currently exploring?
-    - What is the granularity of the data?
-    - What does the distribution of the data look like? Are there any outliers? Are there any missing or invalid entries?
-    - The data is not structured. How did you turn it into a structured format? What features have you engineered?
-  - **Exploratory Data Analysis**
-    - Is there any correlation between the variables you are interested in exploring?
-    - How would you cleanly and accurately visualize the relationship among variables?
-    - What are your EDA questions? (For example, are there any relationships between A and B? What is the distribution of A?).
-    - Do you need to perform data transformations?
-  - **Figures(tables, plots, etc.)**
-    - Descriptions of your figures. Takeaways from the figures.
-    - These figures must be of good quality (i.e. they must include axes, titles, labels, etc) and they must be relevant to your proposed analysis.
+- **Data Sampling and Collection**
+  - How was the data read and sampled for your EDA process?
+  - Was there any potential bias introduced in the sampling process?
+- **Data Cleaning**
+  - What type of data are you currently exploring?
+  - What is the granularity of the data?
+  - What does the distribution of the data look like? Are there any outliers? Are there any missing or invalid entries?
+  - The data is not structured. How did you turn it into a structured format? What features have you engineered?
+- **Exploratory Data Analysis**
+  - Is there any correlation between the variables you are interested in exploring?
+  - How would you cleanly and accurately visualize the relationship among variables?
+  - What are your EDA questions? (For example, are there any relationships between A and B? What is the distribution of A?).
+  - Do you need to perform data transformations?
+- **Figures(tables, plots, etc.)**
+  - Descriptions of your figures. Takeaways from the figures.
+  - These figures must be of good quality (i.e. they must include axes, titles, labels, etc.) and they must be relevant to your proposed analysis.
 
 Concretely, here's the minimal requirements for EDA for each project. You are welcome to do more than the minimal requirements.
-- CV:
-  - Number of images per disaster (bar plot)
-  - Image sizes in each datasets (histogram, log scale). Should ideally observe that large variance in sizes, but similar distribution for each disaster
+- **Computer Vision**:
+  - Number of images per disaster (bar plot).
+  - Image sizes in each dataset (histogram, log scale). Should ideally observe large variance in sizes, but similar distribution for each disaster.
   - Damage labels (count plot). Should observe imbalances in the labels.
-  - (Open ended) Should visualize distribution of color for different disasters
-  - (Open ended) Should convey that the distributions are “separable” somehow
-- NLP:
-  - Ranking of the model based on their win rate or ELO ratings, as bar plot.
-  - Distribution of length of prompt overall, or length of outputs by models.
-  - Hardness score distributions, and its correlation with models. (e.g. GPT4 wins on hardest prompts).
-  - (Open ended) reproduction of any leaderboard visualizations or anything visualize the the "variance" in model performance (See [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)).
-  - (Open ended) exploration of the variety of topics of the prompts in the dataset.
+  - (Open ended) Visualize distribution of color for different disasters.
+  - (Open ended) Convey that the distributions are “separable” somehow.
+- **Natural Language Processing**:
+  - Ranking of the model based on their win rate or ELO ratings (bar plot).
+  - Distribution of the prompt and response length.
+  - Hardness score distribution and its correlation with the models (e.g. GPT4 wins on hardest prompts).
+  - (Open ended) Visualize the "variance" in model performance (see [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) for an example).
+  - (Open ended) Explore the prompt topics in the dataset (topic modeling).
+
+Every member of the group also needs to submit the internal peer review [form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"} for this checkpoint. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
 
 <!-- - **Other Preliminary Results (optional)**: Please optionally post any other preliminary results here for our information. -->
 
