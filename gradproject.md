@@ -247,7 +247,7 @@ The first deliverable of your group project is just to form your group, choose a
 
 ## Checkpoint 1: EDA + Internal Peer Review
 
-The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploratory data analysis report to Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Your submission should include:
+The checkpoint is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your submission should include:
 
 <!-- - **Project Introduction and Goals:** Please briefly introduce your project. Think about introducing your project to someone who has a background in data science but does not know the dataset and your research question. This part should not exceed 500 words. Here are some components to help you get started:
   - What is the dataset about? How was the data collected? What are the available features and information? What is the size of the dataset?
@@ -273,19 +273,19 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
   - Descriptions of your figures. Takeaways from the figures.
   - These figures must be of good quality (i.e. they must include axes, titles, labels, etc.) and they must be relevant to your proposed analysis.
 
-Concretely, here's the minimal requirements for EDA for each project. You are welcome to do more than the minimal requirements.
+Concretely, here are the minimal requirements for EDA for each project. Using your knowledge from Data 200, what would be appropriate data visualizations? You are welcome to do more than the minimal requirements.
 - **Computer Vision**:
-  - Number of images per disaster (bar plot).
-  - Image sizes in each dataset (histogram, log scale). Should ideally observe large variance in sizes, but similar distribution for each disaster.
-  - Damage labels (count plot). Should observe imbalances in the labels.
-  - (Open ended) Visualize distribution of color for different disasters.
-  - (Open ended) Convey that the distributions are “separable” somehow.
+  - Number of images per disaster.
+  - Image sizes in each dataset. Should ideally observe large variance in sizes, but similar distribution for each disaster.
+  - Damage labels. Should observe imbalances in the labels.
+  - (Open-ended) Visualize the distribution of color for different disasters.
+  - (Open-ended) Convey that the distributions are “separable” somehow.
 - **Natural Language Processing**:
-  - Ranking of the model based on their win rate or ELO ratings (bar plot).
+  - Ranking of the model based on their win rate or ELO ratings.
   - Distribution of the prompt and response length.
   - Hardness score distribution and its correlation with the models (e.g. GPT4 wins on hardest prompts).
-  - (Open ended) Visualize the "variance" in model performance (see [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) for an example).
-  - (Open ended) Explore the prompt topics in the dataset (topic modeling).
+  - (Open-ended) Visualize the "variance" in model performance (see [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) for an example).
+  - (Open-ended) Explore the prompt topics in the dataset (topic modeling).
 
 Every member of the group also needs to submit the internal peer review [form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"} for this checkpoint. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
 
