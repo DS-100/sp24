@@ -15,9 +15,10 @@ Mar 14
     : [Note 17](https://ds100.org/course-notes/probability_1/probability_1.html)
 : **Lecture Participation 17**{: .label .label-survey } [Lecture Participation 17](https://app.sli.do/event/toyQ2Rd8EN1aaPrjgyDwny/embed/polls/d17fe569-a7e3-48b0-bafd-cd30a29f42db)
 : **Exam Prep 6**{: .label .label-vit } [Gradient Descent](https://drive.google.com/file/d/1Z5CMynW9iOs_zL_FpYhYLnDkQXtRtUnR/view?usp=sharing)
-    <!-- : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing), [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE) -->
+    : [Solution](https://drive.google.com/file/d/1WF4NJ-fUXUDpoWQQWJX09FNCNAIoIb1T/view?usp=sharing)
+    <!-- , [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE) -->
 
 
 Mar 15
-: **Lab 8**{: .label .label-lab }  Model Selection (due Mar 19)
-: **Project A2**{: .label .label-hw } Housing II (due Mar 21)
+: **Lab 8**{: .label .label-lab }  [Model Selection, Regularization, and Cross-Validation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab08%2Flab08.ipynb&branch=main){:target="_blank"} (due Mar 19)
+: **Project A2**{: .label .label-hw } [Housing II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fproj%2FprojA2%2FprojA2.ipynb&branch=main){:target="_blank"} (due Mar 21)
