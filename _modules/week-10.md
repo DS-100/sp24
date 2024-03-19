@@ -5,7 +5,8 @@ title: Week 10
 
 Mar 19
 : **Lecture 18**{: .label .label-lecture} [Estimators, Bias, and Variance](lecture/lec18)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/probability_2/probability_2.html) - to be updated)
+    : [Note 18](https://ds100.org/course-notes/probability_2/probability_2.html)
+: **Lecture Participation 18**{: .label .label-survey } [Lecture Participation 18](https://app.sli.do/event/nPGAKxx9KkGRnL9xrnvjWs/embed/polls/fb4be8e2-b089-4dbc-a922-9af1940f4ef8)
 : **Discussion 9**{: .label .label-disc } [Cross-Validation and Regularization](https://drive.google.com/file/d/1vN0y-HT6J3HJ5oE7E0g7gXB45rX0rALu/view?usp=sharing)
 
 Mar 21
