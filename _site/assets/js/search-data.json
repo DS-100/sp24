@@ -162,7 +162,7 @@
   },"23": {
     "doc": "Home / Schedule",
     "title": "Week 9",
-    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Exam Prep 6 Gradient Descent Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
+    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Lecture Participation 17 Lecture Participation 17 Exam Prep 6 Gradient Descent Mar 15 Lab 8 Model Selection (due Mar 19) Project A2 Housing II (due Mar 21) ",
     "url": "/sp24/#week-9",
     
     "relUrl": "/#week-9"
@@ -393,7 +393,7 @@
   },"56": {
     "doc": "Lecture 18 – Estimators, Bias and Variance",
     "title": "Lecture 18 – Estimators, Bias and Variance",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | Bias Variance Derivation | Bias Variance Derivation HTML | . ",
     "url": "/sp24/lecture/lec18/",
     
     "relUrl": "/lecture/lec18/"

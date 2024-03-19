@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>lec18</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>BiasVarianceDerivation</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7510,248 +7510,222 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=d5fa25de-c310-4d0c-b33e-68ced6b0c21f">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Lecture-18-%E2%80%93-Data-100,-Spring-2024">Lecture 18 – Data 100, Spring 2024<a class="anchor-link" href="#Lecture-18-%E2%80%93-Data-100,-Spring-2024">¶</a></h1><p>Data 100, Spring 2024</p>
-<p><a href="https://ds100.org/sp24/acks/">Acknowledgments Page</a></p>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=0c2ec95c-5559-41c2-a701-a229307afb39">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">plotly.express</span> <span class="k">as</span> <span class="nn">px</span>
-</pre></div>
+<h1 id="Derivation-of-the-Bias-Variance-Decomposition">Derivation of the Bias-Variance Decomposition<a class="anchor-link" href="#Derivation-of-the-Bias-Variance-Decomposition">¶</a></h1><h3 id="A.-Adhikari">A. Adhikari<a class="anchor-link" href="#A.-Adhikari">¶</a></h3><br/>
+To save this file as a PDF, in Jupyter go to File -&gt; "Download As..."/"Save and Export Notebook As..." -&gt; "PDF via LaTeX (.pdf)"/"PDF". The menu options may vary depending on whether you are using Jupyter Notebook or Jupyter Lab.
+
 </div>
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=e8c3d1ca-5ebb-4c37-a2b2-3546299e2795">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><br/><br/></p>
-<hr/>
-<h1 id="Which-would-you-pick?">Which would you pick?<a class="anchor-link" href="#Which-would-you-pick?">¶</a></h1><ul>
-<li>$\large Y_A = 10 X_1 + 10 X_2 $</li>
-<li>$\large Y_B = \sum\limits_{i=1}^{20} X_i$</li>
-<li>$\large Y_C = 20 X_1$</li>
+<h3 id="Preliminary">Preliminary<a class="anchor-link" href="#Preliminary">¶</a></h3><p>Before proceeding with this derivation, you should be familiar with the Random Variables lecture (Lecture 16 in Spring 2023). In particular, you really need to understand expectation and variance.</p>
+<p>This result will be used below. You don't have to know how to prove it.</p>
+<p><strong>If $V$ and $W$ are independent random variables then $\mathbb{E}(VW) = \mathbb{E}(V)\mathbb{E}(W)$</strong>.</p>
+<p><strong>Proof:</strong> We'll do this in the discrete finite case. Trust that it's true in greater generality.</p>
+<p>The job is to calculate the weighted average of the values of $VW$, where the weights are the probabilities of those values. Here goes.</p>
+\begin{align*}
+\mathbb{E}(VW) ~ &amp;= ~ \sum_v\sum_w vwP(V=v \text{ and } W=w) \\
+&amp;= ~ \sum_v\sum_w vwP(V=v)P(W=w) ~~~~ \text{by independence} \\
+&amp;= ~ \sum_v vP(V=v)\sum_w wP(W=w) \\
+&amp;= ~ \mathbb{E}(V)\mathbb{E}(W)
+\end{align*}
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h3 id="What's-in-this-Notebook">What's in this Notebook<a class="anchor-link" href="#What's-in-this-Notebook">¶</a></h3><ul>
+<li>The first part of what follows is an exposition of the definitions on the slides.</li>
+<li>The derivation starts at Step 1.</li>
+<li>Steps 1-3 is where the action is. Step 4 just puts together the results of Steps 2 and 3.</li>
 </ul>
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=641bfc30-c83a-4eaa-9182-99a5bd4421a7">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>First let's construct the probability distribution for a single coin. This will let us flip 20 IID coins later.</p>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=022c1217-a8d3-4e6f-bfc8-5ea6061ede8e">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># First construct probability distribution for a single fair coin</span>
-<span class="n">p</span> <span class="o">=</span> <span class="mf">0.5</span>
-<span class="n">coin_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="s2">"x"</span><span class="p">:</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">0</span><span class="p">],</span> <span class="c1"># [Heads, Tails]</span>
-                        <span class="s2">"P(X = x)"</span><span class="p">:</span> <span class="p">[</span><span class="n">p</span><span class="p">,</span> <span class="mi">1</span> <span class="o">-</span> <span class="n">p</span><span class="p">]})</span>
-<span class="n">coin_df</span>
-</pre></div>
+<h2 id="Assumptions">Assumptions<a class="anchor-link" href="#Assumptions">¶</a></h2><p><strong>1.</strong> For each individual, the response is $g(x) + \epsilon$ where:</p>
+<ul>
+<li>$x$ consists of the <strong>fixed</strong> values of all the predictor variables for that individual</li>
+<li>$g$ is a <strong>fixed</strong> function, typically unknown; sometimes called the <em>true</em> function or the <em>signal</em></li>
+<li>$\epsilon$ is a <strong>random error</strong> with mean 0 and variance $\sigma^2$, independent of all other individuals; it is sometimes called <em>noise</em> and is <em>unobservable,</em> which means that we never get to see it</li>
+</ul>
+<p><strong>2.</strong> We have a random sample from the model above. We don't know $g$ so we fit something of our choice.</p>
+<p><strong>3.</strong> A new individual comes along at $x$. Their response is $Y = g(x) + \epsilon$ for a brand new copy of $\epsilon$. This response is random because $\epsilon$ is random, and has a hidden $x$ in it because its value is $g(x)$ plus the noise.</p>
+<p><strong>4.</strong> $\hat{Y}(x)$ is our model's predicted response for this indiviual. It is random because it depends on our sample which is random.</p>
 </div>
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=5911fbd9-6a5a-413c-a790-ba7a46649f69">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Choice-A:">Choice A:<a class="anchor-link" href="#Choice-A:">¶</a></h2><p>$\large Y_A = 10 X_1 + 10 X_2 $</p>
+<h2 id="Definitions">Definitions<a class="anchor-link" href="#Definitions">¶</a></h2><h3 id="Observation-Variance">Observation Variance<a class="anchor-link" href="#Observation-Variance">¶</a></h3><p>The point corresponding to the new observation is $(x, Y)$ where $Y = g(x) + \epsilon$. Remember that $g(x)$ is a constant,$\mathbb{E}(\epsilon) = 0$, and $\mathbb{V}ar(\epsilon) = \sigma^2$. It follows that</p>
+<ul>
+<li>$\mathbb{E}(Y) = g(x)$</li>
+<li>$\mathbb{V}ar(Y) = \mathbb{V}ar(\epsilon) = \sigma^2$</li>
+</ul>
+<p>That is why
+$$
+\text{observation variance} ~ = ~ \sigma^2
+$$</p>
+<p><strong>Note:</strong> Since $\epsilon$ is centered, that is, $\mathbb{E}(\epsilon) = 0$, we have $\mathbb{V}ar(\epsilon) = \mathbb{E}(\epsilon^2)$. So you will sometimes see the observation variance $\sigma^2$ written as $\mathbb{E}(\epsilon^2)$ instead of $\mathbb{V}ar(Y)$ or $\mathbb{V}ar(\epsilon)$.</p>
+<h3 id="Model-Bias">Model Bias<a class="anchor-link" href="#Model-Bias">¶</a></h3><p>The <em>bias</em> of an estimator is the expected difference between the estimator and what it's trying to estimate.</p>
+<p>For the new individual at $x$, the <em>model bias</em> is defined by</p>
+$$
+\text{model bias} ~ = ~ \mathbb{E}(\hat{Y}(x) - Y) ~ = ~ \mathbb{E}(\hat{Y}(x)) - \mathbb{E}(Y) ~ = ~ \mathbb{E}(\hat{Y}(x)) - g(x)
+$$<p>This is the difference between our prediction at $x$ and the true signal at $x$, averaged over all possible samples.</p>
+<p>The key observation is that bias is a constant (that is, a number), not a random variable. It is a systematic error in the estimate.</p>
+<h3 id="Model-Variance">Model Variance<a class="anchor-link" href="#Model-Variance">¶</a></h3><p>We came up with our prediction $\hat{Y}(x)$ based on the model we chose to fit, using data from our random sample. Had that sample come out differently, our prediction might have been different. For each sample, we have a prediction, so the prediction is a random variable and thus has a mean and a variance.</p>
+<p>The variance of the predictor $\hat{Y}(x)$ is called the <em>model variance</em>. By the definition of variance,</p>
+$$
+\text{model variance} ~ = ~ \mathbb{E}\left( (\hat{Y}(x) - \mathbb{E}(\hat{Y}(x)))^2 \right)
+$$<h3 id="Model-Risk">Model Risk<a class="anchor-link" href="#Model-Risk">¶</a></h3><p>This is the mean squared error of our prediction.</p>
+$$
+\text{model risk} ~ = ~ \mathbb{E}\left( (Y - \hat{Y}(x))^2 \right)
+$$
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=b76b503a-b541-45d4-8285-a66935f6be20">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>A couple ways to sample:</p>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=18d23f9c-69d2-46b7-853b-d6fd01b947f7">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">coin_df</span><span class="o">.</span><span class="n">sample</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="n">weights</span><span class="o">=</span><span class="s2">"P(X = x)"</span><span class="p">,</span> <span class="n">replace</span><span class="o">=</span><span class="kc">True</span><span class="p">)[</span><span class="s2">"x"</span><span class="p">]</span>
-</pre></div>
+<h3 id="Goal">Goal<a class="anchor-link" href="#Goal">¶</a></h3><p>Decompose the model risk into recognizable components.</p>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=dc8c8b2c-9b49-4939-bf23-6f0b900b8f7f">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">N</span> <span class="o">=</span> <span class="mi">10000</span>
-
-<span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="mi">2</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">p</span>
-</pre></div>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=6eb26edd-6890-4e4a-bf83-09a61dbd3896">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">sim_flips</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span>
-    <span class="p">{</span><span class="s2">"Choice A"</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">((</span><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="mi">2</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">p</span><span class="p">)</span> <span class="o">*</span> <span class="mi">10</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)})</span>
-<span class="n">sim_flips</span>
-</pre></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=121d8d8b-9788-4191-a33b-66605979a8f9">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Choice-B:">Choice B:<a class="anchor-link" href="#Choice-B:">¶</a></h2><p>$\large Y_B = \sum\limits_{i=1}^{20} X_i$</p>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=905188fa-fb08-4254-aa66-d3d0a8c3fbf5">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">sim_flips</span><span class="p">[</span><span class="s2">"Choice B"</span><span class="p">]</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">((</span><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="mi">20</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">p</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
-<span class="n">sim_flips</span>
-</pre></div>
+<h3 id="Step-1">Step 1<a class="anchor-link" href="#Step-1">¶</a></h3>\begin{align*}
+\text{model risk} ~ &amp;= ~ \mathbb{E}\left( (Y - \hat{Y}(x))^2 \right) \\
+&amp;= ~ \mathbb{E}\left( (g(x) + \epsilon - \hat{Y}(x))^2 \right) \\
+&amp;= ~ \mathbb{E}\left( (\epsilon + (g(x) - \hat{Y}(x)))^2 \right) \\
+&amp;= ~ \mathbb{E}(\epsilon^2) + 2\mathbb{E}(\epsilon(g(x) - \hat{Y}(x))) + \mathbb{E}\left((g(x) - \hat{Y}(x))^2\right)
+\end{align*}<p>On the right hand side:</p>
+<ul>
+<li>The first term is the observation variance $\sigma^2$.</li>
+<li>The cross product term is 0 because $\epsilon$ is independent of $g(x) - \hat{Y}(x)$ and $\mathbb{E}(\epsilon) = 0$</li>
+<li>The last term is the mean squared difference between our predicted value and the value of the true function at $x$</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=910caab1-6cc2-4df3-ab26-9282ad33db2b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Choice-C:">Choice C:<a class="anchor-link" href="#Choice-C:">¶</a></h2><p>$\large Y_C = 20 X_1$</p>
+<h3 id="Step-2">Step 2<a class="anchor-link" href="#Step-2">¶</a></h3><p>At this stage we have</p>
+$$
+\text{model risk} ~ = ~ \text{observation variance} + \mathbb{E}\left((g(x) - \hat{Y}(x))^2\right)
+$$<p>We don't yet have a good understanding of $g(x) - \hat{Y}(x)$. But we do understand the deviation $D_{\hat{Y}(x)} = \hat{Y}(x) - \mathbb{E}(\hat{Y}(x))$. We know that</p>
+<ul>
+<li>$\mathbb{E}(D_{\hat{Y}(x)}) ~ = ~ 0$</li>
+<li>$\mathbb{E}(D_{\hat{Y}(x)}^2) ~ = ~ \text{model variance}$</li>
+</ul>
+<p>So let's add and subtract $\mathbb{E}(\hat{Y}(x))$ and see if that helps.</p>
+$$
+g(x) - \hat{Y}(x) ~ = ~ (g(x) - \mathbb{E}(\hat{Y}(x)) + (\mathbb{E}(\hat{Y}(x) - \hat{Y}(x)) 
+$$<p>The first term on the right hand side is the model bias at $x$. The second term is $-D_{\hat{Y}(x)}$. So</p>
+$$
+g(x) - \hat{Y}(x) ~ = ~ \text{model bias} - D_{\hat{Y}(x)}
+$$
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=d87fa9a9-cf86-4505-a218-c590d39eaf9c">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">sim_flips</span><span class="p">[</span><span class="s2">"Choice C"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">20</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="n">N</span><span class="p">,</span><span class="mi">1</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">p</span><span class="p">)</span> 
-<span class="n">sim_flips</span>
-</pre></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=5250b3cf-85d6-49c8-abe8-d4a24aa9f0bc">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<br/>
-If you're curious as to what these distributions look like, I've simulated some populations:
-
+<h3 id="Step-3">Step 3<a class="anchor-link" href="#Step-3">¶</a></h3><p>Remember that the model bias at $x$ is a constant, not a random variable. Think of it as your favorite number, say 10. Then</p>
+\begin{align*}
+\mathbb{E}\left((g(x) - \hat{Y}(x))^2\right) ~ &amp; = ~ \text{model bias}^2 - 2(\text{model bias})\mathbb{E}(D_{\hat{Y}(x)}) + \mathbb{E}(D_{\hat{Y}(x)}^2) \\
+&amp;= ~ \text{model bias}^2 - 0 + \text{model variance} \\
+&amp;= ~ \text{model bias}^2 + \text{model variance}
+\end{align*}
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=3630357d-1ef8-4641-b5fa-4174f3df978b">
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">px</span><span class="o">.</span><span class="n">histogram</span><span class="p">(</span><span class="n">sim_flips</span><span class="o">.</span><span class="n">melt</span><span class="p">(),</span> <span class="n">x</span><span class="o">=</span><span class="s2">"value"</span><span class="p">,</span> <span class="n">facet_row</span><span class="o">=</span><span class="s2">"variable"</span><span class="p">,</span> 
-             <span class="n">barmode</span><span class="o">=</span><span class="s2">"overlay"</span><span class="p">,</span> <span class="n">histnorm</span><span class="o">=</span><span class="s2">"probability"</span><span class="p">,</span>
-             <span class="n">title</span><span class="o">=</span><span class="s2">"Empirical Distributions"</span><span class="p">,</span>
-             <span class="n">width</span><span class="o">=</span><span class="mi">600</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">600</span><span class="p">)</span>
-</pre></div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h3 id="Step-4:-Bias-Variance-Decomposition">Step 4: Bias-Variance Decomposition<a class="anchor-link" href="#Step-4:-Bias-Variance-Decomposition">¶</a></h3><p>In Step 2 we had</p>
+$$
+\text{model risk} ~ = ~ \text{observation variance} + \mathbb{E}\left((g(x) - \hat{Y}(x))^2\right)
+$$<p>Step 3 showed</p>
+$$
+\mathbb{E}\left((g(x) - \hat{Y}(x))^2\right) ~ = ~ \text{model bias}^2 + \text{model variance}
+$$<p>Thus we have shown the bias-variance decomposition</p>
+$$
+\text{model risk} ~ = ~ \text{observation variance} + \text{model bias}^2 + \text{model variance}
+$$<p>That is,</p>
+$$
+\mathbb{E}\left( (Y - \hat{Y}(x))^2 \right) ~ = ~ \sigma^2 + \mathbb{E}\left( (g(x) - \mathbb{E}(\hat{Y}(x))^2\right) + \mathbb{E}\left( (\hat{Y}(x) - \mathbb{E}(\hat{Y}(x))^2 \right)
+$$
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=85483796-6761-4a75-9a8a-f14710138720">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">([</span>
-    <span class="n">sim_flips</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="s2">"Simulated Mean"</span><span class="p">),</span>
-    <span class="n">sim_flips</span><span class="o">.</span><span class="n">var</span><span class="p">()</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="s2">"Simulated Var"</span><span class="p">),</span>
-    <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">sim_flips</span><span class="o">.</span><span class="n">var</span><span class="p">())</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="s2">"Siumulated SD"</span><span class="p">)</span>
-<span class="p">])</span>
-</pre></div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h3 id="Special-Case-$%5Chat%7BY%7D(x)-=-f_%7B%5Chat%7B%5Ctheta%7D%7D(x)$">Special Case $\hat{Y}(x) = f_{\hat{\theta}}(x)$<a class="anchor-link" href="#Special-Case-$%5Chat%7BY%7D(x)-=-f_%7B%5Chat%7B%5Ctheta%7D%7D(x)$">¶</a></h3><p>In the case where we are making our predictions by fitting some function $f$ that involves parameters $\theta$, our estimate $\hat{Y}$ is $f_{\hat{\theta}}$ where $\hat{\theta}$ has been estimated from the data and hence is random.</p>
+<p>In the bias-variance decomposition</p>
+$$
+\mathbb{E}\left( (Y - \hat{Y}(x))^2 \right) ~ = ~ \sigma^2 + \mathbb{E}\left( (g(x) - \mathbb{E}(\hat{Y}(x))^2\right) + \mathbb{E}\left( (\hat{Y}(x) - \mathbb{E}(\hat{Y}(x))^2 \right)
+$$<p>just plug in the particular prediction $f_{\hat{\theta}}$ in place of the general prediction $\hat{Y}$:</p>
+$$
+\mathbb{E}\left( (Y - f_{\hat{\theta}}(x))^2 \right) ~ = ~ \sigma^2 + \mathbb{E}\left( (g(x) - \mathbb{E}(f_{\hat{\theta}}(x))^2\right)+ \mathbb{E}\left( (f_{\hat{\theta}}(x) - \mathbb{E}(f_{\hat{\theta}}(x))^2 \right)
+$$
 </div>
 </div>
 </div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=4a6eedc4-3fc1-4892-a499-d7a95b58b44d">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>

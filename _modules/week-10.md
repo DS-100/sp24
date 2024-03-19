@@ -4,7 +4,7 @@ title: Week 10
 
 
 Mar 19
-: **Lecture 18**{: .label .label-lecture} Estimators, Bias, and Variance
+: **Lecture 18**{: .label .label-lecture} [Estimators, Bias, and Variance](lecture/lec18)
 
 : **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
