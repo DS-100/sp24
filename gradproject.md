@@ -281,12 +281,12 @@ Concretely, here's the minimal requirements for EDA for each project. You are we
   - Damage labels (count plot). Should observe imbalances in the labels.
   - (Open ended) Should visualize distribution of color for different disasters
   - (Open ended) Should convey that the distributions are “separable” somehow
-- NLP (three out five of the following):
+- NLP:
   - Ranking of the model based on their win rate or ELO ratings, as bar plot.
-  - Reproduction of heatmap on pairwise win rate, or any other leaderboard visualizations. (See [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard))
   - Distribution of length of prompt overall, or length of outputs by models.
-  - Topic modeling with clustering. Either by PCA, K-Means, or TSNE on the embedding data.
   - Hardness score distributions, and its correlation with models. (e.g. GPT4 wins on hardest prompts).
+  - (Open ended) reproduction of any leaderboard visualizations or anything visualize the the "variance" in model performance (See [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)).
+  - (Open ended) exploration of the variety of topics of the prompts in the dataset.
 
 <!-- - **Other Preliminary Results (optional)**: Please optionally post any other preliminary results here for our information. -->
 
