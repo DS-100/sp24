@@ -53,7 +53,7 @@ The graduate project element will require the following deliverables:
 | Deadline (at 11:59 PM Pacific) | Event / Deliverable                        | Link                                                           | Grading Weight |
 |--------------------------------|--------------------------------------------|----------------------------------------------------------------|----------------|
 | 3/15                           | Research Proposal and Project Groups Due   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
-| 3/22                           | Checkpoint 1: EDA + Internal Peer Review 1 |  [Internal Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  | 10%            |
+| 3/22 ([3/24 Extension](https://edstem.org/us/courses/51810/discussion/4604306))                           | Checkpoint 1: EDA + Internal Peer Review 1 |  [Internal Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  | 10%            |
 | Week of 4/8                    | Checkpoint 2: Mandatory Check-in with TA   |                                                                | 7.5%           |
 | 4/19                           | Internal Peer Review 2 Due                 |                                                                | 20%            |
 | 4/26                           | First Draft of Final Report Due            |                                                                | 7.5%           |
@@ -64,7 +64,6 @@ The graduate project element will require the following deliverables:
 - **No Extensions for First Draft**: The first draft cannot be submitted late as it is crucial for the peer review process.
 - **Final Report and Presentation Video**: Late submissions incur a 10% daily penalty, up to a maximum of two days. Submissions are rounded to the nearest day (e.g., 2 minutes late counts as 1 day late).
 - **Peer Reviews and Other Deliverables**: Must be submitted on time; no extensions are permitted.
-
 
 ## Datasets
 
