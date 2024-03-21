@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 19 – Causal Inference and Confounding
+title: Lecture 19 – Parameter Inference and the Bootstrap
 nav_exclude: true
 ---
 
-# Lecture 19 – Causal Inference and Confounding
+# Lecture 19 – Parameter Inference and the Bootstrap
 
 Presented by Joseph E. Gonzalez
 

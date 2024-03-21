@@ -11,7 +11,7 @@ Mar 19
     : [Solution](https://drive.google.com/file/d/1m856shbnLNCiD7kSHDBoUIp4zNrVCzPz/view){:target="_blank"}
 
 Mar 21
-: **Lecture 19**{: .label .label-lecture} [Causal Inference and Confounding](lecture/lec19)
+: **Lecture 19**{: .label .label-lecture} [Parameter Inference and the Bootstrap](lecture/lec19)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/inference_causality/inference_causality.html) - to be updated)
 
 
