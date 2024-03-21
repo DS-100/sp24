@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Graduate Project",
     "title": "Timeline and Grading Breakdown",
-    "content": "| Deadline (at 11:59 PM Pacific) | Event / Deliverable | Link | Grading Weight | . | 3/15 | Research Proposal and Project Groups Due | Proposal Form | 5% | . | 3/22 | Checkpoint 1: EDA + Internal Peer Review 1 | Internal Review Form | 10% | . | Week of 4/8 | Checkpoint 2: Mandatory Check-in with TA |   | 7.5% | . | 4/19 | Internal Peer Review 2 Due |   | 20% | . | 4/26 | First Draft of Final Report Due |   | 7.5% | . | 5/3 | External Peer Review Due |   | 7.5% | . | 5/10 | Final Project Report and Presentation Video |   | 50% | . Late Policy . | No Extensions for First Draft: The first draft cannot be submitted late as it is crucial for the peer review process. | Final Report and Presentation Video: Late submissions incur a 10% daily penalty, up to a maximum of two days. Submissions are rounded to the nearest day (e.g., 2 minutes late counts as 1 day late). | Peer Reviews and Other Deliverables: Must be submitted on time; no extensions are permitted. | . ",
+    "content": "| Deadline (at 11:59 PM Pacific) | Event / Deliverable | Link | Grading Weight | . | 3/15 | Research Proposal and Project Groups Due | Proposal Form | 5% | . | 3/22 (3/24 Extension) | Checkpoint 1: EDA + Internal Peer Review 1 | Internal Review Form | 10% | . | Week of 4/8 | Checkpoint 2: Mandatory Check-in with TA |   | 7.5% | . | 4/19 | Internal Peer Review 2 Due |   | 20% | . | 4/26 | First Draft of Final Report Due |   | 7.5% | . | 5/3 | External Peer Review Due |   | 7.5% | . | 5/10 | Final Project Report and Presentation Video |   | 50% | . Late Policy . | No Extensions for First Draft: The first draft cannot be submitted late as it is crucial for the peer review process. | Final Report and Presentation Video: Late submissions incur a 10% daily penalty, up to a maximum of two days. Submissions are rounded to the nearest day (e.g., 2 minutes late counts as 1 day late). | Peer Reviews and Other Deliverables: Must be submitted on time; no extensions are permitted. | . ",
     "url": "/sp24/gradproject/#timeline-and-grading-breakdown",
     
     "relUrl": "/gradproject/#timeline-and-grading-breakdown"
@@ -176,7 +176,7 @@
   },"25": {
     "doc": "Home / Schedule",
     "title": "Week 10",
-    "content": "Mar 19 Lecture 18 Estimators, Bias, and Variance Note 18 Lecture Participation 18 Lecture Participation 18 Discussion 9 Cross-Validation and Regularization Mar 21 Lecture 19 Causal Inference and Confounding (Fa23 Note - to be updated) Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
+    "content": "Mar 19 Lecture 18 Estimators, Bias, and Variance Note 18 Lecture Participation 18 Lecture Participation 18 Discussion 9 Cross-Validation and Regularization Solution Mar 21 Lecture 19 Causal Inference and Confounding (Fa23 Note - to be updated) Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
     "url": "/sp24/#week-10",
     
     "relUrl": "/#week-10"
@@ -400,14 +400,14 @@
   },"57": {
     "doc": "Lecture 18 – Estimators, Bias and Variance",
     "title": "Lecture 18 – Estimators, Bias and Variance",
-    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | Bias Variance Derivation | Bias Variance Derivation HTML | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | Bias Variance Derivation | Bias Variance Derivation HTML | recording | . ",
     "url": "/sp24/lecture/lec18/",
     
     "relUrl": "/lecture/lec18/"
   },"58": {
-    "doc": "Lecture 19 – Bias, Variance, and Inference in Modeling",
-    "title": "Lecture 19 – Bias, Variance, and Inference in Modeling",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "doc": "Lecture 19 – Causal Inference and Confounding",
+    "title": "Lecture 19 – Causal Inference and Confounding",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
     "url": "/sp24/lecture/lec19/",
     
     "relUrl": "/lecture/lec19/"
