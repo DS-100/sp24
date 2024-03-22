@@ -20,5 +20,5 @@ Feb 15
     : [Solution](https://drive.google.com/file/d/1mp5zJzCnNnqXnxhQwvZ78nX3xu8YP2k9/view?usp=drive_link){:target="_blank"}, [Video](https://youtu.be/YYx7rxNP4GI)
 
 Feb 16
-: **Lab 4**{: .label .label-lab } [Transformations](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab04%2Flab04.ipynb&branch=main) (due Feb 20)
-: **Homework 4**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main) (due Feb 22)
+: **Lab 4**{: .label .label-lab } [Transformations](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab04%2Flab04.ipynb&branch=main){:target="_blank"} (due Feb 20)
+: **Homework 4**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main){:target="_blank"} (due Feb 22)

@@ -21,5 +21,5 @@ Mar 21
 
 
 Mar 22
-: **Lab 9**{: .label .label-lab }  Probability (due Apr 2)
-: **Homework 6**{: .label .label-hw } Probability (due Apr 4)
+: **Lab 9**{: .label .label-lab }  [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab09%2Flab09.ipynb&branch=main){:target="_blank"} (due Apr 2)
+: **Homework 6**{: .label .label-hw } [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw06%2Fhw06.ipynb&branch=main){:target="_blank"} (due Apr 4)
