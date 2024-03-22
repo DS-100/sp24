@@ -15,7 +15,7 @@ Mar 21
     : [Note 19](https://ds100.org/course-notes/inference_causality/inference_causality.html)
 : **Lecture Participation 19**{: .label .label-survey } [Lecture Participation 19](https://app.sli.do/event/3dhR93JsQCzvCmXGyPnaKe/embed/polls/1241fb6e-5e25-4d3b-8a90-e9c98b4a8478)
 : **Exam Prep 7**{: .label .label-vit } [Cross Validation and Regularization](https://drive.google.com/file/d/1_P0YRP6p2sd9Keze8MBDLkbMDCrKucJC/view?usp=sharing)
-    <!-- : [Solution](https://drive.google.com/file/d/1WF4NJ-fUXUDpoWQQWJX09FNCNAIoIb1T/view?usp=sharing) -->
+    : [Solution](https://drive.google.com/file/d/1jzMWITKumAXFK8Ky3y2wrjS5t_ChYpfQ/view?usp=sharing)
     <!-- , [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE) -->
 
 
