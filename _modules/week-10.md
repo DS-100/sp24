@@ -13,7 +13,7 @@ Mar 19
 Mar 21
 : **Lecture 19**{: .label .label-lecture} [Parameter Inference and the Bootstrap](lecture/lec19)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/inference_causality/inference_causality.html) - to be updated)
-
+: **Lecture Participation 19**{: .label .label-survey } [Lecture Participation 19](https://app.sli.do/event/3dhR93JsQCzvCmXGyPnaKe/embed/polls/1241fb6e-5e25-4d3b-8a90-e9c98b4a8478)
 
 Mar 22
 : **Lab 9**{: .label .label-lab }  Probability (due Apr 2)
