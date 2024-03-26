@@ -290,11 +290,9 @@ Every member of the group also needs to submit the internal peer review [form](h
 
 <!-- - **Other Preliminary Results (optional)**: Please optionally post any other preliminary results here for our information. -->
 
-
-<!--
 ## Checkpoint 2: Mandatory Check-In
 
-The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in 2 weeks time. You will be required to make a one-page document summarizing all of your progress so far, and you will have to bring the document to a one-on-one meeting with a staff member. Please look at the <a href="#checkpoint-2-mandatory-check-in-75">rubric</a> for the checkpoint and what you need to include in the <a href="#final-project-report">Final Project Report</a> when determining what to include in your one-page document; the document should be a brief summary of all your progress so far. The staff member will quickly skim the document and give you guidance on the project as a whole. More details about submitting the one-page document and signing up for the staff member meeting will be announced on Ed soon.
+The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a one-page document summarizing all of your progress so far including your EDA and modeling results and you will have to bring the document to a one-on-one meeting with a staff member. The staff member will quickly skim the document and give you guidance on the project as a whole.
 
 <!-- ## Final Project Report
 The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later). -->
@@ -360,12 +358,11 @@ This section includes a rubric for how different project deliverables are going 
 - Figures (tables, plots, etc.) (3%).
 - Internal Peer Review (0.5%).
 
-<!--
 ### Checkpoint 2: Mandatory Check-In (7.5%)
-- Research Questions (1.5%).
+- Exploratory Data Analysis (1.5%).
 - Feature Engineering (2%).
 - Modelling Approaches (3%).
-- Preliminary Results (1%). -->
+- Preliminary Results (1%).
 
 <!---
 
