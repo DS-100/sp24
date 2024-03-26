@@ -292,7 +292,7 @@ Every member of the group also needs to submit the internal peer review [form](h
 
 ## Checkpoint 2: Mandatory Check-In
 
-The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a one-page document summarizing all of your progress so far including your EDA and modeling results and you will have to bring the document to a one-on-one meeting with a staff member. The staff member will quickly skim the document and give you guidance on the project as a whole.
+The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a document summarizing all of your progress so far, including your EDA and modeling results. You will be required to submit the report to Gradescope before the meeting. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
 
 <!-- ## Final Project Report
 The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later). -->
