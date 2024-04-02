@@ -16,7 +16,7 @@ Mar 14
 : **Lecture Participation 17**{: .label .label-survey } [Lecture Participation 17](https://app.sli.do/event/toyQ2Rd8EN1aaPrjgyDwny/embed/polls/d17fe569-a7e3-48b0-bafd-cd30a29f42db)
 : **Exam Prep 6**{: .label .label-vit } [Gradient Descent](https://drive.google.com/file/d/1Z5CMynW9iOs_zL_FpYhYLnDkQXtRtUnR/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1WF4NJ-fUXUDpoWQQWJX09FNCNAIoIb1T/view?usp=sharing)
-    <!-- , [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE) -->
+    , [Video](https://youtu.be/6DYkakwC3w0?si=Vnv_rilKde7mW3Ei)
 
 
 Mar 15
