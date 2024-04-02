@@ -5,7 +5,7 @@ title: Week 12
 
 Apr 2
 : **Lecture 20**{: .label .label-lecture} [SQL I](lecture/lec20)
-    : [Note](https://ds100.org/course-notes/sql_I/sql_I.html)
+    : [Note 20](https://ds100.org/course-notes/sql_I/sql_I.html)
 : **Discussion 10**{: .label .label-disc } [RVs, Bias, and Variance](https://drive.google.com/file/d/13LesObZY6V7XDNLF0udzpALKNmv5Z6i7/view?usp=sharing)
 
 Apr 4
