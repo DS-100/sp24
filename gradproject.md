@@ -294,6 +294,16 @@ Every member of the group also needs to submit the internal peer review [form](h
 
 The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a document summarizing all of your progress so far, including your EDA and modeling results. You will be required to submit the report to Gradescope before the meeting. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
 
+For the check-in we would like for you to prepare brief answers to the following questions about the modeling process:
+- What model do you plan on using and why?
+- Does your model require hyperparameter tuning? If so, how do you approach it?
+- How do you engineer the features for your model? What are the rationales behind selecting these features?
+- How do you perform cross validation on your model?
+- What loss metrics are you using to evaluate your model?
+- From a bias-variance tradeoff standpoint, how do you assess the performance of your model? How do you check if it is overfitting?
+- How would you improve your model based on the outcome?
+- Are there any further extensions to your model that would be worth exploring?
+
 <!-- ## Final Project Report
 The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later). -->
 
