@@ -176,14 +176,14 @@
   },"25": {
     "doc": "Home / Schedule",
     "title": "Week 9",
-    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Lecture Participation 17 Lecture Participation 17 Exam Prep 6 Gradient Descent Solution Mar 15 Lab 8 Model Selection, Regularization, and Cross-Validation (due Mar 19) Project A2 Housing II (due Mar 21) ",
+    "content": "Mar 12 Lecture 16 Cross-Validation and Regularization Note 16 Lecture Participation 16 Lecture Participation 16 Discussion 8 Gradient descent, Feature Engineering, Housing Solution Mar 14 Lecture 17 Random Variables Note 17 Lecture Participation 17 Lecture Participation 17 Exam Prep 6 Gradient Descent Solution , Video Mar 15 Lab 8 Model Selection, Regularization, and Cross-Validation (due Mar 19) Project A2 Housing II (due Mar 21) ",
     "url": "/sp24/#week-9",
     
     "relUrl": "/#week-9"
   },"26": {
     "doc": "Home / Schedule",
     "title": "Week 10",
-    "content": "Mar 19 Lecture 18 Estimators, Bias, and Variance Note 18 Lecture Participation 18 Lecture Participation 18 Discussion 9 Cross-Validation and Regularization Solution Mar 21 Lecture 19 Parameter Inference and the Bootstrap Note 19 Lecture Participation 19 Lecture Participation 19 Exam Prep 7 Cross Validation and Regularization Solution Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
+    "content": "Mar 19 Lecture 18 Estimators, Bias, and Variance Note 18 Lecture Participation 18 Lecture Participation 18 Discussion 9 Cross-Validation and Regularization Solution Mar 21 Lecture 19 Parameter Inference and the Bootstrap Note 19 Lecture Participation 19 Lecture Participation 19 Exam Prep 7 Cross Validation and Regularization Solution , Video Mar 22 Lab 9 Probability (due Apr 2) Homework 6 Probability (due Apr 4) ",
     "url": "/sp24/#week-10",
     
     "relUrl": "/#week-10"
@@ -197,7 +197,7 @@
   },"28": {
     "doc": "Home / Schedule",
     "title": "Week 12",
-    "content": "Apr 2 Lecture 20 SQL I (Fa23 Note - to be updated) Discussion 10 RVs, Bias, and Variance Apr 4 Lecture 21 SQL II and Cloud Data (Fa23 Note - to be updated) Apr 5 Lab 10 SQL (due Apr 9) Homework 7 SQL (due Apr 11) ",
+    "content": "Apr 2 Lecture 20 SQL I Note 20 Lecture Participation 20 Lecture Participation 20 Discussion 10 RVs, Bias, and Variance Apr 4 Lecture 21 SQL II and Cloud Data (Fa23 Note - to be updated) Apr 5 Lab 10 SQL (due Apr 9) Homework 7 SQL (due Apr 11) ",
     "url": "/sp24/#week-12",
     
     "relUrl": "/#week-12"
@@ -421,7 +421,7 @@
   },"60": {
     "doc": "Lecture 20 – SQL I",
     "title": "Lecture 20 – SQL I",
-    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec20/",
     
     "relUrl": "/lecture/lec20/"

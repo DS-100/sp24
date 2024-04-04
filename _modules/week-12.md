@@ -11,7 +11,7 @@ Apr 2
     : [Solution](https://drive.google.com/file/d/1kYpIGDlbgHFPQDd-o_OXcfgiDgD3exeL/view?usp=sharing){:target="_blank"}
 
 Apr 4
-: **Lecture 21**{: .label .label-lecture} SQL II and Cloud Data
+: **Lecture 21**{: .label .label-lecture} [SQL II and Cloud Data](lecture/lec21)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/sql_II/sql_II.html) - to be updated)
 
 Apr 5
