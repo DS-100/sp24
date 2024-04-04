@@ -202,7 +202,7 @@ For the EDA tasks, tell us more about the data. What do you see in the data? Com
 {:.no_toc}
 Now, we aim to better understand the different chatbot models! Please complete both Task A and B. We have included example questions to consider, but you are expected to come up with your own questions to answer.
 
-For both tasks, you will be working with the data provided. But you are also expected to perform prediction on a holdout set. You can find the data in `arena-validation-set-prompt-only.jsonl.gz` in the same directory. The data contains fields `question_id`, `prompt`, `model_a`, and `model_b`. You are expected to predict the winner and the hardness score for tasks A and B respectively. You should submit your final prediction as a `csv` file with four columns `question_id`, `winner`, `hardness_score`. The `winner` column should be one of the four values: `model_a`, `model_b`, `tie`, or `tie (bothbad)`. The `hardness_score` should be an integer from 1 to 10.
+For both tasks, you will be working with the data provided. But you are also expected to perform prediction on a holdout set. You can find the data in `arena-validation-set-prompt-only.jsonl.gz` in the same directory. The data contains fields `question_id`, `prompt`, `model_a`, and `model_b`. You are expected to predict the winner and the hardness score for tasks A and B respectively. You should submit your final prediction as a `csv` file with three columns `question_id`, `winner`, `hardness_score`. The `winner` column should be one of the four values: `model_a`, `model_b`, `tie`, or `tie (bothbad)`. The `hardness_score` should be an integer from 1 to 10.
 
 #### *Task A: Modeling the Winning Model*
 {:.no_toc}
