@@ -12,7 +12,7 @@ Apr 2
 
 Apr 4
 : **Lecture 21**{: .label .label-lecture} [SQL II and Cloud Data](lecture/lec21)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/sql_II/sql_II.html) - to be updated)
+    : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 21**{: .label .label-survey } [Lecture Participation 21](https://app.sli.do/event/ppdAS6kKimDMgDiKi1vQzE/embed/polls/019fffd8-6448-40a8-8360-6d97cba43ee7)
 
 Apr 5
