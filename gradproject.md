@@ -55,8 +55,8 @@ The graduate project element will require the following deliverables:
 | 3/15                           | Research Proposal and Project Groups Due   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
 | 3/22 ([3/24 Extension](https://edstem.org/us/courses/51810/discussion/4604306))                           | Checkpoint 1: EDA + Internal Peer Review 1 |  [Internal Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  | 10%            |
 | Week of 4/8                    | Checkpoint 2: Mandatory Check-in with TA   |                                                                | 7.5%           |
-| 4/19                           | Internal Peer Review 2 Due                 |                                                                | 20%            |
-| 4/26                           | First Draft of Final Report Due            |                                                                | 7.5%           |
+| 4/19                           | Internal Peer Review 2 Due                 |                                                                | 5%            |
+| 4/26                           | First Draft of Final Report Due            |                                                                | 15%           |
 | 5/3                            | External Peer Review Due                   |                                                                | 7.5%           |
 | 5/10                           | Final Project Report and Presentation Video|                                                                | 50%            |
 
