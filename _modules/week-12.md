@@ -19,5 +19,5 @@ Apr 4
     <!-- , [Video](https://youtu.be/AuoAGwq99RU?si=sdTrtcb_pVh2K80b) -->
 
 Apr 5
-: **Lab 10**{: .label .label-lab }  SQL (due Apr 9)
-: **Homework 7**{: .label .label-hw } SQL (due Apr 11)
+: **Lab 10**{: .label .label-lab }  [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab10%2Flab10.ipynb&branch=main){:target="_blank"} (due Apr 9)
+: **Homework 7**{: .label .label-hw } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main){:target="_blank"} (due Apr 11)
