@@ -15,7 +15,7 @@ Apr 4
     : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 21**{: .label .label-survey } [Lecture Participation 21](https://app.sli.do/event/ppdAS6kKimDMgDiKi1vQzE/embed/polls/019fffd8-6448-40a8-8360-6d97cba43ee7)
 : **Exam Prep 8**{: .label .label-vit } [Probability and Bias-Variance](https://drive.google.com/file/d/1jLXChD_BIpHhJOHULGdzRbZABzaJVhM3/view?usp=sharing)
-    <!-- : [Solution](https://drive.google.com/file/d/1yoDx40axblT4t3XsejN7VPs0oLFc9Wzj/view?usp=sharing) -->
+    : [Solution](https://drive.google.com/file/d/1yoDx40axblT4t3XsejN7VPs0oLFc9Wzj/view?usp=sharing)
     <!-- , [Video](https://youtu.be/AuoAGwq99RU?si=sdTrtcb_pVh2K80b) -->
 
 Apr 5
