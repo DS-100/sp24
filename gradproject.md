@@ -304,16 +304,15 @@ For the check-in we would like for you to prepare brief answers to the following
 - How would you improve your model based on the outcome?
 - Are there any further extensions to your model that would be worth exploring?
 
-<!-- ## Final Project Report
-The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later). -->
+## Final Project Report
+The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later).
 
-<!-- ### [Component 1] Analysis Notebooks
+### [Component 1] Analysis Notebooks
 
 This component includes all the Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in your write-up. Make sure that all references to datasets are done as `data/[path to data files]`. By running these notebooks, we should be able to replicate all the analysis/figures done in your write-up.
 
 Your analysis notebook(s) should address all of the following components in the data science lifecycle. Please note that a thorough explanation of your thought process and approach is **as important as** your work. Unreadable/uncommented code will lose points. Along with the code for the EDA portion (which also has to be included), we have provided a few additional preliminary questions/tips you can consider for the modeling portion of the project:
 
-  - What are the research questions that you are answering through your analysis? What type of machine learning problem are you investigating?
   - Which model(s) do you use and why?
   - How do you use your data for training and testing?
   - Does your model require hyperparameter tuning? If so, how do you approach it?
@@ -352,7 +351,7 @@ Please submit everything as a zip file to the final report submission portal on 
     figures/[figures included in the narrative PDF]
 ```
 
-Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks. -->
+Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
@@ -374,7 +373,9 @@ This section includes a rubric for how different project deliverables are going 
 - Modelling Approaches (3%).
 - Preliminary Results (1%).
 
-<!---
+### Checkpoint 3: Project Report First Draft + Internal Peer Review (20%)
+Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video component for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
+
 
 ### Checkpoint Rubric
 
@@ -391,24 +392,31 @@ See the checkpoint description [here](#checkpoint).
 
 The internal peer review is a simple google form checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion.
 
-### External Peer Review
+### External Peer Review (7.5%)
 
 Each group will peer review the projects from another group. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
 
-1. (1 point) A summary of the report. The summary should address at least the following:
+1. (1.5%) A summary of the report. The summary should address at least the following:
   - What research question does the group propose? Why is it important?
   - How does the dataset relate to the research question?
   - What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
   - What are the next steps a researcher can take if they want to investigate the question further based off the work in the project?
 
-2. (4 points, 2 per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
+2. (6%, 1 per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
   - Data collection and sampling
   - Data cleaning
   - Exploratory data analysis (data wrangling, visualization, etc.)
   - Data modeling (feature engineering, selection of the model, and evaluation of the model's performance, etc.)
   - Inference (do the results from the model sufficiently support the conclusion within the report?)
+  - Discussion (does the report effectively discuss the limitations of the methods used and the implications of the results?)
 
 The external peer review is also a great chance to learn from other people's work and reflect on the work of your own.
+
+### Final Project Report (50%)
+* Analysis Notebooks (10%)
+* Presentation Video (10%)
+* Project Writeup (20%)
+* Modeling Performance (10%)
 
 ### Final Report: Analysis Notebook
 
@@ -432,7 +440,16 @@ The external peer review is also a great chance to learn from other people's wor
 | Discussion of potential societal impacts and/or ethical concerns       | 2     |
 | Overall clarity and structure of the report                            | 3     |
 | **Total**                                                              | **30**|
--->
+
+### Final Report: Modeling Performance
+
+| Criterion                                     | Points|
+|-----------------------------------------------|-------|
+| Task 1 reaches baseline performance score     | 3     |
+| Task 1 reaches a reasonable performance score | 2     |
+| Task 2 reaches baseline performance score     | 3     |
+| Task 2 reaches a reasonable performance score | 2     |
+| **Total**                                     | **10**|
 
 <!-- ## Extra Resources: Causal Inference
 
