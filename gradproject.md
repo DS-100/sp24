@@ -377,17 +377,6 @@ This section includes a rubric for how different project deliverables are going 
 Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video component for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
 
-### Checkpoint Rubric
-
-See the checkpoint description [here](#checkpoint).
-
-| Criterion | Points |
-| --- | --- |
-| Project Introduction and Goals | 4 |
-| EDA 1 | 3 |
-| EDA 2 | 3 |
-| Other Preliminary Results (optional) | 0 |
-
 ### Internal Peer Review
 
 The internal peer review is a simple google form checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion.
@@ -397,8 +386,7 @@ The internal peer review is a simple google form checking if each member of the 
 Each group will peer review the projects from another group. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
 
 1. (1.5%) A summary of the report. The summary should address at least the following:
-  - What research question does the group propose? Why is it important?
-  - How does the dataset relate to the research question?
+  - What is the conclusion drawn from the EDA and modeling results?
   - What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
   - What are the next steps a researcher can take if they want to investigate the question further based off the work in the project?
 
@@ -432,13 +420,12 @@ The external peer review is also a great chance to learn from other people's wor
 
 | Criterion                                                              | Points|
 |------------------------------------------------------------------------|-------|
-| Introduction, motivation, and presentation of the research question(s) | 3     |
-| Exploratory data analysis                                              | 5     |
+| Exploratory data analysis                                              | 6     |
 | Modeling and inference techniques                                      | 7     |
 | Analysis of results                                                    | 7     |
 | Implementation of peer review feedback                                 | 3     |
-| Discussion of potential societal impacts and/or ethical concerns       | 2     |
-| Overall clarity and structure of the report                            | 3     |
+| Discussion of potential societal impacts and/or ethical concerns       | 3     |
+| Overall clarity and structure of the report                            | 4     |
 | **Total**                                                              | **30**|
 
 ### Final Report: Modeling Performance
