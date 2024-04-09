@@ -330,7 +330,7 @@ This is a single PDF that summarizes your workflow and what you have learned. It
 
 Specifically, you should ensure you address the following in the narrative:
 
-* Clearly state the research questions and why they are interesting and important.
+<!-- * Clearly state the research questions and why they are interesting and important. -->
 * Introduction: ensure you include a brief survey of related work on the topic(s) of your analysis. Be sure to reference current approaches/research in the context of your project, as well as how your project differs from or complements existing research. You must cite all the references you discuss in this section.
 * Description of data: ensure you outline the summary of the data and how the data was prepared for the modeling phase (summarizing your EDA work). If applicable, descriptions of additional datasets that you gathered to support your analysis may also be included.
 * Methodology: carefully describe the methods/models you use and why they are appropriate for answering your research questions. You must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation. You may also include interesting findings involving your datasets.
