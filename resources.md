@@ -33,6 +33,9 @@ Textbook readings are purely optional, and may contain material that is not in s
 {: .important }
 > Please refer to **[Data 100: Past Exam Common Questions](https://docs.google.com/document/d/e/2PACX-1vQm6iUDd-S2reyCNVHNgHKQTr7AqBQTbTEVew2POSvSAQLdpSPJb1OlYWsQ5wuFkVf1yHSVGXcta4Tv/pub)**, curating common exam-related questions we've seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions.
 
+{: .important }
+> Here is a list of [**out-of-scope past exam question list**](https://docs.google.com/document/d/1aAphTdNO1YddsyagOCV3WGI5wv6qwlZhtiEpQEwmrY0/edit?usp=sharing) to review for Spring 2024 Final.
+
 | Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
 |Spring 2024| [Exam](assets/exams/sp24/ds100-sp24-midterm.pdf){:target="_blank"} [(Solutions)](assets/exams/sp24/ds100-sp24-midterm-sol.pdf){:target="_blank"} | | | [Midterm](assets/exams/sp24/ds100-sp24-midterm-ref.pdf){:target="_blank"} |
