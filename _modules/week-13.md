@@ -11,7 +11,7 @@ Apr 9
     <!-- : Worksheet [Solution](https://drive.google.com/file/d/1WhbAk08gtDcD5OG_Wuj0MqPuGPgNAb6I/view?usp=sharing){:target="_blank"}, [Video](https://youtu.be/dtA2MDPZmB0){:target="_blank"} Groupwork [Solution](https://drive.google.com/file/d/1mmP4KV-X-KGRs8FFcYpoZy_iMGOJtS7L/view?usp=sharing), [Video](https://youtu.be/xH5Ad_tQQ4w) -->
 
 Apr 11
-: **Lecture 23**{: .label .label-lecture} Logistic Regression II
+: **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/logistic_regression_2/logistic_reg_2.html) - to be updated)
 
 Apr 12
