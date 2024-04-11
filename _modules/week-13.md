@@ -14,6 +14,7 @@ Apr 9
 Apr 11
 : **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
     : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
+: **Lecture Participation 23**{: .label .label-survey } [Lecture Participation 23](https://app.sli.do/event/bom4c2y4hdJhNtb7i3tntp/embed/polls/5646fbc6-0e1c-4abf-963a-e2075747f6b0)
 
 Apr 12
 : **Lab 11**{: .label .label-lab }  Logistic Regression (due Apr 16)
