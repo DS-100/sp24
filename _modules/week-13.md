@@ -19,5 +19,5 @@ Apr 11
     <!-- : [Solution](https://drive.google.com/file/d/10kp5OUCQN9eJmPecaEybVqdx1XCQw80b/view?usp=share_link) -->
 
 Apr 12
-: **Lab 11**{: .label .label-lab }  Logistic Regression (due Apr 16)
-: **Project B1**{: .label .label-hw } Spam & Ham I (due Apr 18)
+: **Lab 11**{: .label .label-lab }  [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab11%2Flab11.ipynb&branch=main){:target="_blank"} (due Apr 16)
+: **Project B1**{: .label .label-hw } [Spam & Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fproj%2FprojB1%2FprojB1.ipynb&branch=main){:target="_blank"} (due Apr 18)
