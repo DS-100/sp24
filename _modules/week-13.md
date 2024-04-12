@@ -15,7 +15,7 @@ Apr 11
 : **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
     : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
 : **Lecture Participation 23**{: .label .label-survey } [Lecture Participation 23](https://app.sli.do/event/bom4c2y4hdJhNtb7i3tntp/embed/polls/5646fbc6-0e1c-4abf-963a-e2075747f6b0)
-: **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/10kp5OUCQN9eJmPecaEybVqdx1XCQw80b/view?usp=share_link)
+: **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/10kp5OUCQN9eJmPecaEybVqdx1XCQw80b/view?usp=sharing)
     <!-- : [Solution](https://drive.google.com/file/d/10kp5OUCQN9eJmPecaEybVqdx1XCQw80b/view?usp=share_link) -->
 
 Apr 12
