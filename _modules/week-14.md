@@ -5,11 +5,13 @@ title: Week 14
 
 Apr 16
 : **Lecture 24**{: .label .label-lecture} PCA I
+    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pca_1/pca_1.html) - to be updated)
 
 : **Discussion 12**{: .label .label-disc } Logistic Regression
 
 Apr 18
 : **Lecture 25**{: .label .label-lecture} PCA II
+    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pca_2/pca_2.html) - to be updated)
 
 
 Apr 19
