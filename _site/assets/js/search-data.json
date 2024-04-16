@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00PM to 4:30PM in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Mondays 10:00AM - 11:00AM in Soda 775Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 13 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00PM to 4:30PM in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Mondays 10:00AM - 11:00AM in Soda 775Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 14 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -211,14 +211,14 @@
   },"30": {
     "doc": "Home / Schedule",
     "title": "Week 13",
-    "content": "Apr 9 Lecture 22 Logistic Regression I Note 22 Lecture Participation 22 Lecture Participation 22 Discussion 11 SQL, Discussion Notebook Worksheet Solution, Notebook Solution Apr 11 Lecture 23 Logistic Regression II (Fa23 Note - to be updated) Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
+    "content": "Apr 9 Lecture 22 Logistic Regression I Note 22 Lecture Participation 22 Lecture Participation 22 Discussion 11 SQL, Discussion Notebook Worksheet Solution, Notebook Solution Apr 11 Lecture 23 Logistic Regression II Note 23 Lecture Participation 23 Lecture Participation 23 Exam Prep 9 SQL Solution Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
     "url": "/sp24/#week-13",
     
     "relUrl": "/#week-13"
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 14",
-    "content": "Apr 16 Lecture 24 PCA I Discussion 12 Logistic Regression . Apr 18 Lecture 25 PCA II Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
+    "content": "Apr 16 Lecture 24 PCA I (Fa23 Note - to be updated) Discussion 12 Logistic Regression . Apr 18 Lecture 25 PCA II (Fa23 Note - to be updated) Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
     "url": "/sp24/#week-14",
     
     "relUrl": "/#week-14"
@@ -449,7 +449,7 @@
   },"64": {
     "doc": "Lecture 23 – Logistic Regression II",
     "title": "Lecture 23 – Logistic Regression II",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
+    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
     "url": "/sp24/lecture/lec23/",
     
     "relUrl": "/lecture/lec23/"
