@@ -9,6 +9,7 @@ Apr 16
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pca_1/pca_1.html) - to be updated)
 
 : **Discussion 12**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1Ke_rEdJfdjFhCnZwN64bwYGtklKZRCj7/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/124YSgzRkU0d7S0SbIcGml-0Fhjx9sKrl/view?usp=sharing){:target="_blank"}
 
 Apr 18
 : **Lecture 25**{: .label .label-lecture} PCA II

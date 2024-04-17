@@ -218,7 +218,7 @@
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 14",
-    "content": "Apr 16 Lecture 24 PCA I (Fa23 Note - to be updated) Discussion 12 Logistic Regression . Apr 18 Lecture 25 PCA II (Fa23 Note - to be updated) Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
+    "content": "Apr 16 Lecture 24 PCA I Lecture Participation 24 Lecture Participation 24 (Fa23 Note - to be updated) Discussion 12 Logistic Regression Solution Apr 18 Lecture 25 PCA II (Fa23 Note - to be updated) Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
     "url": "/sp24/#week-14",
     
     "relUrl": "/#week-14"
@@ -455,11 +455,11 @@
     "relUrl": "/lecture/lec23/"
   },"65": {
     "doc": "Lecture 24 – Decision trees",
-    "title": "Lecture 24 - Decision Trees",
-    "content": "Presented by Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | . ",
-    "url": "/sp24/lecture/lec24/#lecture-24---decision-trees",
+    "title": "Lecture 24 - PCA I",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
+    "url": "/sp24/lecture/lec24/#lecture-24---pca-i",
     
-    "relUrl": "/lecture/lec24/#lecture-24---decision-trees"
+    "relUrl": "/lecture/lec24/#lecture-24---pca-i"
   },"66": {
     "doc": "Lecture 24 – Decision trees",
     "title": "Lecture 24 – Decision trees",
