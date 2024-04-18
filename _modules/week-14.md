@@ -12,7 +12,7 @@ Apr 16
     : [Solution](https://drive.google.com/file/d/124YSgzRkU0d7S0SbIcGml-0Fhjx9sKrl/view?usp=sharing){:target="_blank"}
 
 Apr 18
-: **Lecture 25**{: .label .label-lecture} PCA II
+: **Lecture 24**{: .label .label-lecture} [PCA II](lecture/lec25)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pca_2/pca_2.html) - to be updated)
 
 
