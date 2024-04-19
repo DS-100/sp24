@@ -355,7 +355,7 @@ Please use student IDs joined by `_` as the name for the top-level directory. Th
 
 ### [Component 3] Test Set Performance (10%)
 
-This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). Please find the test data for each task for both projects below (will be updated soon).
+This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). You will need to submit your predictions to Gradescope to get your test performance; you will be allowed to upload up to 4 times a day. Please find the test data for each task for both projects below. 
 
 #### **Topic 1 (CV)**
 
@@ -365,7 +365,7 @@ Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, a
 
 #### **Topic 2 (NLP)**
 
-here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `shared/sp24_grad_project_data/nlp-arena-data` directory on Data 100 Datahub.
+Here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `shared/sp24_grad_project_data/nlp-arena-data` directory on Data 100 Datahub.
 
 Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to [this](https://www.gradescope.com/courses/696886/assignments/4364990){:target="_blank"} Gradescope assignment.
 
