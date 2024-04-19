@@ -23,5 +23,5 @@ Apr 18
 
 
 Apr 19
-: **Lab 12**{: .label .label-lab } PCA (due Apr 23)
-: **Project B2**{: .label .label-hw } Spam & Ham II (due Apr 25)
+: **Lab 12**{: .label .label-lab } [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab12%2Flab12.ipynb&branch=main){:target="_blank"} (due Apr 23)
+: **Project B2**{: .label .label-hw } [Spam & Ham II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fproj%2FprojB2%2FprojB2.ipynb&branch=main){:target="_blank"} (due Apr 25)
