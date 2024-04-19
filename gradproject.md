@@ -453,22 +453,20 @@ The external peer review is also a great chance to learn from other people's wor
 | Task (metric) | Threshold | Points |
 |---------------|-----------|--------|
 | Task A (accuracy) | 0.8131  |   3    |
-|               | 0.9003  |   +1    |
-|               | 0.9927  |   +1    |
+|               | 0.9003  |   4    |
+|               | 0.9927  |   5    |
 | Task B (F1 score)  | 0.3987  |   3    |
-|               | 0.4334  |   +1    |
-|               | 0.5602  |   +1    |
-| Total         |           |  **10**    |
+|               | 0.4334  |   4    |
+|               | 0.5602  |   5    |
 
 #### **Topic 2 (NLP)**
 
 | Task (metric)     | Threshold | Points |
 |-------------------|-----------|--------|
 | Task A (accuracy) | 0.50      |   3    |
-|                   | 0.54      |   +2    |
+|                   | 0.54      |   5    |
 | Task B (MSE)      | 2.78      |   3    |
-|                   | 2.5       |   +2    |
-| Total             |           |  **10**    |
+|                   | 2.5       |   5    |
 
 
 
