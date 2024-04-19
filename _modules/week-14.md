@@ -13,7 +13,7 @@ Apr 16
 
 Apr 18
 : **Lecture 25**{: .label .label-lecture} [PCA II](lecture/lec25)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pca_2/pca_2.html) - to be updated)
+    : [Note 25](https://ds100.org/course-notes/pca_2/pca_2.html)
 : **Lecture Participation 25**{: .label .label-survey } [Lecture Participation 25](https://app.sli.do/event/xhBPBv2ZfDqw2bJLqj2ohg/embed/polls/a7cedc34-209c-4c88-8757-5a75aa38e3bd)
 : **Exam Prep 10**{: .label .label-vit } [Logistic Regression](https://drive.google.com/file/d/1abiI1v0XSDWjRDIdVmb9udK7itLegPvT/view?usp=sharing)
     <!-- : [Solution](https://drive.google.com/file/d/1NXweRvd_2g-LmyEZtPWA-HEwmBQB08FS/view?usp=share_link) -->
