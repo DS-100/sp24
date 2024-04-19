@@ -17,4 +17,4 @@ Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowle
 - [linear-transform HTML](../../resources/assets/lectures/lec25/lec25-linear-transform.html)
 - [votes code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flecture%2Flec25%2Flec25-votes.ipynb&branch=main)
 - [votes HTML](../../resources/assets/lectures/lec25/lec25-votes.html)
-<!-- - [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-25-conclusion) -->
+- [recording](https://youtu.be/_CCyLO8O8o8)

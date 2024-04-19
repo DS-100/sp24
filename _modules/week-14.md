@@ -14,6 +14,7 @@ Apr 16
 Apr 18
 : **Lecture 25**{: .label .label-lecture} [PCA II](lecture/lec25)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/pca_2/pca_2.html) - to be updated)
+: **Lecture Participation 25**{: .label .label-survey } [Lecture Participation 25](https://app.sli.do/event/xhBPBv2ZfDqw2bJLqj2ohg/embed/polls/a7cedc34-209c-4c88-8757-5a75aa38e3bd)
 
 
 Apr 19
