@@ -211,14 +211,14 @@
   },"30": {
     "doc": "Home / Schedule",
     "title": "Week 13",
-    "content": "Apr 9 Lecture 22 Logistic Regression I Note 22 Lecture Participation 22 Lecture Participation 22 Discussion 11 SQL, Discussion Notebook Worksheet Solution, Notebook Solution Apr 11 Lecture 23 Logistic Regression II Note 23 Lecture Participation 23 Lecture Participation 23 Exam Prep 9 SQL Solution Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
+    "content": "Apr 9 Lecture 22 Logistic Regression I Note 22 Lecture Participation 22 Lecture Participation 22 Discussion 11 SQL, Discussion Notebook Worksheet Solution, Notebook Solution, Video Apr 11 Lecture 23 Logistic Regression II Note 23 Lecture Participation 23 Lecture Participation 23 Exam Prep 9 SQL Solution Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
     "url": "/sp24/#week-13",
     
     "relUrl": "/#week-13"
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 14",
-    "content": "Apr 16 Lecture 24 PCA I Lecture Participation 24 Lecture Participation 24 (Fa23 Note - to be updated) Discussion 12 Logistic Regression Solution Apr 18 Lecture 25 PCA II (Fa23 Note - to be updated) Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
+    "content": "Apr 16 Lecture 24 PCA I Lecture Participation 24 Lecture Participation 24 Note 24 Discussion 12 Logistic Regression Solution Apr 18 Lecture 25 PCA II (Fa23 Note - to be updated) Lecture Participation 25 Lecture Participation 25 Exam Prep 10 Logistic Regression Apr 19 Lab 12 PCA (due Apr 23) Project B2 Spam &amp; Ham II (due Apr 25) ",
     "url": "/sp24/#week-14",
     
     "relUrl": "/#week-14"
@@ -469,11 +469,11 @@
     "relUrl": "/lecture/lec24/"
   },"67": {
     "doc": "Lecture 25 – Conclusion",
-    "title": "Lecture 25 - Conclusion",
-    "content": "Presented by Bella Crouch and Dominic Liu . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | . ",
-    "url": "/sp24/lecture/lec25/#lecture-25---conclusion",
+    "title": "Lecture 25 - PCA II",
+    "content": "Presented by Joseph E. Gonzalez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | fashion-mnist code | fashion-mnist HTML | linear-transform code | linear-transform HTML | votes code | votes HTML | recording | . ",
+    "url": "/sp24/lecture/lec25/#lecture-25---pca-ii",
     
-    "relUrl": "/lecture/lec25/#lecture-25---conclusion"
+    "relUrl": "/lecture/lec25/#lecture-25---pca-ii"
   },"68": {
     "doc": "Lecture 25 – Conclusion",
     "title": "Lecture 25 – Conclusion",
