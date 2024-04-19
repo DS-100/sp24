@@ -29,17 +29,13 @@ The purpose of the project is to give students experience in both open-ended dat
 
 The graduate project element will require the following deliverables:
 
-### Upcoming Deliverables:
-
 - **Group Formation + Research Proposal:** You will form a project group and submit a google form stating your intended topic and a brief implementation plan. Please see [below](#group-formation--research-proposal) for more information.
-
-### Future Deliverables (subject to change):
-
 - **Checkpoint 1: EDA + Internal Peer Review 1:** Submit a write-up and code for Exploratory Data Analysis on your dataset. Additionally, submit an internal peer review. More information [below](#checkpoint-1-eda--internal-peer-review).
 - **Checkpoint 2: Mandatory Check-In:** Write a one-pager of your progress, focusing on the modeling approaches your team explored, and review it with a course staff member. Further details [below](#checkpoint-2-mandatory-check-in).
-- **Project Report First Draft + Internal Peer Review 2:** Submit the first draft of your report, detailing your EDA and modeling efforts, along with any necessary code. An internal peer review is also required.
-- **External Peer-Review:** Provide feedback on other project teams' work.
-- **Final Project Report:** Submit the final project report, including all necessary code. Ensure all relevant feedback from the first draft and external peer reviews are incorporated. Additionally, you are required to make a brief 5-minute YouTube video recording of the project.
+- **Internal Peer Review 2:** Submit the second internal peer review form.
+- **Project Report First Draft:** Submit the first draft of your report, detailing your EDA and modeling efforts, along with any necessary code.
+- **External Peer-Review:** Provide feedback on other teams' work.
+- **Final Project Report:** Submit the final project report, including all necessary code. Ensure all relevant feedback from the first draft and external peer reviews are incorporated. Additionally, you are required to submit your test set results and make a brief 5-minute YouTube video recording of the project.
 
 
 ### Teamwork
@@ -52,10 +48,10 @@ The graduate project element will require the following deliverables:
 
 | Deadline (at 11:59 PM Pacific) | Event / Deliverable                        | Link                                                           | Grading Weight |
 |--------------------------------|--------------------------------------------|----------------------------------------------------------------|----------------|
-| 3/15                           | Research Proposal and Project Groups Due   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
-| 3/22 ([3/24 Extension](https://edstem.org/us/courses/51810/discussion/4604306))                           | Checkpoint 1: EDA + Internal Peer Review 1 |  [Internal Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  | 10%            |
-| Week of 4/8                    | Checkpoint 2: Mandatory Check-in with TA   |                                                                | 7.5%           |
-| 4/19                           | Internal Peer Review 2 Due                 |                                                                | 5%            |
+| 3/15                           | [Research Proposal and Project Groups]((https://www.gradescope.com/courses/696886/assignments/4322203){:target="_blank"})   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
+| 3/22 ([3/24 Extension](https://edstem.org/us/courses/51810/discussion/4604306){:target="_blank"})                           | [Checkpoint 1: EDA]((https://www.gradescope.com/courses/696886/assignments/4247160){:target="_blank"}) + [Internal Peer Review 1](https://www.gradescope.com/courses/696886/assignments/4327698){:target="_blank"} |  [Internal Peer Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}   | 10%            |
+| Week of 4/8                    | [Checkpoint 2: Mandatory Check-in with TA]((https://www.gradescope.com/courses/696886/assignments/4312054){:target="_blank"})   |                                                                | 7.5%           |
+| 4/19                           | Internal Peer Review 2 Due                 |   [Internal Peer Review Form](https://forms.gle/XpYfvoMrNHBq8cFy7){:target="_blank"}                                                             | 5%            |
 | 4/26                           | First Draft of Final Report Due            |                                                                | 15%           |
 | 5/3                            | External Peer Review Due                   |                                                                | 7.5%           |
 | 5/10                           | Final Project Report and Presentation Video|                                                                | 50%            |
@@ -67,7 +63,7 @@ The graduate project element will require the following deliverables:
 
 ## Datasets
 
-This section contains the topics we will provide to you to explore your research questions. Please choose one of the following datasets to work on. **You will be expected to complete all (2) tasks provided for your chosen dataset.**
+Please choose one of the following datasets to work on. **You will be expected to complete all (2) tasks provided for your chosen dataset.**
 <!-- In general, if you're drawing any conclusions regarding causality, please be sure to consult the [extra resources on causal inference](#extra-resources-causal-inference). -->
 
 ### Accessing Datasets
@@ -304,10 +300,14 @@ For the check-in we would like for you to prepare brief answers to the following
 - How would you improve your model based on the outcome?
 - Are there any further extensions to your model that would be worth exploring?
 
-## Final Project Report
-The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later).
+## Checkpoint 3: Project Report First Draft + Internal Peer Review
 
-### [Component 1] Analysis Notebooks
+The first draft of your final report, please see below for more information on what you should aim to submit. You do not need to submit the video and test set performance components for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
+
+## Final Project Report
+The project submission should include the following four components:
+
+### [Component 1] Analysis Notebooks (10%)
 
 This component includes all the Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in your write-up. Make sure that all references to datasets are done as `data/[path to data files]`. By running these notebooks, we should be able to replicate all the analysis/figures done in your write-up.
 
@@ -324,7 +324,7 @@ Your analysis notebook(s) should address all of the following components in the 
   - Are there any further extensions to your model that would be worth exploring?
 
 
-### [Component 2] Project Write-Up
+### [Component 2] Project Write-Up (20%)
 
 This is a single PDF that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, methodology, summary of results, discussion, conclusion, and references. Make sure to number figures and tables, include informative captions, and ensure you include the provenance of the figures in the main narrative. We encourage you to render the PDF using LaTeX, but we will not be able to provide assistance with LaTeX-related issues.
 
@@ -353,6 +353,27 @@ Please submit everything as a zip file to the final report submission portal on 
 
 Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
+### [Component 3] Test Set Performance (10%)
+
+This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). Please find the test data for each task for both projects below (will be updated soon).
+
+#### **Topic 1 (CV)**
+
+`test_images_flooding-fire.npz` is the test for Task A and `test_images_hurricane-matthew.npz` is the test set for Task B; both files are located in `shared/sp24_grad_project_data/satellite-image-data` directory on Data 100 Datahub.
+
+Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to [this](https://www.gradescope.com/courses/696886/assignments/4365006){:target="_blank"} Gradescope assignment. Each CSV should only contain one column named `pred`.
+
+#### **Topic 2 (NLP)**
+
+here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `shared/sp24_grad_project_data/nlp-arena-data` directory on Data 100 Datahub.
+
+Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to [this](https://www.gradescope.com/courses/696886/assignments/4364990){:target="_blank"} Gradescope assignment.
+
+### [Component 4] Video Recording (10%)
+
+Details will be released soon.
+
+
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
 
@@ -374,23 +395,20 @@ This section includes a rubric for how different project deliverables are going 
 - Preliminary Results (1%).
 
 ### Checkpoint 3: Project Report First Draft + Internal Peer Review (20%)
-Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video component for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
-
-
-### Internal Peer Review
+Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video and test set performance components for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
 The internal peer review is a simple google form checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion.
 
 ### External Peer Review (7.5%)
 
-Each group will peer review the projects from another group. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
+Each student will peer review a project from another group. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
 
 1. (1.5%) A summary of the report. The summary should address at least the following:
   - What is the conclusion drawn from the EDA and modeling results?
   - What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
-  - What are the next steps a researcher can take if they want to investigate the question further based off the work in the project?
+  - What are the next steps a researcher can take if they want to improve their model further based off the work in the project?
 
-2. (6%, 1 per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
+2. (6%, 1% per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
   - Data collection and sampling
   - Data cleaning
   - Exploratory data analysis (data wrangling, visualization, etc.)
@@ -402,41 +420,57 @@ The external peer review is also a great chance to learn from other people's wor
 
 ### Final Project Report (50%)
 * Analysis Notebooks (10%)
-* Presentation Video (10%)
 * Project Writeup (20%)
 * Modeling Performance (10%)
+* Presentation Video (10%)
 
 ### Final Report: Analysis Notebook
 
 | Criterion                                             | Points|
 |-------------------------------------------------------|-------|
-| Code readability and documentation                    | 5     |
-| Proper and sufficient utilization of Python libraries | 5     |
-| Overall code quality                                  | 3     |
-| Replicability of the results                          | 7     |
-| **Total**                                             | **20**|
+| Code readability and documentation                    | 3     |
+| Proper and sufficient utilization of Python libraries | 2     |
+| Overall code quality                                  | 2     |
+| Replicability of the results                          | 3     |
+| **Total**                                             | **10**|
 
 ### Final Report: Project Writeup
 
 | Criterion                                                              | Points|
 |------------------------------------------------------------------------|-------|
-| Exploratory data analysis                                              | 6     |
-| Modeling and inference techniques                                      | 7     |
-| Analysis of results                                                    | 7     |
-| Implementation of peer review feedback                                 | 3     |
-| Discussion of potential societal impacts and/or ethical concerns       | 3     |
-| Overall clarity and structure of the report                            | 4     |
-| **Total**                                                              | **30**|
+| Exploratory data analysis                                              | 3     |
+| Modeling and inference techniques                                      | 6     |
+| Analysis of results                                                    | 5     |
+| Implementation of peer review feedback                                 | 2     |
+| Discussion of potential societal impacts and/or ethical concerns       | 2     |
+| Overall clarity and structure of the report                            | 2     |
+| **Total**                                                              | **20**|
 
 ### Final Report: Modeling Performance
 
-| Criterion                                     | Points|
-|-----------------------------------------------|-------|
-| Task 1 reaches baseline performance score     | 3     |
-| Task 1 reaches a reasonable performance score | 2     |
-| Task 2 reaches baseline performance score     | 3     |
-| Task 2 reaches a reasonable performance score | 2     |
-| **Total**                                     | **10**|
+#### **Topic 1 (CV)**
+
+| Task (metric) | Threshold | Points |
+|---------------|-----------|--------|
+| Task A (accuracy) | 0.8131  |   3    |
+|               | 0.9003  |   +1    |
+|               | 0.9927  |   +1    |
+| Task B (F1 score)  | 0.3987  |   3    |
+|               | 0.4334  |   +1    |
+|               | 0.5602  |   +1    |
+| Total         |           |  **10**    |
+
+#### **Topic 2 (NLP)**
+
+| Task (metric)     | Threshold | Points |
+|-------------------|-----------|--------|
+| Task A (accuracy) | 0.50      |   3    |
+|                   | 0.54      |   +2    |
+| Task B (MSE)      | 2.78      |   3    |
+|                   | 2.5       |   +2    |
+| Total             |           |  **10**    |
+
+
 
 <!-- ## Extra Resources: Causal Inference
 
