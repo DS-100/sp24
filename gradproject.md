@@ -401,7 +401,7 @@ The internal peer review is a simple google form checking if each member of the 
 
 ### External Peer Review (7.5%)
 
-Each student will peer review a project from another group. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
+Each student will peer review a project from another group; each student will be graded separately based on the feedback they provide in their review. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
 
 1. (1.5%) A summary of the report. The summary should address at least the following:
   - What is the conclusion drawn from the EDA and modeling results?
