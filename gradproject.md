@@ -448,6 +448,8 @@ The external peer review is also a great chance to learn from other people's wor
 
 ### Final Report: Modeling Performance
 
+For both projects, the maximum for each task is 5 points; please see the thresholds for the tasks below.
+
 #### **Topic 1 (CV)**
 
 | Task (metric) | Threshold | Points |
@@ -464,8 +466,10 @@ The external peer review is also a great chance to learn from other people's wor
 | Task (metric)     | Threshold | Points |
 |-------------------|-----------|--------|
 | Task A (accuracy) | 0.50      |   3    |
+|                   | 0.52      |   4    |
 |                   | 0.54      |   5    |
 | Task B (MSE)      | 2.78      |   3    |
+|                   | 2.64       |   4    |
 |                   | 2.5       |   5    |
 
 
