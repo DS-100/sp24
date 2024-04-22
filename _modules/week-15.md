@@ -4,7 +4,7 @@ title: Week 15
 
 
 Apr 23
-: **Lecture 26**{: .label .label-lecture} KMeans Clustering
+: **Lecture 26**{: .label .label-lecture} [KMeans Clustering](lecture/lec26)
     : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/clustering/clustering.html) - to be updated)
 
 : **Discussion 13**{: .label .label-disc } PCA
