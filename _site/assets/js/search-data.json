@@ -120,7 +120,7 @@
   },"17": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00PM to 4:30PM in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Mondays 10:00AM - 11:00AM in Soda 775Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 14 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
+    "content": "UC Berkeley, Spring 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Joseph E. Gonzalez He/Him/His . jegonzal@cs.berkeley.edu . Office Hours: Tuesdays from 3:00PM to 4:30PM in Soda 773 (Starting Jan 23rd) . Narges Norouzi She/Her/Hers . norouzi@berkeley.edu . Office Hours: Mondays 10:00AM - 11:00AM in Soda 775Thursdays from 1:00 to 2:30PM in Warren Hall (Room 101-BC) . Welcome to Week 15 of Data 100! . Lectures will be webcast at: https://berkeley.zoom.us/j/91646148607. ",
     "url": "/sp24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -211,14 +211,14 @@
   },"30": {
     "doc": "Home / Schedule",
     "title": "Week 12",
-    "content": "Apr 2 Lecture 20 SQL I Note 20 Lecture Participation 20 Lecture Participation 20 Discussion 10 RVs, Bias, and Variance Solution Apr 4 Lecture 21 SQL II Note 21 Lecture Participation 21 Lecture Participation 21 Exam Prep 8 Probability and Bias-Variance Solution Apr 5 Lab 10 SQL (due Apr 9) Homework 7 SQL (due Apr 11) ",
+    "content": "Apr 2 Lecture 20 SQL I Note 20 Lecture Participation 20 Lecture Participation 20 Discussion 10 RVs, Bias, and Variance Solution Apr 4 Lecture 21 SQL II Note 21 Lecture Participation 21 Lecture Participation 21 Exam Prep 8 Probability and Bias-Variance Solution , Video Apr 5 Lab 10 SQL (due Apr 9) Homework 7 SQL (due Apr 11) ",
     "url": "/sp24/#week-12",
     
     "relUrl": "/#week-12"
   },"31": {
     "doc": "Home / Schedule",
     "title": "Week 13",
-    "content": "Apr 9 Lecture 22 Logistic Regression I Note 22 Lecture Participation 22 Lecture Participation 22 Discussion 11 SQL, Discussion Notebook Worksheet Solution, Notebook Solution, Video Apr 11 Lecture 23 Logistic Regression II Note 23 Lecture Participation 23 Lecture Participation 23 Exam Prep 9 SQL Solution Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
+    "content": "Apr 9 Lecture 22 Logistic Regression I Note 22 Lecture Participation 22 Lecture Participation 22 Discussion 11 SQL, Discussion Notebook Worksheet Solution, Notebook Solution, Video Apr 11 Lecture 23 Logistic Regression II Note 23 Lecture Participation 23 Lecture Participation 23 Exam Prep 9 SQL Solution , Video Apr 12 Lab 11 Logistic Regression (due Apr 16) Project B1 Spam &amp; Ham I (due Apr 18) ",
     "url": "/sp24/#week-13",
     
     "relUrl": "/#week-13"
@@ -232,7 +232,7 @@
   },"33": {
     "doc": "Home / Schedule",
     "title": "Week 15",
-    "content": "Apr 23 Lecture 26 KMeans Clustering Discussion 13 PCA . Apr 25 Lecture 27 Guest + closing Apr 26 Lab 13 Clustering (due Apr 30) ",
+    "content": "Apr 23 Lecture 26 KMeans Clustering (Fa23 Note - to be updated) Discussion 13 PCA . Apr 25 Lecture 27 Guest + closing Apr 26 Lab 13 Clustering (due Apr 30) ",
     "url": "/sp24/#week-15",
     
     "relUrl": "/#week-15"

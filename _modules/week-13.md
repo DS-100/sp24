@@ -17,6 +17,7 @@ Apr 11
 : **Lecture Participation 23**{: .label .label-survey } [Lecture Participation 23](https://app.sli.do/event/bom4c2y4hdJhNtb7i3tntp/embed/polls/5646fbc6-0e1c-4abf-963a-e2075747f6b0)
 : **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/10kp5OUCQN9eJmPecaEybVqdx1XCQw80b/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1NXweRvd_2g-LmyEZtPWA-HEwmBQB08FS/view?usp=share_link)
+    , [Video](https://youtu.be/BhFY8Egu1AU)
 
 Apr 12
 : **Lab 11**{: .label .label-lab }  [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab11%2Flab11.ipynb&branch=main){:target="_blank"} (due Apr 16)
