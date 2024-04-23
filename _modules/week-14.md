@@ -9,7 +9,7 @@ Apr 16
     : [Note 24](https://ds100.org/course-notes/pca_1/pca_1.html)
 
 : **Discussion 12**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1Ke_rEdJfdjFhCnZwN64bwYGtklKZRCj7/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/124YSgzRkU0d7S0SbIcGml-0Fhjx9sKrl/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/124YSgzRkU0d7S0SbIcGml-0Fhjx9sKrl/view?usp=sharing){:target="_blank"}, [Video](https://youtu.be/mbm4lw62C3k?si=gVWIVZJZyMyI7jTQ){:target="_blank"}
 
 Apr 18
 : **Lecture 25**{: .label .label-lecture} [PCA II](lecture/lec25)
