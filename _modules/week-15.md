@@ -5,7 +5,7 @@ title: Week 15
 
 Apr 23
 : **Lecture 26**{: .label .label-lecture} [Clustering](lecture/lec26)
-    : ([*Fa23 Note*](https://ds100.org/fa23-course-notes/clustering/clustering.html) - to be updated)
+    : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
 
 : **Discussion 13**{: .label .label-disc } [PCA](https://drive.google.com/file/d/1KZAc2TshjEvBtyFQoihqsHjrJs9VyAPY/view?usp=sharing)
 
