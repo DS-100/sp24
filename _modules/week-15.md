@@ -12,6 +12,7 @@ Apr 23
 
 Apr 25
 : **Lecture 27**{: .label .label-lecture} Guest + closing
+: **Exam Prep 10**{: .label .label-vit } PCA
 
 Apr 26
 : **Lab 13**{: .label .label-lab } Clustering (due Apr 30)
