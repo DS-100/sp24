@@ -8,9 +8,6 @@ markdown: kramdown
 # Graduate Project
 {:.no_toc}
 
-<!--### <span style="color:red"> ⚠️ Warning: This webpage is under construction; nothing here is finalized until it is on ds100.org/fa23/gradproject </span>
-{:.no_toc} -->
-
 * TOC
 {:toc}
 
@@ -19,11 +16,6 @@ markdown: kramdown
 The graduate project is **offered only to students enrolled in Data C200, CS C200A, or Data 200S**. Other students are welcome to explore the questions and datasets in the project for personal learning, but their work will not be graded or counted towards their final grades.
 
 The purpose of the project is to give students experience in both open-ended data science analysis and research in general.
-
-<!-- In this project, you will work with **one or any combination** of the following datasets provided to you to explore research questions that you define. -->
-
-<!-- **Project criteria**: In addition to the general guidelines, each dataset option below has its own set of additional requirements for Report Format and Submission. Be sure to consult the correct section for your project option.) 0-->
-
 
 ## Deliverables
 
@@ -44,8 +36,6 @@ The graduate project element will require the following deliverables:
 
 ## Timeline and Grading Breakdown
 
-<!-- [Internal Peer Review](https://forms.gle/cied6ZzmBToj3ARP9) -->
-
 | Deadline (at 11:59 PM Pacific) | Event / Deliverable                        | Link                                                           | Grading Weight |
 |--------------------------------|--------------------------------------------|----------------------------------------------------------------|----------------|
 | 3/15                           | [Research Proposal and Project Groups]((https://www.gradescope.com/courses/696886/assignments/4322203){:target="_blank"})   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
@@ -64,7 +54,6 @@ The graduate project element will require the following deliverables:
 ## Datasets
 
 Please choose one of the following datasets to work on. **You will be expected to complete all (2) tasks provided for your chosen dataset.**
-<!-- In general, if you're drawing any conclusions regarding causality, please be sure to consult the [extra resources on causal inference](#extra-resources-causal-inference). -->
 
 ### Accessing Datasets
 
@@ -244,13 +233,6 @@ The first deliverable of your group project is just to form your group, choose a
 
 The checkpoint is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your submission should include:
 
-<!-- - **Project Introduction and Goals:** Please briefly introduce your project. Think about introducing your project to someone who has a background in data science but does not know the dataset and your research question. This part should not exceed 500 words. Here are some components to help you get started:
-  - What is the dataset about? How was the data collected? What are the available features and information? What is the size of the dataset?
-  - What questions do you plan to ask about the dataset? Why do we care about such a problem?
-  - What is your workflow for the project? Your first step, second step…
-  - What are the models you plan to use? Why would the model be a good fit for your project? What are potential pitfalls you could run into?
-  - What is your goal for the project? What are the expected deliverables? -->
-
 - **Data Sampling and Collection**
   - How was the data read and sampled for your EDA process?
   - Was there any potential bias introduced in the sampling process?
@@ -283,8 +265,6 @@ Concretely, here are the minimal requirements for EDA for each project. Using yo
   - (Open-ended) Explore the prompt topics in the dataset (topic modeling).
 
 Every member of the group also needs to submit the internal peer review [form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"} for this checkpoint. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
-
-<!-- - **Other Preliminary Results (optional)**: Please optionally post any other preliminary results here for our information. -->
 
 ## Checkpoint 2: Mandatory Check-In
 
@@ -371,8 +351,7 @@ Submit a single CSV file with three columns named `question_id`, `winner`, `hard
 
 ### [Component 4] Video Recording (10%)
 
-Details will be released soon.
-
+The presentation video should provide an overview of your project, highlighting the main points outlined in the write-up. The video should be approximately 5-7 minutes long but can extend up to 10 minutes. You should upload your video to YouTube and include the YouTube link in your final project write-up.
 
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
@@ -471,13 +450,3 @@ For both projects, the maximum for each task is 5 points; please see the thresho
 | Task B (MSE)      | 2.78      |   3    |
 |                   | 2.64       |   4    |
 |                   | 2.5       |   5    |
-
-
-
-<!-- ## Extra Resources: Causal Inference
-
-When studying the relationship between datasets, you might want to consult the following references on causality vs. correlation. Oftentimes, it is tempting to make claims about causal relationships when there is not enough evidence from the data to support such claims. Please review the following references, or other reputable references that you find on the topic to familiarize yourself with relevant concepts and methods.
-
-* [Data 102  Data, Inference, and Decisions Spring 2020: Lecture 13: Causal Inference I. Moritz Hardt.](https://data102.org/sp20/assets/notes/notes13.pdf)
-* [Hernán MA, Robins JM (2020). Causal Inference: What If. Boca Raton: Chapman & Hall/CRC.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-* [Advanced Data Analysis from an Elementary Point of View by Cosma Rohilla Shalizi](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) -->
