@@ -41,8 +41,8 @@ The graduate project element will require the following deliverables:
 | 3/15                           | [Research Proposal and Project Groups]((https://www.gradescope.com/courses/696886/assignments/4322203){:target="_blank"})   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
 | 3/22 ([3/24 Extension](https://edstem.org/us/courses/51810/discussion/4604306){:target="_blank"})                           | [Checkpoint 1: EDA]((https://www.gradescope.com/courses/696886/assignments/4247160){:target="_blank"}) + [Internal Peer Review 1](https://www.gradescope.com/courses/696886/assignments/4327698){:target="_blank"} |  [Internal Peer Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}   | 10%            |
 | Week of 4/8                    | [Checkpoint 2: Mandatory Check-in with TA]((https://www.gradescope.com/courses/696886/assignments/4312054){:target="_blank"})   |                                                                | 7.5%           |
-| 4/19                           | Internal Peer Review 2 Due                 |   [Internal Peer Review Form](https://forms.gle/XpYfvoMrNHBq8cFy7){:target="_blank"}                                                             | 5%            |
-| 4/26                           | First Draft of Final Report Due            |                                                                | 15%           |
+| 4/19                           | Internal Peer Review 2 Due                 |   [Internal Peer Review Form](https://forms.gle/XpYfvoMrNHBq8cFy7){:target="_blank"}                                                             | 2%            |
+| 4/26                           | First Draft of Final Report Due            |                                                                | 18%           |
 | 5/3                            | External Peer Review Due                   |                                                                | 7.5%           |
 | 5/10                           | Final Project Report and Presentation Video|                                                                | 50%            |
 
