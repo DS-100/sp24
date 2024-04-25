@@ -13,7 +13,7 @@ Apr 23
     <!-- [Video](https://youtu.be/_Mh7aGwg2ZI?si=KWExe_RXbhWrigAn){:target="_blank"} -->
 
 Apr 25
-: **Lecture 27**{: .label .label-lecture} Guest + closing
+: **Lecture 27**{: .label .label-lecture} [Intro to LLMs and Conclusion](lecture/lec27)
 : **Exam Prep 11**{: .label .label-vit } PCA
 
 Apr 26
