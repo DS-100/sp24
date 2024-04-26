@@ -19,4 +19,4 @@ Apr 25
 
 
 Apr 26
-: **Lab 13**{: .label .label-lab } Clustering (due Apr 30)
+: **Lab 13**{: .label .label-lab } [Clustering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab13%2Flab13.ipynb&branch=main){:target="_blank"} (due Apr 30)
