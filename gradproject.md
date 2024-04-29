@@ -435,10 +435,10 @@ For both projects, the maximum for each task is 5 points; please see the thresho
 |---------------|-----------|--------|
 | Task A (accuracy) | 0.8131  |   3    |
 |               | 0.9093  |   4    |
-|               | 0.9927  |   5    |
+|               | 0.9800  |   5    |
 | Task B (F1 score)  | 0.3987  |   3    |
 |               | 0.4334  |   4    |
-|               | 0.5602  |   5    |
+|               | 0.5300  |   5    |
 
 #### **Topic 2 (NLP)**
 
