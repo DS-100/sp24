@@ -43,7 +43,7 @@ The graduate project element will require the following deliverables:
 | Week of 4/8                    | [Checkpoint 2: Mandatory Check-in with TA](https://www.gradescope.com/courses/696886/assignments/4312054){:target="_blank"}   |                                                                | 7.5%           |
 | 4/19 (4/28 Extension)                           | Internal Peer Review 2                 |   [Internal Peer Review Form](https://forms.gle/XpYfvoMrNHBq8cFy7){:target="_blank"}                                                             | 2%            |
 | 4/26 (4/28 Extension)                           | First Draft of Final Report ([write-up](https://www.gradescope.com/courses/696886/assignments/4390926){:target="_blank"}, [coding](https://www.gradescope.com/courses/696886/assignments/4390929){:target="_blank"})            |                                                                | 18%           |
-| 5/3                            | External Peer Review Due                   |                                                                | 7.5%           |
+| 5/3 (5/4 Extension)                            | External Peer Review Due                   |                                                                | 7.5%           |
 | 5/10                           | Final Project Report and Presentation Video|                                                                | 50%            |
 
 ### Late Policy
