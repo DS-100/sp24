@@ -17,6 +17,8 @@ Apr 18
 : **Lecture Participation 25**{: .label .label-survey } [Lecture Participation 25](https://app.sli.do/event/xhBPBv2ZfDqw2bJLqj2ohg/embed/polls/a7cedc34-209c-4c88-8757-5a75aa38e3bd)
 : **Exam Prep 10**{: .label .label-vit } [Logistic Regression](https://drive.google.com/file/d/1abiI1v0XSDWjRDIdVmb9udK7itLegPvT/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1xYTiyh7F-8vBGLUkS4Q_f7T9-tcBxJkC/view?usp=sharing)
+    , [Video](https://youtu.be/Oh6zfzmQQmI?si=qyPgJczUAUMM8Sao)
+
 
 
 
