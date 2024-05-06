@@ -113,7 +113,7 @@ The agency consists of different subdivisions for assisting with different disas
 
 Your task is to assist the agency with making this initial call quickly by automatically classifying images based on the disaster scenario. Specifically, your role will be to build a classifier that can distinguish images from the `midwest-flooding` disaster and the `socal-fire` disaster.
 
-To assess your performance, please submit predictions for the `test_images_flooding-fire.npz` images. This should be in a csv file `test_images_flooding-fire_predictions.csv` consisting of a single column with no header, with a 0 to indicate a `midwest-flooding` prediction and a 1 to indicate a `socal-fire` prediction. The prediction in row *i* should correspond to the *ith* image.
+To assess your performance, please submit predictions for the `test_images_flooding-fire.npz` images. This should be in a csv file `test_images_flooding-fire_predictions.csv` consisting of a single column named `pred`, with a 0 to indicate a `midwest-flooding` prediction and a 1 to indicate a `socal-fire` prediction. The prediction in row *i* should correspond to the *ith* image.
 
 #### *Task B: Damage Level Classification*
 {:.no_toc}
@@ -121,7 +121,7 @@ The agency needs to know how severe a disaster is in order to allocate resources
 
 Your task is to assist the agency by automatically detecting the building damage level after a disaster. Specifically, create a damage level classifier for the `hurricane-matthew` disaster.
 
-To assess your performance, please submit predictions for the `test_images_hurricane-matthew.npz` images. This should be in a CSV file `test_images_hurricane-matthew_predictions.csv` consisting of a single column with no header, with a 0-3 prediction of the damage level. The prediction in row *i* should correspond to the *i*th image.
+To assess your performance, please submit predictions for the `test_images_hurricane-matthew.npz` images. This should be in a CSV file `test_images_hurricane-matthew_predictions.csv` consisting of a single column named `pred`, with a 0-3 prediction of the damage level. The prediction in row *i* should correspond to the *i*th image.
 
 #### Resources
 {:.no_toc}
@@ -335,7 +335,7 @@ Please use student IDs joined by `_` as the name for the top-level directory. Th
 
 ### [Component 3] Test Set Performance (10%)
 
-This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). You will need to submit your predictions to Gradescope to get your test performance; you will be allowed to upload up to 4 times a day. Please find the test data for each task for both projects below. 
+This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). You will need to submit your predictions to Gradescope to get your test performance; you will be allowed to upload up to 4 times a day. Please find the test data for each task for both projects below.
 
 #### **Topic 1 (CV)**
 
