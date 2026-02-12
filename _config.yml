@@ -29,6 +29,9 @@ permalink: pretty
 
 # External navigation links
 nav_external_links:
+  - title: Course Acknowledgements
+    url: https://ds100.org/acknowledgements/
+    hide_icon: true
   - title: Course Notes
     url: https://ds100.org/course-notes/
     hide_icon: true
