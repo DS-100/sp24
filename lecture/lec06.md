@@ -4,6 +4,9 @@ title: Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 6 – Data Wrangling and EDA (Part 2) & Text Wrangling and Regex
 
 Presented by Joseph E. Gonzalez 
